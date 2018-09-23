@@ -18,9 +18,8 @@ public class Main extends Application {
 	public void start(Stage primaryStage) {
 		principal = primaryStage;
 		try {
-			Parent root = FXMLLoader.load(getClass().getResource("/resources/Main.fxml"));
+			Parent root = FXMLLoader.load(getClass().getResource("MainView.fxml"));
 			Scene scene = new Scene(root);
-			scene.getStylesheets().add(getClass().getResource("application.css").toExternalForm());
 			principal.setScene(scene);
 			principal.initStyle(StageStyle.UNDECORATED);
 			principal.show();

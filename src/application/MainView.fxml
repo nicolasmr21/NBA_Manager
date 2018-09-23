@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="561.0" prefWidth="1187.0" style="-fx-background-color: #e8eaf6;" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.MainController">
+   <children>
+      <BorderPane fx:id="borderPane" layoutY="1.0" prefHeight="560.0" prefWidth="1175.0">
+         <left>
+            <AnchorPane prefHeight="537.0" prefWidth="196.0" style="-fx-background-color: #e8eaf6;" BorderPane.alignment="CENTER">
+               <children>
+                  <VBox layoutX="4.0" layoutY="175.0" prefHeight="383.0" prefWidth="187.0" stylesheets="@application.css">
+                     <children>
+                        <Button fx:id="btnInsertData" mnemonicParsing="false" onAction="#insertData" prefHeight="80.0" prefWidth="210.0" text="INSERTAR DATOS">
+                           <font>
+                              <Font name="Bauhaus 93" size="1.0" />
+                           </font>
+                        </Button>
+                        <Button fx:id="btnAddPlayer" mnemonicParsing="false" onAction="#addPlayer" prefHeight="80.0" prefWidth="207.0" text="GESTIONAR JUGADOR" />
+                        <Button fx:id="btnSearchPlayer" mnemonicParsing="false" onAction="#searchPlayer" prefHeight="80.0" prefWidth="208.0" text="CONSULTA INDIVIDUAL" />
+                        <Button fx:id="btnSearchStatistic" mnemonicParsing="false" onAction="#searchStatistic" prefHeight="80.0" prefWidth="187.0" text="CONSULTA ESTADISTICA" textAlignment="CENTER" />
+                        <Button fx:id="btnBack" mnemonicParsing="false" onAction="#goBack" prefHeight="80.0" prefWidth="185.0" text="SALIR" />
+                     </children>
+                  </VBox>
+                  <ImageView fitHeight="195.0" fitWidth="196.0" onMouseDragReleased="#pushImage" onMouseReleased="#pushImage" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../image/icon.png" />
+                     </image>
+                  </ImageView>
+               </children>
+            </AnchorPane>
+         </left>
+         <center>
+            <AnchorPane prefHeight="200.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+               <children>
+                  <ImageView fitHeight="160.0" fitWidth="747.0" layoutX="123.0" layoutY="14.0" pickOnBounds="true" preserveRatio="true">
+                     <image>
+                        <Image url="@../../image/1.png" />
+                     </image>
+                  </ImageView>
+                  <StackPane layoutX="172.0" layoutY="160.0" prefHeight="364.0" prefWidth="635.0" style="-fx-background-color: #e8eaf6;">
+                     <children>
+                        <Circle fx:id="c1" fill="#6483a100" radius="162.0" stroke="#0dfbfb" strokeType="INSIDE" strokeWidth="12.0" style="-fx-stroke-dash-array: 40;" />
+                        <Circle fx:id="c3" fill="#6483a100" radius="76.0" stroke="#0dfbfb" strokeType="INSIDE" strokeWidth="8.0" style="-fx-stroke-dash-array: 20;" />
+                        <Circle fx:id="c2" fill="#6483a100" radius="122.0" stroke="#201c2c" strokeType="INSIDE" strokeWidth="10.0" style="-fx-stroke-dash-array: 60;" />
+                        <ImageView fitHeight="76.0" fitWidth="125.0" pickOnBounds="true" preserveRatio="true">
+                           <image>
+                              <Image url="@../../image/YpGd.gif" />
+                           </image>
+                        </ImageView>
+                     </children>
+                  </StackPane>
+               </children>
+            </AnchorPane>
+         </center>
+      </BorderPane>
+   </children>
+</AnchorPane>

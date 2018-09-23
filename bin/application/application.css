@@ -4,9 +4,9 @@
 */
 
 * {
-    -fx-primary : #b7b8bc;
-    -fx-secondary : #ffffe8;
-    -fx-primarytext : #B2B2B2;
+    -fx-primary : #201c2c;
+    -fx-secondary : #0dfbfb;
+    -fx-primarytext : #ffffff;
     -fx-blue: #1976D2;
     -fx-red: #FF0000;
     -fx-color-1:#1976D2;
@@ -25,17 +25,17 @@
     -fx-text-fill: -fx-primarytext;
     -fx-background-color: -fx-primary;
     -fx-border-color: -fx-secondary;
-    -fx-border-radius: 20px;
-    -fx-background-radius: 20px;
-    -fx-font-size: 12pt;
+    -fx-border-radius: 30px;
+    -fx-background-radius: 30px;
+    -fx-font-size: 10pt;
 }
 
 .button{
     -fx-text-fill: -fx-primarytext;
     -fx-background-color: -fx-primary;
     -fx-border-color: -fx-secondary;
-    -fx-background-radius: 20px;
-    -fx-font-size: 12pt;
+    -fx-background-radius: 30px;
+    -fx-font-size: 10pt;
 }
 
 

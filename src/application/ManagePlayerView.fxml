@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.shape.Circle?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="560.0" prefWidth="980.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.ManagePlayerController">
+   <children>
+      <BorderPane fx:id="borderPane" prefHeight="568.0" prefWidth="986.0">
+         <top>
+            <AnchorPane prefHeight="99.0" prefWidth="986.0" BorderPane.alignment="CENTER">
+               <children>
+                  <Button fx:id="btnPlayer" layoutX="78.0" layoutY="22.0" mnemonicParsing="false" onAction="#addPlayer" prefHeight="56.0" prefWidth="165.0" stylesheets="@application.css" text="Agregar jugador" />
+                  <Button fx:id="btnModify" layoutX="394.0" layoutY="22.0" mnemonicParsing="false" onAction="#ModifyPlayer" prefHeight="56.0" prefWidth="165.0" stylesheets="@application.css" text="Modificar jugador" />
+                  <Button fx:id="btnRemove" layoutX="721.0" layoutY="22.0" mnemonicParsing="false" onAction="#RemovePlayer" prefHeight="56.0" prefWidth="165.0" stylesheets="@application.css" text="Eliminar jugador" />
+               </children>
+            </AnchorPane>
+         </top>
+         <center>
+            <StackPane prefHeight="150.0" prefWidth="200.0" BorderPane.alignment="CENTER">
+               <children>
+                  <Circle fx:id="c1" fill="#00ebeb00" radius="174.0" stroke="#0dfbfb" strokeType="INSIDE" strokeWidth="15.0" style="-fx-stroke-dash-array: 40;" />
+                  <Circle fx:id="c2" disable="true" fill="#201c2c00" radius="135.0" stroke="#201c2c" strokeType="INSIDE" strokeWidth="15.0" style="-fx-stroke-dash-array: 40;" />
+                  <Circle fx:id="c3" fill="#2466a400" radius="84.0" stroke="#0dfbfb" strokeType="INSIDE" strokeWidth="15.0" style="-fx-stroke-dash-array: 40;" />
+               </children>
+            </StackPane>
+         </center>
+      </BorderPane>
+   </children>
+</AnchorPane>
