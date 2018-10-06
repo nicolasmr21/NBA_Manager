@@ -1,20 +1,25 @@
 package NBAUtil;
 
-public class AVLTree<K, V> implements IAVLTree<K, V>{
+public class AVLTree<K, V> implements IBinaryTree<K, V>{
 
 	
-	private AVLNode<K, V> root;
+	private Node<K, V> root;
 	
 	public AVLTree() {
 		root = null;
 	}
 	@Override
-	public AVLNode<K, V> getRoot()
+	public Node<K, V> getRoot()
 	{
 		return root;
 	}
-@Override
-	public AVLNode<K, V> search(K key, AVLNode<K, V> node)
+	@Override
+	public Node<K, V> search(K key)
+	{
+		return searchAVL(key, root);
+	}
+
+	public Node<K, V> searchAVL(K key, Node<K, V> node)
 	{
 		if(node!=null)
 		{
@@ -26,11 +31,11 @@ public class AVLTree<K, V> implements IAVLTree<K, V>{
 			}
 			else if(s<d)
 			{
-				return search(key, node.getRight());
+				return searchAVL(key, node.getRight());
 			}
 			else
 			{
-				return search(key, node.getLeft());
+				return searchAVL(key, node.getLeft());
 			}
 		}
 		else
@@ -39,7 +44,7 @@ public class AVLTree<K, V> implements IAVLTree<K, V>{
 		}
 	}
 	
-	private int getFe(AVLNode<K, V> node)
+	private int getFe(Node<K, V> node)
 	{
 		if(node==null)
 		{
@@ -51,9 +56,9 @@ public class AVLTree<K, V> implements IAVLTree<K, V>{
 		}
 	}
 	
-	private AVLNode<K, V> leftRotation(AVLNode<K, V> node)
+	private Node<K, V> leftRotation(Node<K, V> node)
 	{
-		AVLNode<K, V> help = node.getLeft();
+		Node<K, V> help = node.getLeft();
 		node.setLeft(help.getRight());
 		help.setRight(node);
 		node.setFe(Math.max(getFe(node.getLeft()), getFe(node.getRight()))+1);
@@ -61,9 +66,9 @@ public class AVLTree<K, V> implements IAVLTree<K, V>{
 		return help;
 	}
 	
-	private AVLNode<K, V> rightRotation(AVLNode<K, V> node)
+	private Node<K, V> rightRotation(Node<K, V> node)
 	{
-		AVLNode<K, V> help = node.getRight();
+		Node<K, V> help = node.getRight();
 		node.setRight(help.getLeft());
 		help.setLeft(node);
 		node.setFe(Math.max(getFe(node.getLeft()), getFe(node.getRight()))+1);
@@ -71,23 +76,23 @@ public class AVLTree<K, V> implements IAVLTree<K, V>{
 		return help;
 	}
 	
-	private AVLNode<K, V> doubleLeftRotation(AVLNode<K, V> node)
+	private Node<K, V> doubleLeftRotation(Node<K, V> node)
 	{
 		node.setLeft(rightRotation(node.getLeft()));
-		AVLNode<K, V> help = leftRotation(node);
+		Node<K, V> help = leftRotation(node);
 		return help;
 	}
 	
-	private AVLNode<K, V> doubleRightRotation(AVLNode<K, V> node)
+	private Node<K, V> doubleRightRotation(Node<K, V> node)
 	{
 		node.setRight(leftRotation(node.getRight()));
-		AVLNode<K, V> help = rightRotation(node);
+		Node<K, V> help = rightRotation(node);
 		return help;
 	}
 	
-	private AVLNode<K, V> insertAVL(AVLNode<K, V> novo, AVLNode<K, V> sub)
+	private Node<K, V> insertAVL(Node<K, V> novo, Node<K, V> sub)
 	{
-		AVLNode<K, V> dad = sub;
+		Node<K, V> dad = sub;
 		if(novo.getKey().hashCode()<sub.getKey().hashCode())
 		{
 			if(sub.getLeft()==null)
@@ -111,7 +116,7 @@ public class AVLTree<K, V> implements IAVLTree<K, V>{
 			}
 			
 		}
-		else if(novo.getKey().hashCode()>sub.getKey().hashCode())
+		else
 		{
 			if(sub.getRight()==null)
 			{
@@ -148,7 +153,7 @@ public class AVLTree<K, V> implements IAVLTree<K, V>{
 		return dad;
 	}
 	@Override
-	public void insert(AVLNode<K, V> novo)
+	public void insert(Node<K, V> novo)
 	{
 		if(root==null)
 		{
@@ -157,16 +162,6 @@ public class AVLTree<K, V> implements IAVLTree<K, V>{
 		else
 		{
 			root = insertAVL(novo, root);
-		}
-	}
-	
-	public void preOrden(AVLNode<K, V> node)
-	{
-		if(node != null)
-		{
-			preOrden(node.getLeft());
-			System.out.println(node.getKey());
-			preOrden(node.getRight());
 		}
 	}
 
