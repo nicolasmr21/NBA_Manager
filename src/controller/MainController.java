@@ -23,6 +23,7 @@ import javafx.scene.layout.BorderPane;
 import javafx.scene.shape.Circle;
 import javafx.stage.Stage;
 import javafx.util.Duration;
+import model.FIBA;
 
 public class MainController implements Initializable {
 	
@@ -116,6 +117,8 @@ public class MainController implements Initializable {
 			btnInsertData.setFocusTraversable(false);
 			btnSearchPlayer.setFocusTraversable(false);
 			btnSearchStatistic.setFocusTraversable(false);
+			
+			FIBA f = new FIBA();
 			
 		}
 		

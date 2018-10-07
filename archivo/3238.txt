@@ -1,0 +1,1 @@
+Joe Smith,32,CLE,smithjo02,27,0.8,13.4,5.6,2.2

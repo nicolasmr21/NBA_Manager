@@ -1,0 +1,1 @@
+Fred Jones,23,IND,jonesfr01,19,2.7,4.4,6.7,0.6

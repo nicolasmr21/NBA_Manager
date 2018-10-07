@@ -1,0 +1,1 @@
+Stromile Swift,25,MEM,swiftst01,60,1.7,12.8,6.2,5.7
