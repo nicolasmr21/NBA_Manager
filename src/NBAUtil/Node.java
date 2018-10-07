@@ -1,13 +1,13 @@
 package NBAUtil;
 
-public class AVLNode<K, V> {
+public class Node<K, V> {
 
 	private K key;
 	private V val;
 	private int fe;
-	private AVLNode<K, V> left, right;
+	private Node<K, V> left, right;
 	
-	public AVLNode(K k, V v) {
+	public Node(K k, V v) {
 		key = k;
 		val = v;
 		fe = 0;
@@ -20,16 +20,16 @@ public class AVLNode<K, V> {
 	public V getVal() {
 		return val;
 	}
-	public AVLNode<K, V> getLeft() {
+	public Node<K, V> getLeft() {
 		return left;
 	}
-	public void setLeft(AVLNode<K, V> izq) {
+	public void setLeft(Node<K, V> izq) {
 		this.left = izq;
 	}
-	public AVLNode<K, V> getRight() {
+	public Node<K, V> getRight() {
 		return right;
 	}
-	public void setRight(AVLNode<K, V> der) {
+	public void setRight(Node<K, V> der) {
 		this.right = der;
 	}
 	public int getFe() {
