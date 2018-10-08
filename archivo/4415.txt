@@ -1,0 +1,1 @@
+Joe Smith,34,ATL,smithjo02,64,0.5,15.5,5.3,2.4

@@ -5,19 +5,19 @@
 <?import javafx.scene.image.Image?>
 <?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Circle?>
 <?import javafx.scene.text.Text?>
 
-
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="460.0" prefWidth="980.0" style="-fx-background-color: #e8eaf6;" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/10.0.1">
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="460.0" prefWidth="980.0" style="-fx-background-color: #e8eaf6;" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.ManagePlayerController">
    <children>
       <AnchorPane layoutX="38.0" layoutY="30.0" prefHeight="244.0" prefWidth="278.0">
          <children>
-            <TextField prefHeight="43.0" prefWidth="273.0" promptText="Nombre" />
-            <ImageView fitHeight="183.0" fitWidth="189.0" layoutX="48.0" layoutY="53.0" pickOnBounds="true" preserveRatio="true">
+            <ImageView fitHeight="226.0" fitWidth="214.0" layoutX="32.0" layoutY="15.0" pickOnBounds="true" preserveRatio="true">
                <image>
                   <Image url="@../../image/michael-jordan-logo-png-4.png" />
                </image>
             </ImageView>
+            <Circle fx:id="c4" fill="#ff1f1f00" layoutX="139.0" layoutY="122.0" radius="133.0" stroke="#201c2c" strokeType="INSIDE" strokeWidth="10.0" style="-fx-stroke-dash-array: 40;" />
          </children>
       </AnchorPane>
       <AnchorPane layoutX="336.0" layoutY="14.0" prefHeight="160.0" prefWidth="628.0" style="-fx-background-color: #201c2c;">
@@ -26,10 +26,10 @@
             <Text fill="WHITE" fontSmoothingType="LCD" layoutX="48.0" layoutY="64.0" strokeType="OUTSIDE" strokeWidth="0.0" text="EDAD" textAlignment="CENTER" wrappingWidth="61.13671875" />
             <Text fill="WHITE" fontSmoothingType="LCD" layoutX="48.0" layoutY="102.0" strokeType="OUTSIDE" strokeWidth="0.0" text="EQUIPO" textAlignment="CENTER" wrappingWidth="61.13671875" />
             <Text fill="WHITE" fontSmoothingType="LCD" layoutX="48.0" layoutY="136.0" strokeType="OUTSIDE" strokeWidth="0.0" text="PLAYER ID" textAlignment="CENTER" wrappingWidth="61.13671875" />
-            <TextField layoutX="181.0" layoutY="10.0" prefHeight="25.0" prefWidth="392.0" />
-            <TextField layoutX="181.0" layoutY="47.0" prefHeight="25.0" prefWidth="392.0" />
-            <TextField layoutX="181.0" layoutY="85.0" prefHeight="25.0" prefWidth="392.0" />
-            <TextField layoutX="181.0" layoutY="119.0" prefHeight="25.0" prefWidth="392.0" />
+            <TextField layoutX="181.0" layoutY="10.0" prefHeight="25.0" prefWidth="392.0" promptText="Nombre" />
+            <TextField layoutX="181.0" layoutY="47.0" prefHeight="25.0" prefWidth="392.0" promptText="Edad" />
+            <TextField layoutX="181.0" layoutY="85.0" prefHeight="25.0" prefWidth="392.0" promptText="Equipo" />
+            <TextField layoutX="181.0" layoutY="119.0" prefHeight="25.0" prefWidth="392.0" promptText="ID" />
          </children>
       </AnchorPane>
       <AnchorPane layoutX="336.0" layoutY="201.0" prefHeight="226.0" prefWidth="628.0" style="-fx-background-color: #201c2c;">
@@ -38,16 +38,16 @@
             <Text fill="WHITE" fontSmoothingType="LCD" layoutX="11.0" layoutY="64.0" strokeType="OUTSIDE" strokeWidth="0.0" text="PUNTOS POR PATIDO" textAlignment="CENTER" wrappingWidth="134.13671875" />
             <Text fill="WHITE" fontSmoothingType="LCD" layoutX="19.0" layoutY="102.0" strokeType="OUTSIDE" strokeWidth="0.0" text="REBOTES POR PARTIDO" textAlignment="CENTER" wrappingWidth="134.13672041147947" />
             <Text fill="WHITE" fontSmoothingType="LCD" layoutX="14.0" layoutY="136.0" strokeType="OUTSIDE" strokeWidth="0.0" text="ROBOS POR PARTIDO" textAlignment="CENTER" wrappingWidth="144.13671875" />
-            <TextField layoutX="181.0" layoutY="10.0" prefHeight="25.0" prefWidth="392.0" />
-            <TextField layoutX="181.0" layoutY="47.0" prefHeight="25.0" prefWidth="392.0" />
-            <TextField layoutX="181.0" layoutY="85.0" prefHeight="25.0" prefWidth="392.0" />
-            <TextField layoutX="181.0" layoutY="119.0" prefHeight="25.0" prefWidth="392.0" />
+            <TextField layoutX="181.0" layoutY="10.0" prefHeight="25.0" prefWidth="392.0" promptText="G" />
+            <TextField layoutX="181.0" layoutY="47.0" prefHeight="25.0" prefWidth="392.0" promptText="PER" />
+            <TextField layoutX="181.0" layoutY="85.0" prefHeight="25.0" prefWidth="392.0" promptText="TRB" />
+            <TextField layoutX="181.0" layoutY="119.0" prefHeight="25.0" prefWidth="392.0" promptText="STL" />
             <Text fill="WHITE" fontSmoothingType="LCD" layoutX="16.0" layoutY="169.0" strokeType="OUTSIDE" strokeWidth="0.0" text="BLOQUEOS POR PARTIDO" textAlignment="CENTER" wrappingWidth="144.13672522641718" />
-            <TextField layoutX="181.0" layoutY="152.0" prefHeight="25.0" prefWidth="392.0" />
-            <TextField layoutX="181.0" layoutY="187.0" prefHeight="25.0" prefWidth="392.0" />
+            <TextField layoutX="181.0" layoutY="152.0" prefHeight="25.0" prefWidth="392.0" promptText="BLK" />
+            <TextField layoutX="181.0" layoutY="187.0" prefHeight="25.0" prefWidth="392.0" promptText="MP" />
             <Text fill="WHITE" fontSmoothingType="LCD" layoutX="33.0" layoutY="204.0" strokeType="OUTSIDE" strokeWidth="0.0" text="MINUTOS JUGADOS" textAlignment="CENTER" wrappingWidth="111.13672334700823" />
          </children>
       </AnchorPane>
-      <Button layoutX="62.0" layoutY="314.0" mnemonicParsing="false" prefHeight="60.0" prefWidth="214.0" stylesheets="@application.css" text="AGREGAR" />
+      <Button layoutX="62.0" layoutY="314.0" mnemonicParsing="false" onAction="#addPlayer" prefHeight="60.0" prefWidth="214.0" stylesheets="@application.css" text="AGREGAR" />
    </children>
 </AnchorPane>

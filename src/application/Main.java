@@ -4,6 +4,7 @@ import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.stage.Stage;
 import javafx.stage.StageStyle;
+import model.FIBA;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.scene.layout.BorderPane;
@@ -23,6 +24,7 @@ public class Main extends Application {
 			principal.setScene(scene);
 			principal.initStyle(StageStyle.UNDECORATED);
 			principal.show();
+			FIBA f = new FIBA();
 		} catch(Exception e) {
 			e.printStackTrace();
 	}

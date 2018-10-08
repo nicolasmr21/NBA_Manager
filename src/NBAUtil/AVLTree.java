@@ -13,13 +13,14 @@ public class AVLTree<K, V> implements IBinaryTree<K, V>{
 	{
 		return root;
 	}
-	@Override
+
+	
 	public Node<K, V> search(K key)
 	{
 		return searchAVL(key, root);
 	}
 
-	public Node<K, V> searchAVL(K key, Node<K, V> node)
+	private Node<K, V> searchAVL(K key, Node<K, V> node)
 	{
 		if(node!=null)
 		{
@@ -128,7 +129,7 @@ public class AVLTree<K, V> implements IBinaryTree<K, V>{
 			}
 			if(getFe(sub.getRight())-getFe(sub.getLeft())==2)
 			{
-				if(novo.getKey().hashCode()>sub.getRight().getKey().hashCode())
+				if(novo.getKey().hashCode()>=sub.getRight().getKey().hashCode())
 				{
 					dad = rightRotation(sub);
 				}
