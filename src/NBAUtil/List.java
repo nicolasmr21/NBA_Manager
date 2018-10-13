@@ -63,6 +63,12 @@ public class List<T> implements IList<T>  {
 		return size;
 	}
 	
+	public void addList(List<T> l)
+	{
+		for (int i = 0; i < l.size; i++) {
+			add(l.get(i));
+		}
+	}
 
 
 }

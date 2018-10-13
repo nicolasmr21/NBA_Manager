@@ -67,5 +67,18 @@ public class RBNode<K, V>{
 	public List<V> getVal() {
 		return vals;
 	}
-
+	public List<V> getSubTree()
+	{
+		List<V> l = new List<>();
+		l.addList(vals);
+		if(right!=null)
+		{
+			l.addList(right.getSubTree());
+		}
+		if(left!=null)
+		{
+			l.addList(left.getSubTree());
+		}
+		return l;
+	}
 }

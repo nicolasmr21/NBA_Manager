@@ -46,4 +46,19 @@ public class Node<K, V> {
 	public void setDad(Node<K, V> dad) {
 		this.dad = dad;
 	}
+	
+	public List<V> getSubTree()
+	{
+		List<V> l = new List<>();
+		l.addList(vals);
+		if(right!=null)
+		{
+			l.addList(right.getSubTree());
+		}
+		if(left!=null)
+		{
+			l.addList(left.getSubTree());
+		}
+		return l;
+	}
 }

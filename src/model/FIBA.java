@@ -125,5 +125,68 @@ public class FIBA {
 		return stealsRBT.search(steals).getVal();
 	}
 	
+	//Search by bigger sign
+	
+	public List<String> searchMoreMatchesAVL(int matches)
+	{
+		return matchesAVL.getBiggerThan(matches);
+	}
+	
+	public List<String> searchMoreMatchesBBS(int matches)
+	{
+		return matchesBST.getBiggerThan(matches);
+	}
+	
+	public List<String> searchMorePointsRBT(double points)
+	{
+		return pointsRBT.getBiggerThan(points);
+	}
+	
+	public List<String> searchMorePointsBST(double points)
+	{
+		return pointsBST.getBiggerThan(points);
+	}
+	
+	public List<String> searchMoreReboundsAVL(double rebounds)
+	{
+		return reboundsAVL.getBiggerThan(rebounds);
+	}
+	
+	public List<String> searchMoreStealsRBT(double steals)
+	{
+		return stealsRBT.getBiggerThan(steals);
+	}
+	
+	//Search by less sign
+	
+	public List<String> searchLessMatchesAVL(int matches)
+	{
+		return matchesAVL.getLessThan(matches);
+	}
+	
+	public List<String> searchLessMatchesBBS(int matches)
+	{
+		return matchesBST.getLessThan(matches);
+	}
+	
+	public List<String> searchLessPointsRBT(double points)
+	{
+		return pointsRBT.getLessThan(points);
+	}
+	
+	public List<String> searchLessPointsBST(double points)
+	{
+		return pointsBST.getLessThan(points);
+	}
+	
+	public List<String> searchLessReboundsAVL(double rebounds)
+	{
+		return reboundsAVL.getLessThan(rebounds);
+	}
+	
+	public List<String> searchLessStealsRBT(double steals)
+	{
+		return stealsRBT.getLessThan(steals);
+	}
 	
 }
