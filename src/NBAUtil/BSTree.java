@@ -33,17 +33,24 @@ public class BSTree<K, V> implements IBinaryTree<K, V>{
 					if(aux==null)
 					{
 						dad.setLeft(node);
+						node.setDad(dad);
 						return;
 					}
 				}
-				else
+				else if(node.getKey().hashCode()>aux.getKey().hashCode())
 				{
 					aux = aux.getRight();
 					if(aux==null)
 					{
 						dad.setRight(node);
+						node.setDad(dad);
 						return;
 					}
+				}
+				else
+				{
+					dad.getVal().add(node.getVal().get(0));
+					return;
 				}
 			}
 		}

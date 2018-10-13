@@ -4,15 +4,14 @@ import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.io.PrintWriter;
-
 import NBAUtil.AVLTree;
 import NBAUtil.BSTree;
+import NBAUtil.List;
 import NBAUtil.Node;
+import NBAUtil.RBNode;
 import NBAUtil.RBTree;
 
 public class FIBA {
@@ -35,7 +34,6 @@ public class FIBA {
 		pointsRBT = new RBTree<>();
 		reboundsAVL = new AVLTree<>();
 		stealsRBT = new RBTree<>();
-		
 		uploadPlayers();
 	}
 	
@@ -65,9 +63,9 @@ public class FIBA {
 				matchesBST.insert(new Node<Integer, String>(p.getMp(), ""+x));
 				matchesAVL.insert(new Node<Integer, String>(p.getMp(), ""+x));
 				pointsBST.insert(new Node<Double, String>(p.getPpm(), ""+x)); 
-				pointsRBT.insert(new Node<Double, String>(p.getPpm(), ""+x)); 
+				pointsRBT.insertRB(new RBNode<Double, String>(p.getPpm(), ""+x)); 
 				reboundsAVL.insert(new Node<Double, String>(p.getRpm(), ""+x));
-				stealsRBT.insert(new Node<Double, String>(p.getSpm(), ""+x)); 
+				stealsRBT.insertRB(new RBNode<Double, String>(p.getSpm(), ""+x)); 
 			
 				
 				String path="archivo/"+x+".txt";
@@ -88,7 +86,6 @@ public class FIBA {
 	            x++;
 			}
 			
-			
 			br.close();
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
@@ -97,33 +94,36 @@ public class FIBA {
 		}
 	}
 	
-	public Node<Integer, String> searchMatchesAVL(int matches)
+	//Search by equals sign
+	public List<String> searchMatchesAVL(int matches)
 	{
-		return matchesAVL.search(matches);
+		return matchesAVL.search(matches).getVal();
 	}
 	
-	public Node<Integer, String> searchMatchesBBS(int matches)
+	public List<String> searchMatchesBBS(int matches)
 	{
-		return matchesBST.search(matches);
+		return matchesBST.search(matches).getVal();
 	}
 	
-	public Node<Double, String> searchPointsRBT(double points)
+	public List<String> searchPointsRBT(double points)
 	{
-		return pointsRBT.search(points);
+		return pointsRBT.search(points).getVal();
 	}
 	
-	public Node<Double, String> searchPointsBST(double points)
+	public List<String> searchPointsBST(double points)
 	{
-		return pointsBST.search(points);
+		return pointsBST.search(points).getVal();
 	}
 	
-	public Node<Double, String> searchReboundsAVL(double rebounds)
+	public List<String> searchReboundsAVL(double rebounds)
 	{
-		return reboundsAVL.search(rebounds);
+		return reboundsAVL.search(rebounds).getVal();
 	}
 	
-	public Node<Double, String> searchStealsRBT(double steals)
+	public List<String> searchStealsRBT(double steals)
 	{
-		return stealsRBT.search(steals);
+		return stealsRBT.search(steals).getVal();
 	}
+	
+	
 }

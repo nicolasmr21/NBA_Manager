@@ -59,9 +59,12 @@ public class AVLTree<K, V> implements IBinaryTree<K, V>{
 	
 	private Node<K, V> leftRotation(Node<K, V> node)
 	{
+		Node<K, V> dad = node.getDad();
 		Node<K, V> help = node.getLeft();
 		node.setLeft(help.getRight());
 		help.setRight(node);
+		node.setDad(help);
+		help.setDad(dad);
 		node.setFe(Math.max(getFe(node.getLeft()), getFe(node.getRight()))+1);
 		help.setFe(Math.max(getFe(help.getLeft()), getFe(help.getRight()))+1);
 		return help;
@@ -69,9 +72,12 @@ public class AVLTree<K, V> implements IBinaryTree<K, V>{
 	
 	private Node<K, V> rightRotation(Node<K, V> node)
 	{
+		Node<K, V> dad = node.getDad();
 		Node<K, V> help = node.getRight();
 		node.setRight(help.getLeft());
 		help.setLeft(node);
+		node.setDad(help);
+		help.setDad(dad);
 		node.setFe(Math.max(getFe(node.getLeft()), getFe(node.getRight()))+1);
 		help.setFe(Math.max(getFe(help.getLeft()), getFe(help.getRight()))+1);
 		return help;
@@ -99,6 +105,7 @@ public class AVLTree<K, V> implements IBinaryTree<K, V>{
 			if(sub.getLeft()==null)
 			{
 				sub.setLeft(novo);
+				novo.setDad(sub);
 			}
 			else
 			{
@@ -117,11 +124,12 @@ public class AVLTree<K, V> implements IBinaryTree<K, V>{
 			}
 			
 		}
-		else
+		else if(novo.getKey().hashCode()>sub.getKey().hashCode())
 		{
 			if(sub.getRight()==null)
 			{
 				sub.setRight(novo);
+				novo.setDad(sub);
 			}
 			else
 			{
@@ -129,7 +137,7 @@ public class AVLTree<K, V> implements IBinaryTree<K, V>{
 			}
 			if(getFe(sub.getRight())-getFe(sub.getLeft())==2)
 			{
-				if(novo.getKey().hashCode()>=sub.getRight().getKey().hashCode())
+				if(novo.getKey().hashCode()>sub.getRight().getKey().hashCode())
 				{
 					dad = rightRotation(sub);
 				}
@@ -138,6 +146,10 @@ public class AVLTree<K, V> implements IBinaryTree<K, V>{
 					dad = doubleRightRotation(sub);
 				}
 			}
+		}
+		else
+		{
+			sub.getVal().add(novo.getVal().get(0));
 		}
 		if(sub.getLeft()==null&&sub.getRight()!=null)
 		{

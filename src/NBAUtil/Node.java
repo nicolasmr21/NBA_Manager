@@ -3,22 +3,24 @@ package NBAUtil;
 public class Node<K, V> {
 
 	private K key;
-	private V val;
+	private List<V> vals;
 	private int fe;
-	private Node<K, V> left, right;
+	private Node<K, V> left, right, dad;
 	
 	public Node(K k, V v) {
+		vals = new List<>();
 		key = k;
-		val = v;
+		vals.add(v);
 		fe = 0;
 		left = null;
 		right = null;
+		dad = null;
 	}
 	public K getKey() {
 		return key;
 	}
-	public V getVal() {
-		return val;
+	public List<V> getVal() {
+		return vals;
 	}
 	public Node<K, V> getLeft() {
 		return left;
@@ -37,5 +39,11 @@ public class Node<K, V> {
 	}
 	public void setFe(int fe) {
 		this.fe = fe;
+	}
+	public Node<K, V> getDad() {
+		return dad;
+	}
+	public void setDad(Node<K, V> dad) {
+		this.dad = dad;
 	}
 }

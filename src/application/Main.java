@@ -24,7 +24,6 @@ public class Main extends Application {
 			principal.setScene(scene);
 			principal.initStyle(StageStyle.UNDECORATED);
 			principal.show();
-			FIBA f = new FIBA();
 		} catch(Exception e) {
 			e.printStackTrace();
 	}
