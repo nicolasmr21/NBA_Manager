@@ -1,1 +1,1 @@
-Pat Garrity,28,ORL,garripa01,71,1.0,7.3,4.9,0.7
+Pat Garrity,28,ORL,garripa01,71,1,7.3,4.9,0.7,9.1

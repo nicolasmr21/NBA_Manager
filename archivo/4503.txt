@@ -1,1 +1,1 @@
-Jodie Meeks,22,PHI,meeksjo01,19,1.1,6.8,12.0,0.3
+Jodie Meeks,22,PHI,meeksjo01,19,1.1,6.8,12,0.3,15.8

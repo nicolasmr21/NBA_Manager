@@ -1,1 +1,1 @@
-A.J. Price,23,IND,priceaj01,56,2.0,5.6,20.5,0.2
+A.J. Price,23,IND,priceaj01,56,2,5.6,20.5,0.2,14

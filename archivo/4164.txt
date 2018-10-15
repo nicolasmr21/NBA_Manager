@@ -1,1 +1,1 @@
-Taj Gibson,24,CHI,gibsota01,82,1.2,15.4,5.0,3.6
+Taj Gibson,24,CHI,gibsota01,82,1.2,15.4,5,3.6,13.8

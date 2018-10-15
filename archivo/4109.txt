@@ -1,1 +1,1 @@
-Chris Bosh,25,TOR,boshch01,70,0.9,17.7,11.5,2.1
+Chris Bosh,25,TOR,boshch01,70,0.9,17.7,11.5,2.1,25

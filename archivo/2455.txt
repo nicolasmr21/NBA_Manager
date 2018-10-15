@@ -1,1 +1,1 @@
-Rasual Butler,27,NOK,butlera01,81,1.0,6.7,4.7,1.9
+Rasual Butler,27,NOK,butlera01,81,1,6.7,4.7,1.9,10.8

@@ -1,1 +1,1 @@
-Brian Skinner,26,PHI,skinnbr01,77,1.8,15.6,2.2,3.0
+Brian Skinner,26,PHI,skinnbr01,77,1.8,15.6,2.2,3,15.4

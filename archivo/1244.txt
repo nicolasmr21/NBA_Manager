@@ -1,1 +1,1 @@
-Jason Richardson,24,GSW,richaja01,72,2.0,8.5,19.2,0.8
+Jason Richardson,24,GSW,richaja01,72,2,8.5,19.2,0.8,19

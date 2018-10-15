@@ -1,1 +1,1 @@
-Vitaly Potapenko,30,SAC,potapvi01,9,0.0,3.7,10.6,0.0
+Vitaly Potapenko,30,SAC,potapvi01,9,0,3.7,10.6,0,8.2

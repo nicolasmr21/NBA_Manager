@@ -1,1 +1,1 @@
-Tom Gugliotta,33,PHO,guglito01,27,1.6,12.6,11.1,0.8
+Tom Gugliotta,33,PHO,guglito01,27,1.6,12.6,11.1,0.8,10.9

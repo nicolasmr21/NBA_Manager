@@ -1,1 +1,1 @@
-Jose Barea,22,DAL,bareajo01,33,0.3,7.9,20.4,0.4
+Jose Barea,22,DAL,bareajo01,33,0.3,7.9,20.4,0.4,9.6

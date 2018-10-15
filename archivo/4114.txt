@@ -1,1 +1,1 @@
-John Brown,26,ATL,brownjo01,75,1.6,10.3,9.1,0.3
+John Brown,26,ATL,brownjo01,75,1.6,10.3,9.1,0.3,11.4

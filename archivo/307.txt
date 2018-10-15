@@ -1,1 +1,1 @@
-James Posey,26,HOU,poseyja01,58,2.5,9.8,10.8,0.4
+James Posey,26,HOU,poseyja01,58,2.5,9.8,10.8,0.4,14.2

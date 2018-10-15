@@ -1,1 +1,1 @@
-Jacque Vaughn,31,SAS,vaughja01,64,1.7,5.4,25.9,0.2
+Jacque Vaughn,31,SAS,vaughja01,64,1.7,5.4,25.9,0.2,10.9

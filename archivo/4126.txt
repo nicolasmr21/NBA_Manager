@@ -1,1 +1,1 @@
-Michael Cooper,25,LAL,coopemi01,76,2.5,6.7,12.9,1.5
+Michael Cooper,25,LAL,coopemi01,76,2.5,6.7,12.9,1.5,14.3

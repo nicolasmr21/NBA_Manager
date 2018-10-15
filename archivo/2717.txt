@@ -1,1 +1,1 @@
-Adrian Griffin,32,CHI,griffad01,54,2.8,10.6,15.2,0.5
+Adrian Griffin,32,CHI,griffad01,54,2.8,10.6,15.2,0.5,10.7

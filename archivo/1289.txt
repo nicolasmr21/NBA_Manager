@@ -1,1 +1,1 @@
-Michael Finley,31,DAL,finlemi01,64,1.1,6.2,11.7,0.6
+Michael Finley,31,DAL,finlemi01,64,1.1,6.2,11.7,0.6,14.3

@@ -1,1 +1,1 @@
-Nick Fazekas,22,LAC,fazekni01,22,1.6,19.1,7.8,3.2
+Nick Fazekas,22,LAC,fazekni01,22,1.6,19.1,7.8,3.2,19.8

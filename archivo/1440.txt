@@ -1,1 +1,1 @@
-Derek Anderson,30,POR,anderde01,47,1.6,6.0,18.9,0.2
+Derek Anderson,30,POR,anderde01,47,1.6,6,18.9,0.2,11.7

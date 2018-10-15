@@ -1,1 +1,1 @@
-Primoz Brezec,28,TOR,brezepr01,13,0.5,9.7,1.4,1.5
+Primoz Brezec,28,TOR,brezepr01,13,0.5,9.7,1.4,1.5,10.2

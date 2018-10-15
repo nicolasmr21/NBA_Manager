@@ -1,1 +1,1 @@
-Dion Glover,25,ATL,glovedi01,55,1.4,9.2,13.8,0.9
+Dion Glover,25,ATL,glovedi01,55,1.4,9.2,13.8,0.9,12.5

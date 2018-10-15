@@ -1,1 +1,1 @@
-Jeff Trepagnier,22,CLE,trepaje01,12,5.5,9.2,23.9,3.8
+Jeff Trepagnier,22,CLE,trepaje01,12,5.5,9.2,23.9,3.8,8.4

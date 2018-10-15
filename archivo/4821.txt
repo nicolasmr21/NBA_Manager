@@ -1,1 +1,1 @@
-James Jones,30,MIA,jonesja02,81,1.0,6.1,4.1,1.0
+James Jones,30,MIA,jonesja02,81,1,6.1,4.1,1,11.1

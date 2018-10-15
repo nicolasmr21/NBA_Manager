@@ -1,1 +1,1 @@
-Tyson Chandler,25,NOH,chandty01,79,0.9,19.5,4.4,2.4
+Tyson Chandler,25,NOH,chandty01,79,0.9,19.5,4.4,2.4,17.5

@@ -1,1 +1,1 @@
-Raef LaFrentz,29,BOS,lafrera01,82,0.7,12.2,9.0,2.7
+Raef LaFrentz,29,BOS,lafrera01,82,0.7,12.2,9,2.7,12

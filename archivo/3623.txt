@@ -1,1 +1,1 @@
-Joel Przybilla,29,POR,przybjo01,82,1.0,22.8,2.0,3.9
+Joel Przybilla,29,POR,przybjo01,82,1,22.8,2,3.9,15.4

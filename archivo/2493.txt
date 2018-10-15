@@ -1,1 +1,1 @@
-Ollie Johnson,31,PHI,johnsol01,40,2.5,8.1,11.8,0.3
+Ollie Johnson,31,PHI,johnsol01,40,2.5,8.1,11.8,0.3,16.7

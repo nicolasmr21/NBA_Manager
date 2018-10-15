@@ -1,1 +1,1 @@
-Eduardo Najera,33,NJN,najered01,13,2.3,10.7,12.0,0.7
+Eduardo Najera,33,NJN,najered01,13,2.3,10.7,12,0.7,7

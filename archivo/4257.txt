@@ -1,1 +1,1 @@
-Nick Collison,29,OKC,collini01,75,1.2,14.2,3.7,2.3
+Nick Collison,29,OKC,collini01,75,1.2,14.2,3.7,2.3,13.1

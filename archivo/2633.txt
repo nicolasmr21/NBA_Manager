@@ -1,1 +1,1 @@
-Jordan Farmar,20,LAL,farmajo01,72,2.1,6.4,19.0,0.5
+Jordan Farmar,20,LAL,farmajo01,72,2.1,6.4,19,0.5,10.8

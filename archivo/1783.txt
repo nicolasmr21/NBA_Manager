@@ -1,1 +1,1 @@
-Zarko Cabarkapa,23,PHO,cabarza01,3,0.0,14.6,0.0,0.0
+Zarko Cabarkapa,23,PHO,cabarza01,3,0,14.6,0,0,32.4

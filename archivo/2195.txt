@@ -1,1 +1,1 @@
-Walter McCarty,31,LAC,mccarwa01,36,1.2,11.2,9.8,1.1
+Walter McCarty,31,LAC,mccarwa01,36,1.2,11.2,9.8,1.1,5.9

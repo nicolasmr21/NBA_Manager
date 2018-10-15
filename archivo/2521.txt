@@ -1,1 +1,1 @@
-Gerald Green,21,BOS,greenge01,81,1.2,7.0,8.5,1.0
+Gerald Green,21,BOS,greenge01,81,1.2,7,8.5,1,12

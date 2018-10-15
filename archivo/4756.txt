@@ -1,1 +1,1 @@
-Jason Richardson,30,ORL,richaja01,55,1.8,6.7,9.7,0.4
+Jason Richardson,30,ORL,richaja01,55,1.8,6.7,9.7,0.4,13.2

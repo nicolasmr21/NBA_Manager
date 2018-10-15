@@ -1,1 +1,1 @@
-Marc Gasol,24,MEM,gasolma01,82,1.3,14.7,9.7,2.9
+Marc Gasol,24,MEM,gasolma01,82,1.3,14.7,9.7,2.9,16.7

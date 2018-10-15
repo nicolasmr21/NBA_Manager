@@ -1,1 +1,1 @@
-Amar'e Stoudemire,24,PHO,stoudam01,82,1.5,17.0,5.0,2.9
+Amar'e Stoudemire,24,PHO,stoudam01,82,1.5,17,5,2.9,23.1

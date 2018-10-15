@@ -1,1 +1,1 @@
-Tony Delk,30,DAL,delkto01,33,2.7,6.3,7.8,1.0
+Tony Delk,30,DAL,delkto01,33,2.7,6.3,7.8,1,13.2

@@ -1,1 +1,1 @@
-Reggie Evans,28,PHI,evansre01,79,1.9,19.0,3.3,0.6
+Reggie Evans,28,PHI,evansre01,79,1.9,19,3.3,0.6,10.4

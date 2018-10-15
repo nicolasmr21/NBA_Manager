@@ -1,1 +1,1 @@
-Tony Price,24,SDC,priceto01,5,3.3,0.0,12.7,2.0
+Tony Price,24,SDC,priceto01,5,3.3,0,12.7,2,2.4

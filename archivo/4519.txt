@@ -1,1 +1,1 @@
-Kosta Koufos,20,UTA,koufoko01,36,0.6,15.5,5.1,1.9
+Kosta Koufos,20,UTA,koufoko01,36,0.6,15.5,5.1,1.9,7.7

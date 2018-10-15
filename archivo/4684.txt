@@ -1,1 +1,1 @@
-Stephen Curry,22,GSW,curryst01,74,2.2,6.5,28.1,0.6
+Stephen Curry,22,GSW,curryst01,74,2.2,6.5,28.1,0.6,19.4

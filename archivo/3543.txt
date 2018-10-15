@@ -1,1 +1,1 @@
-Rodney Stuckey,22,DET,stuckro01,79,1.7,6.5,26.1,0.3
+Rodney Stuckey,22,DET,stuckro01,79,1.7,6.5,26.1,0.3,14.8

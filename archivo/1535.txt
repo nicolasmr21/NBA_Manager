@@ -1,1 +1,1 @@
-Anthony Carter,29,MIN,cartean01,66,2.5,5.3,32.2,1.7
+Anthony Carter,29,MIN,cartean01,66,2.5,5.3,32.2,1.7,11.3

@@ -1,1 +1,1 @@
-Brad Holland,24,LAL,hollabr01,41,3.3,5.3,9.8,0.2
+Brad Holland,24,LAL,hollabr01,41,3.3,5.3,9.8,0.2,9.8

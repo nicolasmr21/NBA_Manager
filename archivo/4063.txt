@@ -1,1 +1,1 @@
-Dirk Nowitzki,31,DAL,nowitdi01,81,1.2,11.7,13.0,2.0
+Dirk Nowitzki,31,DAL,nowitdi01,81,1.2,11.7,13,2,22.9

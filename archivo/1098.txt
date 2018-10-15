@@ -1,1 +1,1 @@
-Dahntay Jones,23,MEM,jonesda02,20,1.7,8.4,12.0,2.8
+Dahntay Jones,23,MEM,jonesda02,20,1.7,8.4,12,2.8,2.5

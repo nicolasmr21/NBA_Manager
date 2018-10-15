@@ -1,1 +1,1 @@
-Charlie Bell,22,DAL,bellch01,2,0.0,27.8,0.0,0.0
+Charlie Bell,22,DAL,bellch01,2,0,27.8,0,0,7.6

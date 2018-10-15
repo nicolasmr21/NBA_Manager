@@ -1,1 +1,1 @@
-Trenton Hassell,23,CHI,hassetr01,82,1.2,7.0,11.1,2.2
+Trenton Hassell,23,CHI,hassetr01,82,1.2,7,11.1,2.2,6

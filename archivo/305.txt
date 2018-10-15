@@ -1,1 +1,1 @@
-Ron Mercer,26,IND,mercero01,72,1.5,5.2,11.5,0.6
+Ron Mercer,26,IND,mercero01,72,1.5,5.2,11.5,0.6,9.3

@@ -1,1 +1,1 @@
-Hilton Armstrong,25,NOH,armsthi01,18,1.7,15.0,9.3,2.5
+Hilton Armstrong,25,NOH,armsthi01,18,1.7,15,9.3,2.5,7.5

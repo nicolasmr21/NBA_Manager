@@ -17,6 +17,9 @@ import javafx.util.Duration;
 
 public class ManagePlayerController implements Initializable{
 	
+	MainController main;
+	
+	
     @FXML
     private Circle c1;
 
@@ -72,6 +75,10 @@ public class ManagePlayerController implements Initializable{
 //		btnPlayer.setFocusTraversable(false);
 //		btnRemove.setFocusTraversable(false);
 		
+	}
+	
+	public void init(MainController m) {
+		main = m;
 	}
 	
 	public void setRotate(Circle c, boolean reverse, int angle, int d) {

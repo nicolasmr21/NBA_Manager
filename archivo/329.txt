@@ -1,1 +1,1 @@
-Charlie Ward,32,NYK,wardch01,66,2.8,7.1,32.9,0.5
+Charlie Ward,32,NYK,wardch01,66,2.8,7.1,32.9,0.5,15.9

@@ -1,1 +1,1 @@
-Kent Benson,26,DET,bensoke01,59,1.7,11.9,13.9,2.0
+Kent Benson,26,DET,bensoke01,59,1.7,11.9,13.9,2,15.1

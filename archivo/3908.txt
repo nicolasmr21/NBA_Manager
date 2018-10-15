@@ -1,1 +1,1 @@
-Tarence Kinsey,24,CLE,kinseta01,50,2.3,8.2,5.5,0.0
+Tarence Kinsey,24,CLE,kinseta01,50,2.3,8.2,5.5,0,11

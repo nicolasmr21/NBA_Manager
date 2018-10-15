@@ -1,1 +1,1 @@
-Sam Mack,31,MIA,macksa01,12,1.7,5.1,4.1,0.5
+Sam Mack,31,MIA,macksa01,12,1.7,5.1,4.1,0.5,3.1

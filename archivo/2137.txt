@@ -1,1 +1,1 @@
-Greg Kelser,23,DET,kelsegr01,25,2.5,10.7,10.8,2.6
+Greg Kelser,23,DET,kelsegr01,25,2.5,10.7,10.8,2.6,11.8

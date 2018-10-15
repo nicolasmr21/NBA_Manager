@@ -1,1 +1,1 @@
-Aaron Gray,24,CHI,grayaa01,56,1.0,17.6,9.6,1.8
+Aaron Gray,24,CHI,grayaa01,56,1,17.6,9.6,1.8,11.5

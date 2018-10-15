@@ -1,1 +1,1 @@
-Roger Powell,24,UTA,powelro01,3,0.0,14.0,0.0,0.0
+Roger Powell,24,UTA,powelro01,3,0,14,0,0,-8.3

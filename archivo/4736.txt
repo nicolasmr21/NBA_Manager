@@ -1,1 +1,1 @@
-Anthony Parker,35,CLE,parkean01,72,1.7,6.0,16.7,0.4
+Anthony Parker,35,CLE,parkean01,72,1.7,6,16.7,0.4,10.5

@@ -1,1 +1,1 @@
-Spencer Haywood,32,WSB,haywosp01,76,1.0,11.1,4.6,1.8
+Spencer Haywood,32,WSB,haywosp01,76,1,11.1,4.6,1.8,13.2

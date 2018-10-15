@@ -1,1 +1,1 @@
-Randy Livingston,26,SEA,livinra01,13,2.8,8.4,21.0,0.9
+Randy Livingston,26,SEA,livinra01,13,2.8,8.4,21,0.9,12

@@ -1,1 +1,1 @@
-Kelvin Cato,32,NYK,catoke01,18,1.7,19.4,0.0,8.4
+Kelvin Cato,32,NYK,catoke01,18,1.7,19.4,0,8.4,12.3

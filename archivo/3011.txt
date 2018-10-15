@@ -1,1 +1,1 @@
-Travis Outlaw,23,POR,outlatr01,82,1.5,10.1,8.9,2.2
+Travis Outlaw,23,POR,outlatr01,82,1.5,10.1,8.9,2.2,15.7

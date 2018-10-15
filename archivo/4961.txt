@@ -1,1 +1,1 @@
-Chris Andersen,32,DEN,anderch01,45,1.6,17.3,4.0,6.0
+Chris Andersen,32,DEN,anderch01,45,1.6,17.3,4,6,19

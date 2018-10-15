@@ -1,1 +1,1 @@
-Lawrence Funderburke,34,CHI,fundela01,2,0.0,8.0,0.0,0.0
+Lawrence Funderburke,34,CHI,fundela01,2,0,8,0,0,13.1

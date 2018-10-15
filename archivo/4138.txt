@@ -1,1 +1,1 @@
-Jason Thompson,23,SAC,thompja02,75,0.9,15.5,8.3,2.3
+Jason Thompson,23,SAC,thompja02,75,0.9,15.5,8.3,2.3,14.6

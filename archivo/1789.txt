@@ -1,1 +1,1 @@
-Brandin Knight,23,HOU,knighbr02,1,0.0,0.0,46.5,0.0
+Brandin Knight,23,HOU,knighbr02,1,0,0,46.5,0,-1.2

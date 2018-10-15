@@ -1,1 +1,1 @@
-Udonis Haslem,29,MIA,hasleud01,78,0.7,17.0,3.9,0.9
+Udonis Haslem,29,MIA,hasleud01,78,0.7,17,3.9,0.9,14.6

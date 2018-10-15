@@ -1,1 +1,1 @@
-Derrick Dial,28,ORL,dialde01,9,3.7,8.6,3.7,0.0
+Derrick Dial,28,ORL,dialde01,9,3.7,8.6,3.7,0,11.6

@@ -1,1 +1,1 @@
-Donta Smith,22,ATL,smithdo04,23,3.3,6.6,11.4,0.0
+Donta Smith,22,ATL,smithdo04,23,3.3,6.6,11.4,0,12.7

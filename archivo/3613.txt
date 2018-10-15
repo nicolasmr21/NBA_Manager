@@ -1,1 +1,1 @@
-Hakim Warrick,26,MEM,warriha01,82,1.3,12.3,5.9,1.6
+Hakim Warrick,26,MEM,warriha01,82,1.3,12.3,5.9,1.6,16.9

@@ -1,1 +1,1 @@
-Austin Croshere,28,IND,croshau01,77,1.3,13.7,8.5,1.0
+Austin Croshere,28,IND,croshau01,77,1.3,13.7,8.5,1,14.4

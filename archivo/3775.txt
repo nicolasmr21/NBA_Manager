@@ -1,1 +1,1 @@
-James Singleton,27,DAL,singlja01,62,1.5,16.2,2.9,2.3
+James Singleton,27,DAL,singlja01,62,1.5,16.2,2.9,2.3,16.4

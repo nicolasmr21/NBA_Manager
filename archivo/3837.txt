@@ -1,1 +1,1 @@
-Cedric Maxwell,26,BOS,maxwece01,78,1.4,10.6,9.2,1.0
+Cedric Maxwell,26,BOS,maxwece01,78,1.4,10.6,9.2,1,16

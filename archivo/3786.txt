@@ -1,1 +1,1 @@
-Kevin Ollie,36,MIN,ollieke01,50,1.2,5.2,20.2,0.4
+Kevin Ollie,36,MIN,ollieke01,50,1.2,5.2,20.2,0.4,9.9

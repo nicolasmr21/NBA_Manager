@@ -1,1 +1,1 @@
-Marcus Fizer,25,CHI,fizerma01,46,1.1,15.0,11.1,0.8
+Marcus Fizer,25,CHI,fizerma01,46,1.1,15,11.1,0.8,13.4

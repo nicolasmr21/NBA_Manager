@@ -1,1 +1,1 @@
-Shannon Brown,25,LAL,brownsh01,82,2.3,5.7,10.0,0.8
+Shannon Brown,25,LAL,brownsh01,82,2.3,5.7,10,0.8,13.6

@@ -1,1 +1,1 @@
-Chris Paul,24,NOH,paulch01,45,2.9,6.5,45.4,0.4
+Chris Paul,24,NOH,paulch01,45,2.9,6.5,45.4,0.4,23.7

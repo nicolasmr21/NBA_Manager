@@ -1,1 +1,1 @@
-Brandon Armstrong,21,NJN,armstbr01,35,1.9,4.6,6.5,0.4
+Brandon Armstrong,21,NJN,armstbr01,35,1.9,4.6,6.5,0.4,3.8

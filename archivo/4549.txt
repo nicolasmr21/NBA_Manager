@@ -1,1 +1,1 @@
-Renaldo Balkman,25,DEN,balkmre01,13,4.5,14.6,10.6,1.7
+Renaldo Balkman,25,DEN,balkmre01,13,4.5,14.6,10.6,1.7,6.6

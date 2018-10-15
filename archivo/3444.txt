@@ -1,1 +1,1 @@
-Taurean Green,21,DEN,greenta01,9,1.6,10.8,13.6,0.0
+Taurean Green,21,DEN,greenta01,9,1.6,10.8,13.6,0,8.8

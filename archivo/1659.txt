@@ -1,1 +1,1 @@
-Armond Hill,27,SEA,hillar01,51,1.7,5.3,20.2,0.4
+Armond Hill,27,SEA,hillar01,51,1.7,5.3,20.2,0.4,8.4

@@ -1,1 +1,1 @@
-Jason Kidd,35,DAL,kiddja01,81,2.9,9.9,34.7,1.0
+Jason Kidd,35,DAL,kiddja01,81,2.9,9.9,34.7,1,16.9

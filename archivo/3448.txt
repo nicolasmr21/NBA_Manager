@@ -1,1 +1,1 @@
-Walt Frazier,32,CLE,fraziwa01,51,2.1,6.4,18.5,0.4
+Walt Frazier,32,CLE,fraziwa01,51,2.1,6.4,18.5,0.4,17.5

@@ -1,1 +1,1 @@
-Jared Dudley,23,CHA,dudleja01,20,2.3,8.6,7.3,0.4
+Jared Dudley,23,CHA,dudleja01,20,2.3,8.6,7.3,0.4,10.6

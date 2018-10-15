@@ -1,1 +1,1 @@
-Paul Pierce,25,BOS,piercpa01,79,2.4,10.6,24.2,1.6
+Paul Pierce,25,BOS,piercpa01,79,2.4,10.6,24.2,1.6,22.7

@@ -1,1 +1,1 @@
-Mark Blount,29,BOS,blounma01,82,0.8,10.9,9.9,2.3
+Mark Blount,29,BOS,blounma01,82,0.8,10.9,9.9,2.3,12.5

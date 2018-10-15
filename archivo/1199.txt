@@ -1,1 +1,1 @@
-Jerome Beasley,23,MIA,beaslje01,2,0.0,11.7,0.0,0.0
+Jerome Beasley,23,MIA,beaslje01,2,0,11.7,0,0,5.9

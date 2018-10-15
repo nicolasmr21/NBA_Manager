@@ -1,1 +1,1 @@
-C.J. Watson,23,GSW,watsocj01,32,2.0,4.7,12.8,0.0
+C.J. Watson,23,GSW,watsocj01,32,2,4.7,12.8,0,11

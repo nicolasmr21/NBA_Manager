@@ -1,1 +1,1 @@
-Sean Marks,30,SAS,marksse01,25,1.5,14.0,7.0,2.8
+Sean Marks,30,SAS,marksse01,25,1.5,14,7,2.8,17.9

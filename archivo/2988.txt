@@ -1,1 +1,1 @@
-Rajon Rondo,21,BOS,rondora01,77,3.0,8.3,28.2,0.5
+Rajon Rondo,21,BOS,rondora01,77,3,8.3,28.2,0.5,15.6

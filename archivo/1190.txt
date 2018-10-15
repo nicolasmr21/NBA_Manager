@@ -1,1 +1,1 @@
-Mikki Moore,28,NJN,mooremi01,4,0.0,11.8,0.0,0.0
+Mikki Moore,28,NJN,mooremi01,4,0,11.8,0,0,-3.5

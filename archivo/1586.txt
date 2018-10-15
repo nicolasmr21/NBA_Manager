@@ -1,1 +1,1 @@
-Anthony Peeler,35,WAS,peelean01,40,1.8,6.9,16.7,0.3
+Anthony Peeler,35,WAS,peelean01,40,1.8,6.9,16.7,0.3,10.2

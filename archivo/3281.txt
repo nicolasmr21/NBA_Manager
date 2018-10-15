@@ -1,1 +1,1 @@
-Jerome Whitehead,24,CLE,whiteje01,3,5.9,20.7,0.0,0.0
+Jerome Whitehead,24,CLE,whiteje01,3,5.9,20.7,0,0,5.6

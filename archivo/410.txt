@@ -1,1 +1,1 @@
-Brian Shaw,36,LAL,shawbr01,72,1.8,7.4,17.3,1.0
+Brian Shaw,36,LAL,shawbr01,72,1.8,7.4,17.3,1,10.2

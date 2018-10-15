@@ -1,1 +1,1 @@
-Dorell Wright,19,MIA,wrighdo01,3,7.8,2.2,16.7,0.0
+Dorell Wright,19,MIA,wrighdo01,3,7.8,2.2,16.7,0,5.2

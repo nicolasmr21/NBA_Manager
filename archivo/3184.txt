@@ -1,1 +1,1 @@
-Pau Gasol,27,LAL,gasolpa01,27,0.8,12.8,17.0,3.3
+Pau Gasol,27,LAL,gasolpa01,27,0.8,12.8,17,3.3,24

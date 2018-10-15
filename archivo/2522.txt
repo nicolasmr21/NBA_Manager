@@ -1,1 +1,1 @@
-Jason Kapono,25,MIA,kaponja01,67,1.1,6.0,7.9,0.1
+Jason Kapono,25,MIA,kaponja01,67,1.1,6,7.9,0.1,13.8

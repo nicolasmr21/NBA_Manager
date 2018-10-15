@@ -1,1 +1,1 @@
-Michael Bradley,22,TOR,bradlmi01,26,0.0,11.7,4.0,3.8
+Michael Bradley,22,TOR,bradlmi01,26,0,11.7,4,3.8,9.9

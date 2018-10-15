@@ -1,1 +1,1 @@
-Billy Thomas,32,CLE,thomabi01,7,1.6,3.4,0.0,0.0
+Billy Thomas,32,CLE,thomabi01,7,1.6,3.4,0,0,0.1

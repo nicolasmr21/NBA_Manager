@@ -1,1 +1,1 @@
-Shaquille O'Neal,33,MIA,onealsh01,59,0.7,17.6,12.4,4.4
+Shaquille O'Neal,33,MIA,onealsh01,59,0.7,17.6,12.4,4.4,24.4

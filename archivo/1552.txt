@@ -1,1 +1,1 @@
-Mike James,29,HOU,jamesmi01,27,2.0,7.2,21.1,0.2
+Mike James,29,HOU,jamesmi01,27,2,7.2,21.1,0.2,17.4

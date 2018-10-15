@@ -1,1 +1,1 @@
-Marcus Thornton,23,SAC,thornma01,27,2.2,7.0,15.3,0.4
+Marcus Thornton,23,SAC,thornma01,27,2.2,7,15.3,0.4,18.2

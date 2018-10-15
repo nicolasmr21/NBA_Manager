@@ -1,1 +1,1 @@
-Lindsey Hunter,32,TOR,hunteli01,29,2.8,5.0,18.8,0.5
+Lindsey Hunter,32,TOR,hunteli01,29,2.8,5,18.8,0.5,10.6

@@ -1,1 +1,1 @@
-Reggie Evans,25,DEN,evansre01,26,1.4,21.8,3.5,0.6
+Reggie Evans,25,DEN,evansre01,26,1.4,21.8,3.5,0.6,9.2

@@ -1,1 +1,1 @@
-Damon Jones,29,CLE,jonesda01,82,0.9,3.8,12.6,0.0
+Damon Jones,29,CLE,jonesda01,82,0.9,3.8,12.6,0,9.3

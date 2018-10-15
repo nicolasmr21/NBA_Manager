@@ -1,1 +1,1 @@
-Andre Iguodala,23,PHI,iguodan01,76,2.6,8.5,23.8,0.8
+Andre Iguodala,23,PHI,iguodan01,76,2.6,8.5,23.8,0.8,18.1

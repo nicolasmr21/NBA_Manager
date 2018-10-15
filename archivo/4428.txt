@@ -1,1 +1,1 @@
-Tyler Hansbrough,24,IND,hansbty01,29,1.6,14.7,9.0,1.1
+Tyler Hansbrough,24,IND,hansbty01,29,1.6,14.7,9,1.1,14.6

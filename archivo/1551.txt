@@ -1,1 +1,1 @@
-Brian Skinner,28,SAC,skinnbr01,25,1.9,17.5,7.9,4.4
+Brian Skinner,28,SAC,skinnbr01,25,1.9,17.5,7.9,4.4,16.5

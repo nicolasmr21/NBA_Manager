@@ -1,1 +1,1 @@
-Moochie Norris,31,HOU,norrimo01,6,1.4,6.0,20.0,0.0
+Moochie Norris,31,HOU,norrimo01,6,1.4,6,20,0,0.6

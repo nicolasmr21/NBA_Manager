@@ -1,1 +1,1 @@
-Bo Outlaw,36,ORL,outlabo01,2,0.0,0.0,0.0,0.0
+Bo Outlaw,36,ORL,outlabo01,2,0,0,0,0,8.6

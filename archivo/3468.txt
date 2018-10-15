@@ -1,1 +1,1 @@
-Courtney Sims,24,IND,simsco01,3,0.0,9.9,11.6,0.0
+Courtney Sims,24,IND,simsco01,3,0,9.9,11.6,0,1.1

@@ -1,1 +1,1 @@
-Andre Brown,27,CHA,brownan01,4,1.3,18.1,3.5,0.0
+Andre Brown,27,CHA,brownan01,4,1.3,18.1,3.5,0,-1.5

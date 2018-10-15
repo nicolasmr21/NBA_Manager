@@ -1,1 +1,1 @@
-Scot Pollard,32,BOS,pollasc01,22,0.9,12.7,2.5,2.9
+Scot Pollard,32,BOS,pollasc01,22,0.9,12.7,2.5,2.9,8.7

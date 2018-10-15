@@ -1,1 +1,1 @@
-Sidney Wicks,31,SDC,wickssi01,49,1.8,12.0,13.4,2.1
+Sidney Wicks,31,SDC,wickssi01,49,1.8,12,13.4,2.1,9.7

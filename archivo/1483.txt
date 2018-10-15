@@ -1,1 +1,1 @@
-Casey Jacobsen,23,NOH,jacobca01,44,1.2,5.7,12.6,0.5
+Casey Jacobsen,23,NOH,jacobca01,44,1.2,5.7,12.6,0.5,11.7

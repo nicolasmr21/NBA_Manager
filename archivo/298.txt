@@ -1,1 +1,1 @@
-Jacque Vaughn,27,ORL,vaughja01,80,2.0,4.0,21.7,0.1
+Jacque Vaughn,27,ORL,vaughja01,80,2,4,21.7,0.1,10.5

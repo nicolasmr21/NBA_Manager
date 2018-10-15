@@ -1,1 +1,1 @@
-Trey Johnson,24,CLE,johnstr01,4,0.0,4.3,0.0,0.0
+Trey Johnson,24,CLE,johnstr01,4,0,4.3,0,0,-9.3

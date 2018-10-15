@@ -1,1 +1,1 @@
-Vlade Divac,34,SAC,divacvl01,80,1.8,12.9,16.7,2.9
+Vlade Divac,34,SAC,divacvl01,80,1.8,12.9,16.7,2.9,15.6

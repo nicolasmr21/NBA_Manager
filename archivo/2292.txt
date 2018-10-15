@@ -1,1 +1,1 @@
-Mike Wilks,26,SEA,wilksmi01,10,3.0,6.9,20.2,0.0
+Mike Wilks,26,SEA,wilksmi01,10,3,6.9,20.2,0,14.6

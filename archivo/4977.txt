@@ -1,1 +1,1 @@
-Vince Carter,34,ORL,cartevi01,22,1.6,7.9,17.3,0.4
+Vince Carter,34,ORL,cartevi01,22,1.6,7.9,17.3,0.4,16.2

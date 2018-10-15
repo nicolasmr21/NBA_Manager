@@ -1,1 +1,1 @@
-Marcus Fizer,26,MIL,fizerma01,54,1.5,11.4,11.8,1.1
+Marcus Fizer,26,MIL,fizerma01,54,1.5,11.4,11.8,1.1,11.6

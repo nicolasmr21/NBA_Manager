@@ -1,1 +1,1 @@
-Sebastian Telfair,19,POR,telfase01,68,1.4,4.5,27.8,0.2
+Sebastian Telfair,19,POR,telfase01,68,1.4,4.5,27.8,0.2,9.7

@@ -1,1 +1,1 @@
-Moochie Norris,31,NYK,norrimo01,32,2.8,7.7,16.3,0.5
+Moochie Norris,31,NYK,norrimo01,32,2.8,7.7,16.3,0.5,6.8

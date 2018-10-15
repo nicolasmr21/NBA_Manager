@@ -1,1 +1,1 @@
-DeMarre Carroll,23,MEM,carrode01,71,1.8,11.0,5.9,0.9
+DeMarre Carroll,23,MEM,carrode01,71,1.8,11,5.9,0.9,8.5

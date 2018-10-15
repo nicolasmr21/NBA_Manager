@@ -1,1 +1,1 @@
-Reggie Miller,39,IND,millere01,66,1.3,4.4,13.3,0.2
+Reggie Miller,39,IND,millere01,66,1.3,4.4,13.3,0.2,16.6

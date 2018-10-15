@@ -1,1 +1,1 @@
-Baron Davis,23,NOH,davisba01,50,2.6,5.7,30.5,0.8
+Baron Davis,23,NOH,davisba01,50,2.6,5.7,30.5,0.8,16.9

@@ -1,1 +1,1 @@
-Troy Murphy,24,GSW,murphtr01,70,1.1,17.3,6.9,1.0
+Troy Murphy,24,GSW,murphtr01,70,1.1,17.3,6.9,1,16.8

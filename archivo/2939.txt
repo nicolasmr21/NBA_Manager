@@ -1,1 +1,1 @@
-Kevin Durant,19,SEA,duranke01,80,1.4,6.9,12.0,1.9
+Kevin Durant,19,SEA,duranke01,80,1.4,6.9,12,1.9,15.8

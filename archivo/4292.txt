@@ -1,1 +1,1 @@
-Dwight Jones,29,CHI,jonesdw01,78,1.2,14.1,8.0,1.0
+Dwight Jones,29,CHI,jonesdw01,78,1.2,14.1,8,1,13.4

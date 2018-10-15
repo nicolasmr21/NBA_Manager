@@ -1,1 +1,1 @@
-Jake Tsakalidis,25,MEM,tsakaja01,31,0.6,12.1,6.0,4.5
+Jake Tsakalidis,25,MEM,tsakaja01,31,0.6,12.1,6,4.5,11.8

@@ -1,1 +1,1 @@
-Randy Brown,34,PHO,brownra02,32,3.4,5.6,19.2,0.6
+Randy Brown,34,PHO,brownra02,32,3.4,5.6,19.2,0.6,7.2

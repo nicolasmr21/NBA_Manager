@@ -1,1 +1,1 @@
-Kyle Korver,28,UTA,korveky01,52,1.4,6.9,13.9,1.0
+Kyle Korver,28,UTA,korveky01,52,1.4,6.9,13.9,1,13.9

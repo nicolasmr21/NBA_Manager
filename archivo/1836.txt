@@ -1,1 +1,1 @@
-Chris Paul,20,NOK,paulch01,78,3.4,8.5,38.2,0.2
+Chris Paul,20,NOK,paulch01,78,3.4,8.5,38.2,0.2,22.1

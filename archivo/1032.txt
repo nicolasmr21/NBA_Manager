@@ -1,1 +1,1 @@
-Jerome Williams,30,TOR,willije01,15,2.6,18.1,4.5,0.5
+Jerome Williams,30,TOR,willije01,15,2.6,18.1,4.5,0.5,12.4

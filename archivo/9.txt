@@ -1,1 +1,1 @@
-William Avery,22,MIN,averywi01,28,1.4,5.4,19.9,0.0
+William Avery,22,MIN,averywi01,28,1.4,5.4,19.9,0,5.4

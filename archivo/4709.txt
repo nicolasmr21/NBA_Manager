@@ -1,1 +1,1 @@
-Shawn Marion,32,DAL,mariosh01,80,1.6,14.3,8.3,1.7
+Shawn Marion,32,DAL,mariosh01,80,1.6,14.3,8.3,1.7,17

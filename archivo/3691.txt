@@ -1,1 +1,1 @@
-Carl Landry,25,HOU,landrca01,69,0.9,13.6,4.6,1.5
+Carl Landry,25,HOU,landrca01,69,0.9,13.6,4.6,1.5,17.7

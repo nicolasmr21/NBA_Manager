@@ -1,1 +1,1 @@
-Gus Gerard,27,KCK,gerargu01,16,1.2,13.1,6.5,2.8
+Gus Gerard,27,KCK,gerargu01,16,1.2,13.1,6.5,2.8,12.2

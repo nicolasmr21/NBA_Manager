@@ -1,1 +1,1 @@
-Rusty LaRue,30,GSW,larueru01,4,4.9,7.7,13.4,0.0
+Rusty LaRue,30,GSW,larueru01,4,4.9,7.7,13.4,0,3.1

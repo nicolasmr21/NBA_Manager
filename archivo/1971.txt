@@ -1,1 +1,1 @@
-Sarunas Jasikevicius,29,IND,jasiksa01,75,1.4,5.7,24.4,0.2
+Sarunas Jasikevicius,29,IND,jasiksa01,75,1.4,5.7,24.4,0.2,12.9

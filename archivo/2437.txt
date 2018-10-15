@@ -1,1 +1,1 @@
-Andre McCarter,27,WSB,mccaran01,43,1.5,4.6,20.8,0.0
+Andre McCarter,27,WSB,mccaran01,43,1.5,4.6,20.8,0,8.8

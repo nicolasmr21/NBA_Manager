@@ -1,1 +1,1 @@
-Ike Diogu,25,POR,dioguik01,19,0.8,14.4,0.0,2.2
+Ike Diogu,25,POR,dioguik01,19,0.8,14.4,0,2.2,11.4

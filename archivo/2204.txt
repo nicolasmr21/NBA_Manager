@@ -1,1 +1,1 @@
-Sergei Monia,22,POR,moniase01,23,1.0,9.1,9.1,1.1
+Sergei Monia,22,POR,moniase01,23,1,9.1,9.1,1.1,6.2

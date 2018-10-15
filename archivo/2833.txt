@@ -1,1 +1,1 @@
-Jackie Butler,21,SAS,butleja01,11,1.0,12.9,8.1,0.0
+Jackie Butler,21,SAS,butleja01,11,1,12.9,8.1,0,9.6

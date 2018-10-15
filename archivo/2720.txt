@@ -1,1 +1,1 @@
-Kirk Snyder,23,HOU,snydeki01,39,1.0,8.5,11.3,1.6
+Kirk Snyder,23,HOU,snydeki01,39,1,8.5,11.3,1.6,12.2

@@ -1,1 +1,1 @@
-Andre Miller,30,DEN,millean02,23,2.2,7.1,38.7,0.3
+Andre Miller,30,DEN,millean02,23,2.2,7.1,38.7,0.3,16.6

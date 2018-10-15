@@ -1,1 +1,1 @@
-Theron Smith,23,MEM,smithth01,20,1.5,13.0,6.0,2.0
+Theron Smith,23,MEM,smithth01,20,1.5,13,6,2,8.4

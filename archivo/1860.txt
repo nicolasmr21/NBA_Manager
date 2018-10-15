@@ -1,1 +1,1 @@
-Josh Smith,20,ATL,smithjo03,80,1.3,12.5,12.2,6.2
+Josh Smith,20,ATL,smithjo03,80,1.3,12.5,12.2,6.2,15.5

@@ -1,1 +1,1 @@
-Manu Ginobili,32,SAS,ginobma01,75,2.5,7.7,28.2,0.8
+Manu Ginobili,32,SAS,ginobma01,75,2.5,7.7,28.2,0.8,22.5

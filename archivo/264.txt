@@ -1,1 +1,1 @@
-Malik Rose,28,SAS,rosema01,79,1.6,15.2,11.0,1.4
+Malik Rose,28,SAS,rosema01,79,1.6,15.2,11,1.4,16.1

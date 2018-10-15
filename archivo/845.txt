@@ -1,1 +1,1 @@
-Aaron Williams,32,NJN,williaa01,72,1.4,13.0,10.4,2.7
+Aaron Williams,32,NJN,williaa01,72,1.4,13,10.4,2.7,13.2

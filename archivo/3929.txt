@@ -1,1 +1,1 @@
-Bill Walker,21,BOS,walkebi01,29,1.5,8.2,9.9,0.7
+Bill Walker,21,BOS,walkebi01,29,1.5,8.2,9.9,0.7,10.9

@@ -1,1 +1,1 @@
-Kenny Thomas,28,SAC,thomake01,82,1.6,15.8,12.0,1.2
+Kenny Thomas,28,SAC,thomake01,82,1.6,15.8,12,1.2,15

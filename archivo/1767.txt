@@ -1,1 +1,1 @@
-Peter John Ramos,19,WAS,ramospe01,6,0.0,11.2,0.0,3.7
+Peter John Ramos,19,WAS,ramospe01,6,0,11.2,0,3.7,8.2

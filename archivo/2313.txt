@@ -1,1 +1,1 @@
-Amir Johnson,18,DET,johnsam01,3,0.0,6.1,13.4,3.7
+Amir Johnson,18,DET,johnsam01,3,0,6.1,13.4,3.7,20.3

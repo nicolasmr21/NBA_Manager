@@ -1,1 +1,1 @@
-Victor Alexander,32,DET,alexavi01,15,0.0,17.6,11.5,0.7
+Victor Alexander,32,DET,alexavi01,15,0,17.6,11.5,0.7,9.2

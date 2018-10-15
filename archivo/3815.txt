@@ -1,1 +1,1 @@
-Calvin Natt,25,POR,nattca01,75,1.1,13.2,8.0,0.8
+Calvin Natt,25,POR,nattca01,75,1.1,13.2,8,0.8,19

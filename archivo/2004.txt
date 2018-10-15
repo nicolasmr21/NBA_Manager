@@ -1,1 +1,1 @@
-Lloyd Walton,27,KCK,waltoll01,61,1.8,3.2,32.0,0.1
+Lloyd Walton,27,KCK,waltoll01,61,1.8,3.2,32,0.1,9.9

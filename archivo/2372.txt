@@ -1,1 +1,1 @@
-Shane Battier,28,HOU,battish01,82,1.4,6.5,9.2,1.5
+Shane Battier,28,HOU,battish01,82,1.4,6.5,9.2,1.5,12

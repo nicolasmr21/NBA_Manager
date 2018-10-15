@@ -1,1 +1,1 @@
-Kevin McHale,23,BOS,mchalke01,82,0.8,12.4,4.8,5.1
+Kevin McHale,23,BOS,mchalke01,82,0.8,12.4,4.8,5.1,16.4

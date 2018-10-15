@@ -1,1 +1,1 @@
-Larry Smith,24,GSW,smithla01,74,1.4,20.0,4.6,1.4
+Larry Smith,24,GSW,smithla01,74,1.4,20,4.6,1.4,12.8

@@ -1,1 +1,1 @@
-Marcus Vinicius,23,NOH,vincima01,13,0.8,6.8,4.3,1.1
+Marcus Vinicius,23,NOH,vincima01,13,0.8,6.8,4.3,1.1,11.6

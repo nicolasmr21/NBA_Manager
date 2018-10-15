@@ -1,1 +1,1 @@
-Marcus Williams,24,MEM,willima03,62,1.9,6.2,26.7,0.1
+Marcus Williams,24,MEM,willima03,62,1.9,6.2,26.7,0.1,10.6

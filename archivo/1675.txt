@@ -1,1 +1,1 @@
-Jiri Welsch,25,CLE,welscji01,16,1.4,8.6,14.3,0.0
+Jiri Welsch,25,CLE,welscji01,16,1.4,8.6,14.3,0,4.3

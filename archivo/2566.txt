@@ -1,1 +1,1 @@
-Brian Skinner,30,MIL,skinnbr01,67,0.6,14.9,5.4,3.2
+Brian Skinner,30,MIL,skinnbr01,67,0.6,14.9,5.4,3.2,8.9

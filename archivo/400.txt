@@ -1,1 +1,1 @@
-Steve Kerr,37,SAS,kerrst01,75,1.5,3.7,11.9,0.2
+Steve Kerr,37,SAS,kerrst01,75,1.5,3.7,11.9,0.2,11.4

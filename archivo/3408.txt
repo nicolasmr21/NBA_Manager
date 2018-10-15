@@ -1,1 +1,1 @@
-Troy Hudson,31,GSW,hudsotr01,9,1.6,4.0,12.7,0.0
+Troy Hudson,31,GSW,hudsotr01,9,1.6,4,12.7,0,5.2

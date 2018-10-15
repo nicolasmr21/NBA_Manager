@@ -1,1 +1,1 @@
-Andrew DeClercq,31,ORL,declean01,8,2.1,11.4,0.0,0.0
+Andrew DeClercq,31,ORL,declean01,8,2.1,11.4,0,0,5.6

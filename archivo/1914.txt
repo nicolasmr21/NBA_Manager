@@ -1,1 +1,1 @@
-Anthony Johnson,31,IND,johnsan02,75,1.7,4.9,28.6,0.8
+Anthony Johnson,31,IND,johnsan02,75,1.7,4.9,28.6,0.8,14.2

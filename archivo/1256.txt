@@ -1,1 +1,1 @@
-Dwight Howard,19,ORL,howardw01,82,1.5,17.3,4.4,3.6
+Dwight Howard,19,ORL,howardw01,82,1.5,17.3,4.4,3.6,17.2

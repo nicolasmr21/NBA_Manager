@@ -1,1 +1,1 @@
-Jose Calderon,29,TOR,caldejo01,68,2.0,5.7,43.0,0.3
+Jose Calderon,29,TOR,caldejo01,68,2,5.7,43,0.3,16.3

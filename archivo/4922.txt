@@ -1,1 +1,1 @@
-Patrick Patterson,21,HOU,pattepa01,52,1.0,13.1,7.6,3.0
+Patrick Patterson,21,HOU,pattepa01,52,1,13.1,7.6,3,16.7

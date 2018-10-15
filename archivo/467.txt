@@ -1,1 +1,1 @@
-Gerald Wallace,20,SAC,wallage01,47,2.1,12.0,6.1,1.7
+Gerald Wallace,20,SAC,wallage01,47,2.1,12,6.1,1.7,12.5

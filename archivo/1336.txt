@@ -1,1 +1,1 @@
-Jason Hart,26,CHA,hartja01,74,2.7,6.1,32.0,0.6
+Jason Hart,26,CHA,hartja01,74,2.7,6.1,32,0.6,16.9

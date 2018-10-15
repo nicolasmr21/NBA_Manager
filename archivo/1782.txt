@@ -1,1 +1,1 @@
-Joel Kramer,25,PHO,kramejo01,82,1.5,12.0,10.6,0.9
+Joel Kramer,25,PHO,kramejo01,82,1.5,12,10.6,0.9,11.8

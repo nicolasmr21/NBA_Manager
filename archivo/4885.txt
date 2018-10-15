@@ -1,1 +1,1 @@
-Mo Williams,28,CLE,willima01,36,1.6,5.2,42.8,0.7
+Mo Williams,28,CLE,willima01,36,1.6,5.2,42.8,0.7,13.8

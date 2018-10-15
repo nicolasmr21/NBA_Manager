@@ -1,1 +1,1 @@
-Delonte West,23,BOS,westde01,69,1.7,5.6,23.5,1.2
+Delonte West,23,BOS,westde01,69,1.7,5.6,23.5,1.2,14

@@ -1,1 +1,1 @@
-Ronald Murray,28,DET,murraro01,19,2.1,6.2,31.0,0.2
+Ronald Murray,28,DET,murraro01,19,2.1,6.2,31,0.2,13.3

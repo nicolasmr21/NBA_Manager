@@ -1,1 +1,1 @@
-Wilson Chandler,23,NYK,chandwi01,51,1.0,9.8,8.1,2.9
+Wilson Chandler,23,NYK,chandwi01,51,1,9.8,8.1,2.9,15.7

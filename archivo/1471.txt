@@ -1,1 +1,1 @@
-Magic Johnson,21,LAL,johnsma02,37,4.3,12.7,31.8,1.0
+Magic Johnson,21,LAL,johnsma02,37,4.3,12.7,31.8,1,25.7

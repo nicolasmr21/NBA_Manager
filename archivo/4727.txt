@@ -1,1 +1,1 @@
-Ramon Sessions,24,CLE,sessira01,81,1.5,6.9,35.0,0.3
+Ramon Sessions,24,CLE,sessira01,81,1.5,6.9,35,0.3,19

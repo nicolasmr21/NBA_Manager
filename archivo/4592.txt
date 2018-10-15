@@ -1,1 +1,1 @@
-Acie Law,25,CHA,lawac01,9,1.6,1.8,16.0,2.5
+Acie Law,25,CHA,lawac01,9,1.6,1.8,16,2.5,7.5

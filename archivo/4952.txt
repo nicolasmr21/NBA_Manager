@@ -1,1 +1,1 @@
-Jamario Moon,30,CLE,moonja01,40,1.7,8.9,9.3,2.7
+Jamario Moon,30,CLE,moonja01,40,1.7,8.9,9.3,2.7,10.7

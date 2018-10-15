@@ -1,1 +1,1 @@
-Andris Biedrins,20,GSW,biedran01,82,1.4,17.5,5.4,4.3
+Andris Biedrins,20,GSW,biedran01,82,1.4,17.5,5.4,4.3,16.2

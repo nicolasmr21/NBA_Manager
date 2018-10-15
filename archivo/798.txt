@@ -1,1 +1,1 @@
-Theo Ratliff,30,ATL,ratlith01,53,1.0,13.1,5.1,7.4
+Theo Ratliff,30,ATL,ratlith01,53,1,13.1,5.1,7.4,12.9

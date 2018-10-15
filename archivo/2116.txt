@@ -1,1 +1,1 @@
-Carlos Delfino,23,DET,delfica01,68,1.6,9.3,9.7,1.5
+Carlos Delfino,23,DET,delfica01,68,1.6,9.3,9.7,1.5,10.6

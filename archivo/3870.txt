@@ -1,1 +1,1 @@
-Don Buse,31,IND,busedo01,82,3.2,4.8,22.5,0.6
+Don Buse,31,IND,busedo01,82,3.2,4.8,22.5,0.6,14.8

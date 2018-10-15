@@ -1,1 +1,1 @@
-Kirk Hinrich,26,CHI,hinriki01,80,1.8,5.5,29.2,0.6
+Kirk Hinrich,26,CHI,hinriki01,80,1.8,5.5,29.2,0.6,17

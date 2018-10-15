@@ -1,1 +1,1 @@
-Chris Mihm,24,BOS,mihmch01,54,1.5,16.6,2.0,3.4
+Chris Mihm,24,BOS,mihmch01,54,1.5,16.6,2,3.4,13.8

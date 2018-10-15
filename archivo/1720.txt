@@ -1,1 +1,1 @@
-Britton Johnsen,25,IND,johnsbr01,6,0.6,6.9,7.6,0.0
+Britton Johnsen,25,IND,johnsbr01,6,0.6,6.9,7.6,0,0.4

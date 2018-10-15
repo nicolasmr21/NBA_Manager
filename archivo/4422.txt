@@ -1,1 +1,1 @@
-Derrick Brown,22,CHA,brownde04,57,2.1,8.8,6.0,1.5
+Derrick Brown,22,CHA,brownde04,57,2.1,8.8,6,1.5,12.6

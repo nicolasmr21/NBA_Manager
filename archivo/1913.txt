@@ -1,1 +1,1 @@
-Speedy Claxton,27,NOK,claxtsp01,71,2.9,5.7,29.8,0.2
+Speedy Claxton,27,NOK,claxtsp01,71,2.9,5.7,29.8,0.2,16.1

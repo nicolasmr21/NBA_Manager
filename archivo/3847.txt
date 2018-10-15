@@ -1,1 +1,1 @@
-Chris Douglas-Roberts,22,NJN,douglch01,44,1.1,5.1,14.8,1.0
+Chris Douglas-Roberts,22,NJN,douglch01,44,1.1,5.1,14.8,1,12.2

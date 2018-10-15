@@ -1,1 +1,1 @@
-Marko Jaric,24,LAC,jaricma01,66,3.7,6.6,23.8,0.6
+Marko Jaric,24,LAC,jaricma01,66,3.7,6.6,23.8,0.6,14.4

@@ -1,1 +1,1 @@
-Jared Jeffries,21,WAS,jeffrja01,20,1.5,11.7,9.0,1.3
+Jared Jeffries,21,WAS,jeffrja01,20,1.5,11.7,9,1.3,11.1

@@ -1,1 +1,1 @@
-Dijon Thompson,23,ATL,thompdi01,6,0.0,9.6,6.8,0.0
+Dijon Thompson,23,ATL,thompdi01,6,0,9.6,6.8,0,11.6

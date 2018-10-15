@@ -1,1 +1,1 @@
-Kenny Anderson,33,IND,anderke01,44,1.6,5.3,24.2,0.4
+Kenny Anderson,33,IND,anderke01,44,1.6,5.3,24.2,0.4,11.1

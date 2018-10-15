@@ -1,1 +1,1 @@
-Dana Barros,36,BOS,barroda01,1,0.0,0.0,0.0,0.0
+Dana Barros,36,BOS,barroda01,1,0,0,0,0,17.8

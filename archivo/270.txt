@@ -1,1 +1,1 @@
-Vladimir Radmanovic,22,SEA,radmavl01,72,1.8,10.0,8.7,0.9
+Vladimir Radmanovic,22,SEA,radmavl01,72,1.8,10,8.7,0.9,13

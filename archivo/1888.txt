@@ -1,1 +1,1 @@
-Gary Payton,37,MIA,paytoga01,81,1.6,5.9,16.7,0.3
+Gary Payton,37,MIA,paytoga01,81,1.6,5.9,16.7,0.3,10.7

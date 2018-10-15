@@ -1,1 +1,1 @@
-Daequan Cook,21,MIA,cookda02,75,1.1,6.2,6.2,0.4
+Daequan Cook,21,MIA,cookda02,75,1.1,6.2,6.2,0.4,10.3

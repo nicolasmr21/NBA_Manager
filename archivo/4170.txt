@@ -1,1 +1,1 @@
-Tiny Archibald,33,BOS,architi01,68,1.1,2.9,31.9,0.1
+Tiny Archibald,33,BOS,architi01,68,1.1,2.9,31.9,0.1,14.3

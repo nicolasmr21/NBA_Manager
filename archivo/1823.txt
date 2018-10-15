@@ -1,1 +1,1 @@
-Brad Miller,29,SAC,millebr01,79,1.1,12.3,21.5,1.6
+Brad Miller,29,SAC,millebr01,79,1.1,12.3,21.5,1.6,17.5

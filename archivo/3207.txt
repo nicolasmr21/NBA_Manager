@@ -1,1 +1,1 @@
-Malik Allen,29,NJN,allenma01,48,1.0,9.7,6.8,2.1
+Malik Allen,29,NJN,allenma01,48,1,9.7,6.8,2.1,10.1

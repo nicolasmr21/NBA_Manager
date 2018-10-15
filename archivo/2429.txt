@@ -1,1 +1,1 @@
-Zach Randolph,25,POR,randoza01,68,1.2,17.6,12.8,0.5
+Zach Randolph,25,POR,randoza01,68,1.2,17.6,12.8,0.5,22.8

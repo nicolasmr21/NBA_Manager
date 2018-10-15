@@ -1,1 +1,1 @@
-Michael Finley,36,BOS,finlemi01,21,0.7,6.4,12.2,0.5
+Michael Finley,36,BOS,finlemi01,21,0.7,6.4,12.2,0.5,12.1

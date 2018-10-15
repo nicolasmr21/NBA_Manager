@@ -1,1 +1,1 @@
-Joey Dorsey,26,SAC,dorsejo01,8,1.0,19.8,0.0,1.4
+Joey Dorsey,26,SAC,dorsejo01,8,1,19.8,0,1.4,7.9

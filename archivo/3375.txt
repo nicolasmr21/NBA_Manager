@@ -1,1 +1,1 @@
-Mike Harris,24,HOU,harrimi01,17,2.0,19.2,3.2,1.4
+Mike Harris,24,HOU,harrimi01,17,2,19.2,3.2,1.4,17.1

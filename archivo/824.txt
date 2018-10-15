@@ -1,1 +1,1 @@
-Bonzi Wells,27,MEM,wellsbo01,59,2.5,7.7,13.0,0.8
+Bonzi Wells,27,MEM,wellsbo01,59,2.5,7.7,13,0.8,13.5

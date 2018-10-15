@@ -1,1 +1,1 @@
-Marvin Webster,25,SEA,webstma01,82,0.8,18.1,9.6,3.0
+Marvin Webster,25,SEA,webstma01,82,0.8,18.1,9.6,3,17

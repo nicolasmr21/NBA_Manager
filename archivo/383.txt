@@ -1,1 +1,1 @@
-Bob Sura,29,GSW,surabo01,55,2.0,7.9,23.9,0.1
+Bob Sura,29,GSW,surabo01,55,2,7.9,23.9,0.1,14.2

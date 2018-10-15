@@ -1,1 +1,1 @@
-Lee Nailon,28,CLE,nailole01,22,0.5,9.2,7.8,0.2
+Lee Nailon,28,CLE,nailole01,22,0.5,9.2,7.8,0.2,12.2

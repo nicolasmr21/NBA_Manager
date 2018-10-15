@@ -1,1 +1,1 @@
-Billy Knight,28,IND,knighbi01,82,1.7,9.4,10.0,0.3
+Billy Knight,28,IND,knighbi01,82,1.7,9.4,10,0.3,19.9

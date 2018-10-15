@@ -1,1 +1,1 @@
-Reggie Evans,23,SEA,evansre01,75,2.3,18.8,3.7,0.6
+Reggie Evans,23,SEA,evansre01,75,2.3,18.8,3.7,0.6,9.9

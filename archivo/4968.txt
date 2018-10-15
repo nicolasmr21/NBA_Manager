@@ -1,1 +1,1 @@
-Samardo Samuels,22,CLE,samuesa01,37,1.1,13.0,4.2,2.0
+Samardo Samuels,22,CLE,samuesa01,37,1.1,13,4.2,2,11.7

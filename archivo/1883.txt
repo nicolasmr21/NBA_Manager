@@ -1,1 +1,1 @@
-Brevin Knight,30,CHA,knighbr01,69,3.4,5.5,42.3,0.1
+Brevin Knight,30,CHA,knighbr01,69,3.4,5.5,42.3,0.1,17.3

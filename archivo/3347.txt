@@ -1,1 +1,1 @@
-Bobby Jones,24,DEN,jonesbo02,25,1.1,9.3,6.9,0.3
+Bobby Jones,24,DEN,jonesbo02,25,1.1,9.3,6.9,0.3,8.5

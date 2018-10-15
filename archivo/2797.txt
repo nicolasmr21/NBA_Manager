@@ -1,1 +1,1 @@
-Earl Barron,25,MIA,barroea01,28,1.6,11.9,4.0,1.6
+Earl Barron,25,MIA,barroea01,28,1.6,11.9,4,1.6,6.6

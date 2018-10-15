@@ -1,1 +1,1 @@
-Mike Bibby,32,MIA,bibbymi01,22,1.0,5.0,14.1,0.4
+Mike Bibby,32,MIA,bibbymi01,22,1,5,14.1,0.4,9

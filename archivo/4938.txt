@@ -1,1 +1,1 @@
-Gerald Wallace,28,POR,wallage01,23,3.1,13.0,11.9,1.5
+Gerald Wallace,28,POR,wallage01,23,3.1,13,11.9,1.5,18.9

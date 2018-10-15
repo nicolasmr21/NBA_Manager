@@ -1,1 +1,1 @@
-Craig Smith,23,MIN,smithcr01,82,1.8,16.2,5.4,0.9
+Craig Smith,23,MIN,smithcr01,82,1.8,16.2,5.4,0.9,15.7

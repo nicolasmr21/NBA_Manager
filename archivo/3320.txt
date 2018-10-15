@@ -1,1 +1,1 @@
-Andre Brown,26,MEM,brownan01,33,1.2,18.0,4.4,1.0
+Andre Brown,26,MEM,brownan01,33,1.2,18,4.4,1,13.5

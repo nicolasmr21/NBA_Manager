@@ -1,1 +1,1 @@
-Michael Olowokandi,30,BOS,olowomi01,16,0.9,15.0,5.8,2.7
+Michael Olowokandi,30,BOS,olowomi01,16,0.9,15,5.8,2.7,6.8

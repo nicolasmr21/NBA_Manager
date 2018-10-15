@@ -1,1 +1,1 @@
-James Posey,31,BOS,poseyja01,74,2.1,10.5,9.5,0.9
+James Posey,31,BOS,poseyja01,74,2.1,10.5,9.5,0.9,12

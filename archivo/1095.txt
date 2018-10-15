@@ -1,1 +1,1 @@
-Jamison Brewer,23,IND,breweja01,13,2.4,4.1,17.3,0.0
+Jamison Brewer,23,IND,breweja01,13,2.4,4.1,17.3,0,6.6

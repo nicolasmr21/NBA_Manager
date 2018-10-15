@@ -1,1 +1,1 @@
-Aaron Brooks,24,HOU,brookaa01,80,1.2,4.6,20.2,0.3
+Aaron Brooks,24,HOU,brookaa01,80,1.2,4.6,20.2,0.3,12.9

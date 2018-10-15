@@ -1,1 +1,1 @@
-Hedo Turkoglu,24,SAS,turkohe01,80,2.1,9.7,12.5,1.1
+Hedo Turkoglu,24,SAS,turkohe01,80,2.1,9.7,12.5,1.1,14.1

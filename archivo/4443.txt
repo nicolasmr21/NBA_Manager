@@ -1,1 +1,1 @@
-Johan Petro,24,DEN,petrojo01,36,1.2,17.1,4.8,2.2
+Johan Petro,24,DEN,petrojo01,36,1.2,17.1,4.8,2.2,10.7

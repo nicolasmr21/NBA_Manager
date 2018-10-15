@@ -1,1 +1,1 @@
-Maurice Evans,27,DET,evansma01,80,2.0,8.5,8.5,1.0
+Maurice Evans,27,DET,evansma01,80,2,8.5,8.5,1,14

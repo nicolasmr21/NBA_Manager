@@ -1,1 +1,1 @@
-Allen Iverson,27,PHI,iversal01,82,3.4,5.8,25.1,0.3
+Allen Iverson,27,PHI,iversal01,82,3.4,5.8,25.1,0.3,21.2

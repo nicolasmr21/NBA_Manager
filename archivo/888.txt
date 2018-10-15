@@ -1,1 +1,1 @@
-Christian Laettner,34,WAS,laettch01,48,2.0,13.2,15.7,2.1
+Christian Laettner,34,WAS,laettch01,48,2,13.2,15.7,2.1,14.5

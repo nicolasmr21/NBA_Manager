@@ -1,1 +1,1 @@
-Ira Newble,33,LAL,newblir01,6,1.6,19.7,13.4,2.3
+Ira Newble,33,LAL,newblir01,6,1.6,19.7,13.4,2.3,10

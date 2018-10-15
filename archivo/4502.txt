@@ -1,1 +1,1 @@
-Royal Ivey,28,PHI,iveyro01,26,2.2,6.5,10.8,0.7
+Royal Ivey,28,PHI,iveyro01,26,2.2,6.5,10.8,0.7,12.6

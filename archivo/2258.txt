@@ -1,1 +1,1 @@
-Will Bynum,23,GSW,bynumwi01,15,2.2,4.1,19.2,0.0
+Will Bynum,23,GSW,bynumwi01,15,2.2,4.1,19.2,0,8.7

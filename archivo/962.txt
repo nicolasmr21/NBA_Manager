@@ -1,1 +1,1 @@
-Qyntel Woods,22,POR,woodsqy01,62,1.7,12.0,11.5,1.6
+Qyntel Woods,22,POR,woodsqy01,62,1.7,12,11.5,1.6,9.4

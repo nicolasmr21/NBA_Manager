@@ -1,1 +1,1 @@
-James Thomas,24,POR,thomaja02,9,1.9,18.0,5.6,2.5
+James Thomas,24,POR,thomaja02,9,1.9,18,5.6,2.5,13.6

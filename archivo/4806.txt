@@ -1,1 +1,1 @@
-Marcin Gortat,26,PHO,gortama01,55,0.9,18.1,5.2,3.2
+Marcin Gortat,26,PHO,gortama01,55,0.9,18.1,5.2,3.2,18.8

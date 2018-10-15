@@ -1,1 +1,1 @@
-John Wall,20,WAS,walljo01,69,2.4,6.9,36.0,1.0
+John Wall,20,WAS,walljo01,69,2.4,6.9,36,1,15.8

@@ -1,1 +1,1 @@
-Brandon Bass,25,ORL,bassbr01,76,0.7,12.5,5.0,2.0
+Brandon Bass,25,ORL,bassbr01,76,0.7,12.5,5,2,15.9

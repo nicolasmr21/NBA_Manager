@@ -1,8 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.control.Spinner?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
 <?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
 
-
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="560.0" prefWidth="980.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/10.0.1">
-	<!-- TODO Add Nodes -->
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="1000.0" stylesheets="@application.css" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.SearchStatisticController">
+   <children>
+      <ScrollPane layoutY="145.0" prefHeight="400.0" prefWidth="1000.0">
+        <content>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="200.0" prefWidth="200.0">
+               <children>
+                  <TableView fx:id="tablePlayers" prefHeight="440.0" prefWidth="1000.0" stylesheets="@../application/application.css">
+                    <columns>
+                      <TableColumn fx:id="colName" prefWidth="75.0" text="Jugador, Edad, Team, id, games, ppm, rpm, spm, bpm" />
+                    </columns>
+                     <columnResizePolicy>
+                        <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+                     </columnResizePolicy>
+                  </TableView>
+               </children>
+            </AnchorPane>
+        </content>
+      </ScrollPane>
+      <Button fx:id="btnSearch" layoutX="721.0" layoutY="54.0" mnemonicParsing="false" onAction="#findPlayers" prefHeight="52.0" prefWidth="250.0" stylesheets="@application.css" text="BUSCAR">
+         <font>
+            <Font size="27.0" />
+         </font>
+      </Button>
+      <AnchorPane layoutX="3.0" prefHeight="140.0" prefWidth="718.0" stylesheets="@application.css">
+         <children>
+            <Text fill="#22cad3" layoutX="187.0" layoutY="58.0" strokeType="OUTSIDE" strokeWidth="0.0" text="BUSCAR" textAlignment="CENTER" wrappingWidth="369.13671875">
+               <font>
+                  <Font size="28.0" />
+               </font>
+            </Text>
+            <Text fill="#22cad3" layoutX="75.0" layoutY="58.0" strokeType="OUTSIDE" strokeWidth="0.0" text="ESTADISTICO" wrappingWidth="240.13671875">
+               <font>
+                  <Font size="28.0" />
+               </font>
+            </Text>
+            <Text fill="#22cad3" layoutX="403.0" layoutY="58.0" strokeType="OUTSIDE" strokeWidth="0.0" text="BUSCAR" textAlignment="CENTER" wrappingWidth="369.13671875">
+               <font>
+                  <Font size="28.0" />
+               </font>
+            </Text>
+            <Spinner fx:id="spinnerVal" layoutX="523.0" layoutY="77.0" prefHeight="40.0" prefWidth="130.0" />
+            <AnchorPane layoutY="-11.0" prefHeight="154.0" prefWidth="836.0" stylesheets="@application.css">
+               <children>
+                  <ComboBox fx:id="comboInterval" blendMode="ADD" layoutX="308.0" layoutY="90.0" prefHeight="37.0" prefWidth="150.0" promptText="Elija" style="-fx-background-color: #22cad3;" />
+                  <ComboBox fx:id="comboStatistic" blendMode="ADD" layoutX="88.0" layoutY="90.0" prefHeight="37.0" prefWidth="150.0" promptText="Elija" style="-fx-background-color: #22cad3;" />
+               </children>
+            </AnchorPane>
+         </children>
+      </AnchorPane>
+   </children>
 </AnchorPane>

@@ -1,1 +1,1 @@
-Lester Hudson,25,BOS,hudsole01,16,2.2,7.0,17.1,2.3
+Lester Hudson,25,BOS,hudsole01,16,2.2,7,17.1,2.3,8.7

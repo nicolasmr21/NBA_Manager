@@ -1,1 +1,1 @@
-Arron Afflalo,24,DEN,afflaar01,82,1.0,6.5,9.3,1.0
+Arron Afflalo,24,DEN,afflaar01,82,1,6.5,9.3,1,10.9

@@ -1,1 +1,1 @@
-Jackie Butler,19,NYK,butleja01,3,10.6,0.0,0.0,0.0
+Jackie Butler,19,NYK,butleja01,3,10.6,0,0,0,90.3

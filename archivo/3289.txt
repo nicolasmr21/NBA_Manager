@@ -1,1 +1,1 @@
-Derek Anderson,33,CHA,anderde01,28,1.6,7.5,17.8,0.2
+Derek Anderson,33,CHA,anderde01,28,1.6,7.5,17.8,0.2,10

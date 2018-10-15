@@ -1,1 +1,1 @@
-Royal Ivey,28,MIL,iveyro01,18,5.2,5.0,16.8,0.0
+Royal Ivey,28,MIL,iveyro01,18,5.2,5,16.8,0,6.8

@@ -1,1 +1,1 @@
-Kirk Hinrich,30,WAS,hinriki01,48,1.9,5.0,22.7,0.5
+Kirk Hinrich,30,WAS,hinriki01,48,1.9,5,22.7,0.5,13.5

@@ -1,1 +1,1 @@
-Zaza Pachulia,21,ATL,pachuza01,78,1.9,15.0,8.5,1.2
+Zaza Pachulia,21,ATL,pachuza01,78,1.9,15,8.5,1.2,15

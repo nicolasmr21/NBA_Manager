@@ -1,1 +1,1 @@
-Brandon Roy,22,POR,roybr01,57,1.8,7.7,20.9,0.4
+Brandon Roy,22,POR,roybr01,57,1.8,7.7,20.9,0.4,18

@@ -1,1 +1,1 @@
-Gus Williams,28,SEA,willigu01,80,2.9,4.6,31.0,0.7
+Gus Williams,28,SEA,willigu01,80,2.9,4.6,31,0.7,21.8

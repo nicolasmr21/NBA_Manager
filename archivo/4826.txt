@@ -1,1 +1,1 @@
-Scott Wedman,29,CLE,wedmasc01,54,2.2,10.5,11.6,0.5
+Scott Wedman,29,CLE,wedmasc01,54,2.2,10.5,11.6,0.5,12.5

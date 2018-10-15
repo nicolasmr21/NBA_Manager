@@ -1,1 +1,1 @@
-Chase Budinger,22,HOU,budinch01,78,1.2,9.2,11.5,0.7
+Chase Budinger,22,HOU,budinch01,78,1.2,9.2,11.5,0.7,14.2

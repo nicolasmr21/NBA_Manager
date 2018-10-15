@@ -1,1 +1,1 @@
-Shane Battier,25,MEM,battish01,79,2.7,8.8,8.4,2.2
+Shane Battier,25,MEM,battish01,79,2.7,8.8,8.4,2.2,15.3

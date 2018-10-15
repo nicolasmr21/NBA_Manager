@@ -1,1 +1,1 @@
-Eric Piatkowski,34,CHI,piatker01,68,1.8,5.3,10.3,0.1
+Eric Piatkowski,34,CHI,piatker01,68,1.8,5.3,10.3,0.1,12.4

@@ -1,1 +1,1 @@
-Bo Outlaw,32,MEM,outlabo01,82,2.4,12.0,8.7,3.2
+Bo Outlaw,32,MEM,outlabo01,82,2.4,12,8.7,3.2,13.1

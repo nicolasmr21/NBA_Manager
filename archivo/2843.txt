@@ -1,1 +1,1 @@
-Eric Williams,34,SAS,willier01,16,1.2,9.6,11.6,0.0
+Eric Williams,34,SAS,willier01,16,1.2,9.6,11.6,0,14.8

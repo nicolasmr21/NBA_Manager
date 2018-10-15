@@ -1,1 +1,1 @@
-Sebastian Telfair,25,MIN,telfase01,37,1.7,4.2,24.2,0.3
+Sebastian Telfair,25,MIN,telfase01,37,1.7,4.2,24.2,0.3,10.5

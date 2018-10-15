@@ -1,1 +1,1 @@
-Mike Bibby,28,SAC,bibbymi01,82,1.6,5.5,24.3,0.2
+Mike Bibby,28,SAC,bibbymi01,82,1.6,5.5,24.3,0.2,16

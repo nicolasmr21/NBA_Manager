@@ -1,1 +1,1 @@
-Ike Diogu,25,SAC,dioguik01,10,0.7,16.0,4.1,0.5
+Ike Diogu,25,SAC,dioguik01,10,0.7,16,4.1,0.5,24.9

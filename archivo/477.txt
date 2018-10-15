@@ -1,1 +1,1 @@
-Dikembe Mutombo,36,NJN,mutomdi01,24,0.4,17.0,5.8,5.4
+Dikembe Mutombo,36,NJN,mutomdi01,24,0.4,17,5.8,5.4,11.2

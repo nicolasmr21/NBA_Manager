@@ -1,1 +1,1 @@
-Robert Archibald,23,ORL,archiro01,1,13.2,14.2,0.0,0.0
+Robert Archibald,23,ORL,archiro01,1,13.2,14.2,0,0,20.6

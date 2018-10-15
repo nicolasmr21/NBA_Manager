@@ -1,1 +1,1 @@
-Kosta Perovic,22,GSW,perovko01,7,0.0,18.3,3.4,3.8
+Kosta Perovic,22,GSW,perovko01,7,0,18.3,3.4,3.8,10.3

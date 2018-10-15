@@ -1,1 +1,1 @@
-Rafer Alston,31,HOU,alstora01,74,2.1,5.8,25.2,0.5
+Rafer Alston,31,HOU,alstora01,74,2.1,5.8,25.2,0.5,13.2

@@ -1,1 +1,1 @@
-Mike Sweetney,23,CHI,sweetmi01,66,0.8,16.5,8.2,3.6
+Mike Sweetney,23,CHI,sweetmi01,66,0.8,16.5,8.2,3.6,13.9

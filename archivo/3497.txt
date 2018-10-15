@@ -1,1 +1,1 @@
-Derrick Rose,20,CHI,rosede01,81,1.1,6.1,28.8,0.4
+Derrick Rose,20,CHI,rosede01,81,1.1,6.1,28.8,0.4,16

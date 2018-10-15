@@ -1,1 +1,1 @@
-Eddie Jordan,26,LAL,jordaed01,60,3.5,4.4,23.7,0.4
+Eddie Jordan,26,LAL,jordaed01,60,3.5,4.4,23.7,0.4,9.7

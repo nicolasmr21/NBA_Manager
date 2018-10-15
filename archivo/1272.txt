@@ -1,1 +1,1 @@
-Al Harrington,24,ATL,harrial01,66,1.8,10.5,14.5,0.5
+Al Harrington,24,ATL,harrial01,66,1.8,10.5,14.5,0.5,14.4

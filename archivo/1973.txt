@@ -1,1 +1,1 @@
-Kenyon Martin,28,DEN,martike01,56,1.4,13.3,8.8,2.5
+Kenyon Martin,28,DEN,martike01,56,1.4,13.3,8.8,2.5,16.7

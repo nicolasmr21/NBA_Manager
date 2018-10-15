@@ -1,1 +1,1 @@
-Mark Bryant,37,PHI,bryanma01,11,0.7,12.2,1.9,1.0
+Mark Bryant,37,PHI,bryanma01,11,0.7,12.2,1.9,1,1.5

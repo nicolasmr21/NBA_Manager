@@ -1,1 +1,1 @@
-Channing Frye,27,PHO,fryech01,77,0.9,11.7,5.7,2.3
+Channing Frye,27,PHO,fryech01,77,0.9,11.7,5.7,2.3,12.8

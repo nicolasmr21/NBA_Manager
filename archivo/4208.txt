@@ -1,1 +1,1 @@
-Charlie Villanueva,25,DET,villach01,78,1.4,12.0,5.2,2.5
+Charlie Villanueva,25,DET,villach01,78,1.4,12,5.2,2.5,16

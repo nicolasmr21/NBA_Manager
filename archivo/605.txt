@@ -1,1 +1,1 @@
-Anthony Goldwire,31,WAS,goldwan01,5,0.0,5.2,5.0,0.0
+Anthony Goldwire,31,WAS,goldwan01,5,0,5.2,5,0,9.6

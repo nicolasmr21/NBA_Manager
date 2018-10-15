@@ -1,1 +1,1 @@
-Norm Richardson,22,IND,richano01,3,0.0,14.1,33.9,0.0
+Norm Richardson,22,IND,richano01,3,0,14.1,33.9,0,-10.2

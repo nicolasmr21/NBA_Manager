@@ -1,1 +1,1 @@
-Damir Markota,21,MIL,markoda01,30,0.9,10.7,5.2,0.5
+Damir Markota,21,MIL,markoda01,30,0.9,10.7,5.2,0.5,5

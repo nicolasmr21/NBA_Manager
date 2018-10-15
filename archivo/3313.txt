@@ -1,1 +1,1 @@
-Stephane Lasme,25,MIA,lasmest01,15,2.3,10.5,1.6,5.8
+Stephane Lasme,25,MIA,lasmest01,15,2.3,10.5,1.6,5.8,11.7

@@ -1,1 +1,1 @@
-A.J. Guyton,24,GSW,guytoaj01,2,5.7,0.0,28.7,0.0
+A.J. Guyton,24,GSW,guytoaj01,2,5.7,0,28.7,0,-9

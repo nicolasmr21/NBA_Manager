@@ -1,1 +1,1 @@
-Shandon Anderson,30,NYK,andersh01,80,1.8,6.5,10.2,0.7
+Shandon Anderson,30,NYK,andersh01,80,1.8,6.5,10.2,0.7,10.1

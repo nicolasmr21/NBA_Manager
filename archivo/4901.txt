@@ -1,1 +1,1 @@
-Jonny Flynn,21,MIN,flynnjo01,53,1.7,4.3,27.6,0.2
+Jonny Flynn,21,MIN,flynnjo01,53,1.7,4.3,27.6,0.2,7.1

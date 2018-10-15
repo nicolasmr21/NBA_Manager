@@ -1,1 +1,1 @@
-Chris Kaman,23,LAC,kamanch01,78,0.9,17.0,5.0,3.2
+Chris Kaman,23,LAC,kamanch01,78,0.9,17,5,3.2,15

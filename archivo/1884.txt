@@ -1,1 +1,1 @@
-Eric Snow,32,CLE,snower01,82,1.7,5.0,22.2,0.6
+Eric Snow,32,CLE,snower01,82,1.7,5,22.2,0.6,8.1

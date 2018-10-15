@@ -1,1 +1,1 @@
-Primoz Brezec,27,CHA,brezepr01,58,0.7,13.0,4.6,2.1
+Primoz Brezec,27,CHA,brezepr01,58,0.7,13,4.6,2.1,9.7

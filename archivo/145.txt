@@ -1,1 +1,1 @@
-Jason Terry,25,ATL,terryja01,81,2.2,5.2,34.8,0.3
+Jason Terry,25,ATL,terryja01,81,2.2,5.2,34.8,0.3,18.2

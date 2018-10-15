@@ -1,1 +1,1 @@
-Chad Kinch,22,CLE,kinchch01,29,1.7,5.4,19.0,1.1
+Chad Kinch,22,CLE,kinchch01,29,1.7,5.4,19,1.1,8

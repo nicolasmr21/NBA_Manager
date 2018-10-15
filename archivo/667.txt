@@ -1,1 +1,1 @@
-Gary Payton,35,LAL,paytoga01,82,1.8,6.9,26.9,0.5
+Gary Payton,35,LAL,paytoga01,82,1.8,6.9,26.9,0.5,17.3

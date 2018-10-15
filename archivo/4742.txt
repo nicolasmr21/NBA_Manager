@@ -1,1 +1,1 @@
-Kris Humphries,25,NJN,humphkr01,74,0.9,22.1,7.0,3.0
+Kris Humphries,25,NJN,humphkr01,74,0.9,22.1,7,3,17.8

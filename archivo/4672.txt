@@ -1,1 +1,1 @@
-Kyle Lowry,24,HOU,lowryky01,75,2.0,6.8,29.4,0.6
+Kyle Lowry,24,HOU,lowryky01,75,2,6.8,29.4,0.6,16.5

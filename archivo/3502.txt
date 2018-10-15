@@ -1,1 +1,1 @@
-Kobe Bryant,30,LAL,bryanko01,82,2.1,8.2,23.8,1.0
+Kobe Bryant,30,LAL,bryanko01,82,2.1,8.2,23.8,1,24.4

@@ -1,1 +1,1 @@
-Tom Owens,31,POR,owensto01,79,0.9,13.5,9.9,1.4
+Tom Owens,31,POR,owensto01,79,0.9,13.5,9.9,1.4,15.1

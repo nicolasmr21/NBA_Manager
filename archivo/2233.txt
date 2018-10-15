@@ -1,1 +1,1 @@
-Lee Nailon,30,PHI,nailole01,22,1.7,10.4,5.0,1.3
+Lee Nailon,30,PHI,nailole01,22,1.7,10.4,5,1.3,14.5

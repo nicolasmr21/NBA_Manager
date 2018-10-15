@@ -1,1 +1,1 @@
-Wally Szczerbiak,30,CLE,szczewa02,25,0.9,8.3,10.4,1.0
+Wally Szczerbiak,30,CLE,szczewa02,25,0.9,8.3,10.4,1,10.3

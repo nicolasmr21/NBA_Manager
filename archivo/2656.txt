@@ -1,1 +1,1 @@
-Clifford Robinson,40,NJN,robincl02,50,0.7,7.5,8.2,1.9
+Clifford Robinson,40,NJN,robincl02,50,0.7,7.5,8.2,1.9,5.9

@@ -1,1 +1,1 @@
-Coby Karl,24,LAL,karlco01,17,2.8,10.9,18.3,2.0
+Coby Karl,24,LAL,karlco01,17,2.8,10.9,18.3,2,15.8

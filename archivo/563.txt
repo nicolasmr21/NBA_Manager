@@ -1,1 +1,1 @@
-Primoz Brezec,23,IND,brezepr01,22,0.9,11.6,6.0,2.6
+Primoz Brezec,23,IND,brezepr01,22,0.9,11.6,6,2.6,10.9

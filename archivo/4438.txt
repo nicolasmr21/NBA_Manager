@@ -1,1 +1,1 @@
-Mardy Collins,25,LAC,collima01,43,2.5,6.2,14.1,0.2
+Mardy Collins,25,LAC,collima01,43,2.5,6.2,14.1,0.2,5.7

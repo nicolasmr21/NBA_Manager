@@ -1,1 +1,1 @@
-Stromile Swift,23,MEM,swiftst01,67,1.9,14.6,5.0,4.8
+Stromile Swift,23,MEM,swiftst01,67,1.9,14.6,5,4.8,18

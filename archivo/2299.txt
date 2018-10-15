@@ -1,1 +1,1 @@
-Dwayne Jones,22,BOS,jonesdw02,14,0.6,21.7,3.3,2.6
+Dwayne Jones,22,BOS,jonesdw02,14,0.6,21.7,3.3,2.6,9.2

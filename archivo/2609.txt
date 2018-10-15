@@ -1,1 +1,1 @@
-Chris Webber,33,DET,webbech01,43,1.8,13.4,17.0,1.6
+Chris Webber,33,DET,webbech01,43,1.8,13.4,17,1.6,16.9

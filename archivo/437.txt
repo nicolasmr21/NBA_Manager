@@ -1,1 +1,1 @@
-Robert Parish,27,BOS,parisro01,82,1.7,19.3,10.0,5.1
+Robert Parish,27,BOS,parisro01,82,1.7,19.3,10,5.1,25.2

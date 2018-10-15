@@ -1,1 +1,1 @@
-Steve Novak,25,LAC,novakst01,71,0.9,6.2,5.8,0.3
+Steve Novak,25,LAC,novakst01,71,0.9,6.2,5.8,0.3,13.5

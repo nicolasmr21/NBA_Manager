@@ -1,1 +1,1 @@
-Frank Williams,23,NYK,willifr02,56,1.9,4.3,27.7,0.6
+Frank Williams,23,NYK,willifr02,56,1.9,4.3,27.7,0.6,10.7

@@ -1,1 +1,1 @@
-Reggie Slater,32,MIN,slatere01,26,2.2,12.5,4.7,0.5
+Reggie Slater,32,MIN,slatere01,26,2.2,12.5,4.7,0.5,19.2

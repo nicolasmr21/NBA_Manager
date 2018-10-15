@@ -1,1 +1,1 @@
-Rod Strickland,36,MIN,stricro02,47,2.5,5.6,33.3,0.5
+Rod Strickland,36,MIN,stricro02,47,2.5,5.6,33.3,0.5,15.4

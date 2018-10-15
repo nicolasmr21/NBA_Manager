@@ -1,1 +1,1 @@
-Geoff Huston,23,DAL,hustoge01,56,1.2,3.0,24.1,0.2
+Geoff Huston,23,DAL,hustoge01,56,1.2,3,24.1,0.2,13.4

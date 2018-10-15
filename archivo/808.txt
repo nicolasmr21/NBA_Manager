@@ -1,1 +1,1 @@
-Mehmet Okur,24,DET,okurme01,71,1.2,15.4,8.2,3.0
+Mehmet Okur,24,DET,okurme01,71,1.2,15.4,8.2,3,18.3

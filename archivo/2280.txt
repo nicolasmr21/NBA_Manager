@@ -1,1 +1,1 @@
-Aaron McKie,33,LAL,mckieaa01,14,2.2,9.7,12.5,0.0
+Aaron McKie,33,LAL,mckieaa01,14,2.2,9.7,12.5,0,6.1

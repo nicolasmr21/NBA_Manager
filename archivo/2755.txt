@@ -1,1 +1,1 @@
-James Singleton,25,LAC,singlja01,53,2.1,16.9,7.0,3.5
+James Singleton,25,LAC,singlja01,53,2.1,16.9,7,3.5,11.9

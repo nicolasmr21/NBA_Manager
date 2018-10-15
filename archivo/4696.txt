@@ -1,1 +1,1 @@
-Travis Outlaw,26,NJN,outlatr01,82,0.8,8.1,5.8,1.2
+Travis Outlaw,26,NJN,outlatr01,82,0.8,8.1,5.8,1.2,8.8

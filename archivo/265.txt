@@ -1,1 +1,1 @@
-Ira Newble,28,ATL,newblir01,73,1.4,8.0,8.6,0.9
+Ira Newble,28,ATL,newblir01,73,1.4,8,8.6,0.9,11.7

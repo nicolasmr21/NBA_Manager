@@ -1,1 +1,1 @@
-Luis Scola,29,HOU,scolalu01,82,1.2,15.1,11.1,0.7
+Luis Scola,29,HOU,scolalu01,82,1.2,15.1,11.1,0.7,17.2

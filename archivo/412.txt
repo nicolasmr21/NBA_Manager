@@ -1,1 +1,1 @@
-Mark Blount,27,DEN,blounma01,54,1.3,12.0,7.0,4.6
+Mark Blount,27,DEN,blounma01,54,1.3,12,7,4.6,9.6

@@ -1,1 +1,1 @@
-Caron Butler,27,WAS,butleca01,58,3.0,9.8,21.9,0.7
+Caron Butler,27,WAS,butleca01,58,3,9.8,21.9,0.7,20.7

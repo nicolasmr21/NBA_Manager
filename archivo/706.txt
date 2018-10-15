@@ -1,1 +1,1 @@
-James Posey,27,MEM,poseyja01,82,2.9,9.3,8.4,1.2
+James Posey,27,MEM,poseyja01,82,2.9,9.3,8.4,1.2,18.8

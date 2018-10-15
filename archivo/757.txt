@@ -1,1 +1,1 @@
-Carlos Arroyo,24,UTA,arroyca01,71,1.7,5.7,34.6,0.2
+Carlos Arroyo,24,UTA,arroyca01,71,1.7,5.7,34.6,0.2,16.8

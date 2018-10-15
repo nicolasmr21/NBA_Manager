@@ -1,1 +1,1 @@
-Joseph Forte,21,SEA,fortejo01,17,2.5,7.5,20.9,0.0
+Joseph Forte,21,SEA,fortejo01,17,2.5,7.5,20.9,0,3.4

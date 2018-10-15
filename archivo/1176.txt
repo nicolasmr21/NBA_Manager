@@ -1,1 +1,1 @@
-Anthony Goldwire,32,NJN,goldwan01,6,5.6,3.1,8.6,0.0
+Anthony Goldwire,32,NJN,goldwan01,6,5.6,3.1,8.6,0,2.4

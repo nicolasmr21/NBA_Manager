@@ -1,1 +1,1 @@
-Isaac Fontaine,26,MEM,fontais01,6,0.0,3.7,7.8,0.0
+Isaac Fontaine,26,MEM,fontais01,6,0,3.7,7.8,0,-0.9

@@ -1,1 +1,1 @@
-James Jones,26,PHO,jonesja02,76,1.0,7.5,4.5,2.1
+James Jones,26,PHO,jonesja02,76,1,7.5,4.5,2.1,10.8

@@ -1,1 +1,1 @@
-Bobby Simmons,29,NJN,simmobo01,23,2.0,9.2,6.3,0.6
+Bobby Simmons,29,NJN,simmobo01,23,2,9.2,6.3,0.6,8

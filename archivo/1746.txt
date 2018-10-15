@@ -1,1 +1,1 @@
-Elden Campbell,36,NJN,campbel01,10,0.0,13.2,8.7,1.6
+Elden Campbell,36,NJN,campbel01,10,0,13.2,8.7,1.6,-1.4

@@ -1,1 +1,1 @@
-Steven Hunter,26,DEN,huntest01,19,0.0,13.1,0.0,3.5
+Steven Hunter,26,DEN,huntest01,19,0,13.1,0,3.5,8.6

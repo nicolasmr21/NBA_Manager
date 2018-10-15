@@ -1,1 +1,1 @@
-Eddie Johnson,22,ATL,johnsed02,79,2.5,4.4,18.9,0.1
+Eddie Johnson,22,ATL,johnsed02,79,2.5,4.4,18.9,0.1,13.6

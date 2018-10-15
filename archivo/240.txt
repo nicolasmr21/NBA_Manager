@@ -1,1 +1,1 @@
-Anthony Mason,36,MIL,masonan01,65,0.8,11.5,14.6,0.4
+Anthony Mason,36,MIL,masonan01,65,0.8,11.5,14.6,0.4,11.3

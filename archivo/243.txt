@@ -1,1 +1,1 @@
-Corliss Williamson,29,DET,willico02,82,1.2,10.3,10.2,1.0
+Corliss Williamson,29,DET,willico02,82,1.2,10.3,10.2,1,15.7

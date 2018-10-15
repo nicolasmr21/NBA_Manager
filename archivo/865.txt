@@ -1,1 +1,1 @@
-Calvin Booth,27,SEA,boothca01,71,0.8,13.7,3.7,6.3
+Calvin Booth,27,SEA,boothca01,71,0.8,13.7,3.7,6.3,13.6

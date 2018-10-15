@@ -1,1 +1,1 @@
-Shannon Brown,21,CLE,brownsh01,23,1.8,6.0,8.1,1.2
+Shannon Brown,21,CLE,brownsh01,23,1.8,6,8.1,1.2,7.5

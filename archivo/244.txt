@@ -1,1 +1,1 @@
-Carlos Boozer,21,CLE,boozeca01,81,1.5,16.6,9.3,1.7
+Carlos Boozer,21,CLE,boozeca01,81,1.5,16.6,9.3,1.7,17.9

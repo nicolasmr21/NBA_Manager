@@ -1,1 +1,1 @@
-Calvin Booth,30,WAS,boothca01,44,0.5,12.3,6.8,5.9
+Calvin Booth,30,WAS,boothca01,44,0.5,12.3,6.8,5.9,9.6

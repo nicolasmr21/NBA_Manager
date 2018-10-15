@@ -1,1 +1,1 @@
-Wayne Ellington,22,MIN,ellinwa01,76,0.7,6.4,8.3,0.3
+Wayne Ellington,22,MIN,ellinwa01,76,0.7,6.4,8.3,0.3,9.6

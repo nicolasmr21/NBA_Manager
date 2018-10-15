@@ -1,1 +1,1 @@
-Alan Anderson,23,CHA,anderal01,36,1.0,7.2,9.3,0.6
+Alan Anderson,23,CHA,anderal01,36,1,7.2,9.3,0.6,10.4

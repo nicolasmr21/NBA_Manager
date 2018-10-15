@@ -1,1 +1,1 @@
-Roko Ukic,24,TOR,ukicro01,72,1.8,4.9,27.2,0.2
+Roko Ukic,24,TOR,ukicro01,72,1.8,4.9,27.2,0.2,9.8

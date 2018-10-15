@@ -1,1 +1,1 @@
-Al Thornton,25,LAC,thornal01,71,1.2,8.0,6.9,1.7
+Al Thornton,25,LAC,thornal01,71,1.2,8,6.9,1.7,12.6

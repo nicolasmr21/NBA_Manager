@@ -1,1 +1,1 @@
-Truck Robinson,30,PHO,robintr01,74,0.7,14.5,9.7,0.6
+Truck Robinson,30,PHO,robintr01,74,0.7,14.5,9.7,0.6,16.1

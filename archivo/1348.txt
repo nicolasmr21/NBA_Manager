@@ -1,1 +1,1 @@
-David Wesley,34,HOU,wesleda01,54,1.8,4.5,14.0,0.3
+David Wesley,34,HOU,wesleda01,54,1.8,4.5,14,0.3,11.6

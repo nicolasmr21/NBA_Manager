@@ -1,1 +1,1 @@
-Nenad Krstic,23,NJN,krstine01,26,0.6,12.2,10.2,2.2
+Nenad Krstic,23,NJN,krstine01,26,0.6,12.2,10.2,2.2,16.9

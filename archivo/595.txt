@@ -1,1 +1,1 @@
-Kirk Haston,23,NOH,hastoki01,12,0.0,7.1,7.6,6.3
+Kirk Haston,23,NOH,hastoki01,12,0,7.1,7.6,6.3,-9.1

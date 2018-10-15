@@ -1,1 +1,1 @@
-Anthony Randolph,20,GSW,randoan01,33,1.8,16.0,8.5,4.9
+Anthony Randolph,20,GSW,randoan01,33,1.8,16,8.5,4.9,18.7

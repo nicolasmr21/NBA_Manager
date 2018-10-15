@@ -1,1 +1,1 @@
-Bob Lanier,32,MIL,laniebo01,67,1.9,13.0,14.0,2.6
+Bob Lanier,32,MIL,laniebo01,67,1.9,13,14,2.6,19.7

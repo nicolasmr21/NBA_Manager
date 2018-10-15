@@ -1,1 +1,1 @@
-Chucky Atkins,34,DEN,atkinch01,14,0.9,3.0,34.9,0.7
+Chucky Atkins,34,DEN,atkinch01,14,0.9,3,34.9,0.7,8.9

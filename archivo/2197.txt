@@ -1,1 +1,1 @@
-Eric Williams,33,TOR,willier01,28,1.0,8.7,6.3,0.4
+Eric Williams,33,TOR,willier01,28,1,8.7,6.3,0.4,6.8

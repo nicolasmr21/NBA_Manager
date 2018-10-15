@@ -1,1 +1,1 @@
-Mitch Kupchak,26,WSB,kupchmi01,82,0.9,15.5,4.6,0.7
+Mitch Kupchak,26,WSB,kupchmi01,82,0.9,15.5,4.6,0.7,16.6

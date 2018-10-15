@@ -1,1 +1,1 @@
-Samuel Dalembert,28,PHI,dalemsa01,82,1.0,21.8,4.7,5.6
+Samuel Dalembert,28,PHI,dalemsa01,82,1,21.8,4.7,5.6,16.8

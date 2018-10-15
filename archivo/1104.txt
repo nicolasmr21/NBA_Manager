@@ -1,1 +1,1 @@
-Rodney Buford,26,SAC,buforro01,22,2.2,6.0,7.6,0.5
+Rodney Buford,26,SAC,buforro01,22,2.2,6,7.6,0.5,6.2

@@ -1,1 +1,1 @@
-Donyell Marshall,29,CHI,marshdo01,78,2.0,16.2,10.0,2.6
+Donyell Marshall,29,CHI,marshdo01,78,2,16.2,10,2.6,18.4

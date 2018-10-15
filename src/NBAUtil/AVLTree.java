@@ -20,7 +20,7 @@ public class AVLTree<K, V> implements IBinaryTree<K, V>{
 		return searchAVL(key, root);
 	}
 
-	private Node<K, V> searchAVL(K key, Node<K, V> node)
+	public Node<K, V> searchAVL(K key, Node<K, V> node)
 	{
 		if(node!=null)
 		{

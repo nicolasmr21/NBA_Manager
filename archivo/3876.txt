@@ -1,1 +1,1 @@
-Tyronn Lue,31,MIL,luety01,30,0.8,5.3,18.8,0.0
+Tyronn Lue,31,MIL,luety01,30,0.8,5.3,18.8,0,10.6

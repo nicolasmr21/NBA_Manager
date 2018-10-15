@@ -1,1 +1,1 @@
-Antonio Daniels,33,NOH,daniean01,61,1.4,4.5,28.3,0.1
+Antonio Daniels,33,NOH,daniean01,61,1.4,4.5,28.3,0.1,12.6

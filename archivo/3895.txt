@@ -1,1 +1,1 @@
-Jason Hart,30,LAC,hartja01,28,2.0,7.8,20.8,0.9
+Jason Hart,30,LAC,hartja01,28,2,7.8,20.8,0.9,6.1

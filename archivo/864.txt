@@ -1,1 +1,1 @@
-Chris Crawford,28,ATL,crawfch01,56,1.6,8.2,7.0,1.2
+Chris Crawford,28,ATL,crawfch01,56,1.6,8.2,7,1.2,15.8

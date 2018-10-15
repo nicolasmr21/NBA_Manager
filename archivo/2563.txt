@@ -1,1 +1,1 @@
-Bostjan Nachbar,26,NJN,nachbbo01,76,1.0,9.7,6.8,1.3
+Bostjan Nachbar,26,NJN,nachbbo01,76,1,9.7,6.8,1.3,14.5

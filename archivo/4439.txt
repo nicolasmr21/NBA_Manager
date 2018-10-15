@@ -1,1 +1,1 @@
-Darrell Arthur,21,MEM,arthuda01,32,1.6,14.0,4.9,2.3
+Darrell Arthur,21,MEM,arthuda01,32,1.6,14,4.9,2.3,10.5

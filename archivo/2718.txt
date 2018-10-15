@@ -1,1 +1,1 @@
-Steve Blake,26,MIL,blakest01,33,0.9,4.5,20.3,0.4
+Steve Blake,26,MIL,blakest01,33,0.9,4.5,20.3,0.4,6.8

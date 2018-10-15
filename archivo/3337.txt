@@ -1,1 +1,1 @@
-James Edwards,22,IND,edwarja01,58,1.0,12.6,4.9,1.5
+James Edwards,22,IND,edwarja01,58,1,12.6,4.9,1.5,14.8

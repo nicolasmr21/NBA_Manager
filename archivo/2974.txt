@@ -1,1 +1,1 @@
-Richard Hamilton,29,DET,hamilri01,72,1.7,5.8,22.3,0.3
+Richard Hamilton,29,DET,hamilri01,72,1.7,5.8,22.3,0.3,18.2

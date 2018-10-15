@@ -1,1 +1,1 @@
-Rick Brunson,31,CHI,brunsri01,37,3.2,5.0,32.6,0.6
+Rick Brunson,31,CHI,brunsri01,37,3.2,5,32.6,0.6,12.9

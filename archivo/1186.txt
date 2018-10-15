@@ -1,1 +1,1 @@
-Jelani McCoy,26,CLE,mccoyje01,2,0.0,18.4,0.0,0.0
+Jelani McCoy,26,CLE,mccoyje01,2,0,18.4,0,0,-3.8

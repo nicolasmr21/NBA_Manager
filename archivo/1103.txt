@@ -1,1 +1,1 @@
-Rich Kelley,27,PHO,kelleri01,81,2.1,14.4,21.1,2.1
+Rich Kelley,27,PHO,kelleri01,81,2.1,14.4,21.1,2.1,14.4

@@ -1,1 +1,1 @@
-Al Harrington,30,DEN,harrial01,73,1.2,11.5,9.6,0.5
+Al Harrington,30,DEN,harrial01,73,1.2,11.5,9.6,0.5,12.3

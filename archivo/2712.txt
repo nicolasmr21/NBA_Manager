@@ -1,1 +1,1 @@
-Malik Allen,28,CHI,allenma01,60,1.4,10.6,4.2,2.0
+Malik Allen,28,CHI,allenma01,60,1.4,10.6,4.2,2,10.4

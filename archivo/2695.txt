@@ -1,1 +1,1 @@
-Jeff McInnis,32,CHA,mcinnje01,38,1.0,5.2,27.7,0.0
+Jeff McInnis,32,CHA,mcinnje01,38,1,5.2,27.7,0,7.7

@@ -1,1 +1,1 @@
-Jeremy Richardson,23,MEM,richaje01,3,0.0,3.7,8.6,0.0
+Jeremy Richardson,23,MEM,richaje01,3,0,3.7,8.6,0,-18.1

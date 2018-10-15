@@ -1,1 +1,1 @@
-Beno Udrih,25,SAC,udrihbe01,65,1.4,6.2,22.2,0.4
+Beno Udrih,25,SAC,udrihbe01,65,1.4,6.2,22.2,0.4,13.3

@@ -1,1 +1,1 @@
-Guy Rucker,25,GSW,ruckegu01,3,0.0,13.3,32.3,0.0
+Guy Rucker,25,GSW,ruckegu01,3,0,13.3,32.3,0,7.8

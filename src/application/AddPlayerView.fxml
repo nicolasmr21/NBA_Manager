@@ -44,8 +44,6 @@
             <TextField layoutX="181.0" layoutY="119.0" prefHeight="25.0" prefWidth="392.0" promptText="STL" />
             <Text fill="WHITE" fontSmoothingType="LCD" layoutX="16.0" layoutY="169.0" strokeType="OUTSIDE" strokeWidth="0.0" text="BLOQUEOS POR PARTIDO" textAlignment="CENTER" wrappingWidth="144.13672522641718" />
             <TextField layoutX="181.0" layoutY="152.0" prefHeight="25.0" prefWidth="392.0" promptText="BLK" />
-            <TextField layoutX="181.0" layoutY="187.0" prefHeight="25.0" prefWidth="392.0" promptText="MP" />
-            <Text fill="WHITE" fontSmoothingType="LCD" layoutX="33.0" layoutY="204.0" strokeType="OUTSIDE" strokeWidth="0.0" text="MINUTOS JUGADOS" textAlignment="CENTER" wrappingWidth="111.13672334700823" />
          </children>
       </AnchorPane>
       <Button layoutX="62.0" layoutY="314.0" mnemonicParsing="false" onAction="#addPlayer" prefHeight="60.0" prefWidth="214.0" stylesheets="@application.css" text="AGREGAR" />

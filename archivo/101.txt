@@ -1,1 +1,1 @@
-Reggie Slater,31,ATL,slatere01,4,1.4,10.8,4.5,2.0
+Reggie Slater,31,ATL,slatere01,4,1.4,10.8,4.5,2,18

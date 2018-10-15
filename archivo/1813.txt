@@ -1,1 +1,1 @@
-Jason Kidd,32,NJN,kiddja01,80,2.7,11.4,39.0,0.8
+Jason Kidd,32,NJN,kiddja01,80,2.7,11.4,39,0.8,19.2

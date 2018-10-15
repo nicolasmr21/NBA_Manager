@@ -1,1 +1,1 @@
-Chucky Atkins,29,BOS,atkinch01,24,1.7,3.2,27.3,0.1
+Chucky Atkins,29,BOS,atkinch01,24,1.7,3.2,27.3,0.1,14

@@ -1,1 +1,1 @@
-Brandon Rush,23,IND,rushbr01,75,1.0,7.1,5.4,1.5
+Brandon Rush,23,IND,rushbr01,75,1,7.1,5.4,1.5,9

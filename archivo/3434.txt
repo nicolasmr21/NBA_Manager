@@ -1,1 +1,1 @@
-Marcin Gortat,23,ORL,gortama01,6,1.3,22.5,8.4,1.8
+Marcin Gortat,23,ORL,gortama01,6,1.3,22.5,8.4,1.8,19.8

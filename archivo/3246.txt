@@ -1,1 +1,1 @@
-Brent Barry,36,SAS,barrybr01,31,1.7,5.9,16.1,0.4
+Brent Barry,36,SAS,barrybr01,31,1.7,5.9,16.1,0.4,16.7

@@ -1,1 +1,1 @@
-Brian Cook,28,HOU,cookbr01,9,0.0,11.7,7.3,8.7
+Brian Cook,28,HOU,cookbr01,9,0,11.7,7.3,8.7,7.4

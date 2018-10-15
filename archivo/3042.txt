@@ -1,1 +1,1 @@
-Kendrick Perkins,23,BOS,perkike01,78,0.9,14.8,6.8,4.9
+Kendrick Perkins,23,BOS,perkike01,78,0.9,14.8,6.8,4.9,13.3

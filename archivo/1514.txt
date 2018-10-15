@@ -1,1 +1,1 @@
-Kareem Rush,24,CHA,rushka01,34,1.1,5.1,13.0,0.5
+Kareem Rush,24,CHA,rushka01,34,1.1,5.1,13,0.5,11

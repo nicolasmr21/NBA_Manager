@@ -1,1 +1,1 @@
-Glenn Robinson,30,ATL,robingl01,69,1.9,10.0,15.5,0.7
+Glenn Robinson,30,ATL,robingl01,69,1.9,10,15.5,0.7,16.7

@@ -1,1 +1,1 @@
-Travis Outlaw,19,POR,outlatr01,8,2.9,12.5,9.3,0.0
+Travis Outlaw,19,POR,outlatr01,8,2.9,12.5,9.3,0,16.4

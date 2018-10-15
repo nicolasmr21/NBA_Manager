@@ -1,1 +1,1 @@
-Trevor Ariza,24,HOU,arizatr01,72,2.4,8.8,16.7,1.1
+Trevor Ariza,24,HOU,arizatr01,72,2.4,8.8,16.7,1.1,13.3

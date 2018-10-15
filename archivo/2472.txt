@@ -1,1 +1,1 @@
-Pau Gasol,26,MEM,gasolpa01,59,0.7,16.3,17.7,4.5
+Pau Gasol,26,MEM,gasolpa01,59,0.7,16.3,17.7,4.5,24.1

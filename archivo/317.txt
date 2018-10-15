@@ -1,1 +1,1 @@
-Michael Curry,34,DET,currymi01,78,1.6,4.8,10.8,0.2
+Michael Curry,34,DET,currymi01,78,1.6,4.8,10.8,0.2,5.7

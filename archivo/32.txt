@@ -1,1 +1,1 @@
-Harold Jamison,25,LAC,jamisha01,25,1.5,12.5,5.5,0.4
+Harold Jamison,25,LAC,jamisha01,25,1.5,12.5,5.5,0.4,13.9

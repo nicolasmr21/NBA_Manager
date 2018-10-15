@@ -1,1 +1,1 @@
-Hedo Turkoglu,29,ORL,turkohe01,77,1.2,8.2,22.5,0.5
+Hedo Turkoglu,29,ORL,turkohe01,77,1.2,8.2,22.5,0.5,14.8

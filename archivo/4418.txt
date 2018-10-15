@@ -1,1 +1,1 @@
-Josh Powell,27,LAL,poweljo01,63,0.8,11.2,9.0,0.8
+Josh Powell,27,LAL,poweljo01,63,0.8,11.2,9,0.8,6.7

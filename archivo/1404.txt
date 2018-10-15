@@ -1,1 +1,1 @@
-Jan Van Breda Kolff,29,NJN,vanbrja01,78,1.2,8.0,11.2,2.0
+Jan Van Breda Kolff,29,NJN,vanbrja01,78,1.2,8,11.2,2,6.5

@@ -16,6 +16,8 @@ import NBAUtil.RBTree;
 
 public class FIBA {
 
+	//ESTATISTICS
+	
 	private AVLTree<Integer, String> matchesAVL;
 	private BSTree<Integer, String> matchesBST;
 	
@@ -26,6 +28,12 @@ public class FIBA {
 	
 	private RBTree<Double, String> stealsRBT;
 	
+	//SIMPLE
+	
+	private AVLTree<String, String> idAVL;
+
+
+	
 	public FIBA()
 	{
 		matchesAVL = new AVLTree<>();
@@ -34,7 +42,8 @@ public class FIBA {
 		pointsRBT = new RBTree<>();
 		reboundsAVL = new AVLTree<>();
 		stealsRBT = new RBTree<>();
-		uploadPlayers();
+		idAVL = new AVLTree<>();
+		uploadPlayers("archivo/dataset.txt");
 	}
 	
 	/**
@@ -43,8 +52,8 @@ public class FIBA {
 	 */
 	
 	
-	private void uploadPlayers() {
-		File file = new File ("archivo/dataset.txt");		
+	private void uploadPlayers(String path) {
+		File file = new File (path);		
 		try {
 			FileReader reader = new FileReader(file); 
 			BufferedReader br = new BufferedReader(reader); 
@@ -55,21 +64,24 @@ public class FIBA {
 			int x = 1;
 			while((line = br.readLine()) != null){
 				s = line.split(",");
-				Player p = new Player(s[0], Integer.parseInt(s[1]), 
-						s[2], s[3], 
-						Integer.parseInt(s[4]), Double.parseDouble(s[5]), Double.parseDouble(s[6]),
-						Double.parseDouble(s[7]), Double.parseDouble(s[8]));
+//				Player p = new Player(s[0], Integer.parseInt(s[1]), 
+//						s[2], s[3], 
+//						Integer.parseInt(s[4]), Double.parseDouble(s[5]), Double.parseDouble(s[6]),
+//						Double.parseDouble(s[7]), Double.parseDouble(s[8]));
 				
-				matchesBST.insert(new Node<Integer, String>(p.getMp(), ""+x));
-				matchesAVL.insert(new Node<Integer, String>(p.getMp(), ""+x));
-				pointsBST.insert(new Node<Double, String>(p.getPpm(), ""+x)); 
-				pointsRBT.insertRB(new RBNode<Double, String>(p.getPpm(), ""+x)); 
-				reboundsAVL.insert(new Node<Double, String>(p.getRpm(), ""+x));
-				stealsRBT.insertRB(new RBNode<Double, String>(p.getSpm(), ""+x)); 
+				
+				idAVL.insert(new Node<String, String>(s[3], ""+x));
+
+				matchesBST.insert(new Node<Integer, String>(Integer.parseInt(s[4]), ""+x));
+				matchesAVL.insert(new Node<Integer, String>(Integer.parseInt(s[4]), ""+x));
+				pointsBST.insert(new Node<Double, String>(Double.parseDouble(s[9]), ""+x)); 
+				pointsRBT.insertRB(new RBNode<Double, String>(Double.parseDouble(s[9]), ""+x)); 
+				reboundsAVL.insert(new Node<Double, String>(Double.parseDouble(s[6]), ""+x));
+				stealsRBT.insertRB(new RBNode<Double, String>(Double.parseDouble(s[5]), ""+x)); 
 			
 				
-				String path="archivo/"+x+".txt";
-	            File f = new File(path);
+				String path2="archivo/"+x+".txt";
+	            File f = new File(path2);
 
 	            // If file doesn't exists, then create it
 	            if (!file.exists()) {
@@ -79,7 +91,7 @@ public class FIBA {
 	            BufferedWriter bw = new BufferedWriter(fw);
 
 	            // Write in file
-	            bw.write(p.toString());
+	            bw.write(s[0]+","+s[1]+","+s[2]+","+s[3]+","+s[4]+","+s[5]+","+s[6]+","+s[7]+","+s[8]+","+s[9]);
 
 	            // Close connection
 	            bw.close();
@@ -93,6 +105,12 @@ public class FIBA {
 			e.printStackTrace();
 		}
 	}
+	
+	
+	public String searchID(String id) {
+		return ""+idAVL.search(id).getFe();
+	}
+	
 	
 	//Search by equals sign
 	public List<String> searchMatchesAVL(int matches)

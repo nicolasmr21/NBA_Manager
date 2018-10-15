@@ -1,1 +1,1 @@
-Jamaal Tinsley,31,MEM,tinslja01,38,2.9,6.5,25.4,0.6
+Jamaal Tinsley,31,MEM,tinslja01,38,2.9,6.5,25.4,0.6,7.8

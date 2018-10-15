@@ -1,1 +1,1 @@
-Tyreke Evans,21,SAC,evansty01,57,2.0,7.4,24.9,1.0
+Tyreke Evans,21,SAC,evansty01,57,2,7.4,24.9,1,14.4

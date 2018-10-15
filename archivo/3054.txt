@@ -1,1 +1,1 @@
-Charlie Villanueva,23,MIL,villach01,76,0.9,15.0,7.5,1.5
+Charlie Villanueva,23,MIL,villach01,76,0.9,15,7.5,1.5,14.9

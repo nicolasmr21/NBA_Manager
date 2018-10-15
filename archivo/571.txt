@@ -1,1 +1,1 @@
-Maurice Lucas,28,NJN,lucasma01,68,1.2,15.0,11.6,1.5
+Maurice Lucas,28,NJN,lucasma01,68,1.2,15,11.6,1.5,14.6

@@ -1,1 +1,1 @@
-Ronnie Price,22,SAC,pricero01,29,2.1,5.8,12.1,0.0
+Ronnie Price,22,SAC,pricero01,29,2.1,5.8,12.1,0,10.5

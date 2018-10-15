@@ -1,1 +1,1 @@
-Darrell Armstrong,39,NJN,armstda01,50,2.7,7.1,20.5,0.3
+Darrell Armstrong,39,NJN,armstda01,50,2.7,7.1,20.5,0.3,8.7

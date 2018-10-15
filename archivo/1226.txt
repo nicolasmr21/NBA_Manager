@@ -1,1 +1,1 @@
-Robert Reid,22,HOU,reidro01,80,1.7,10.3,8.7,1.5
+Robert Reid,22,HOU,reidro01,80,1.7,10.3,8.7,1.5,11.3

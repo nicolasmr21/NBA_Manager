@@ -1,1 +1,1 @@
-Will Bynum,27,DET,bynumwi01,63,1.8,5.2,28.2,0.4
+Will Bynum,27,DET,bynumwi01,63,1.8,5.2,28.2,0.4,13.8

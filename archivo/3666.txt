@@ -1,1 +1,1 @@
-Luol Deng,23,CHI,denglu01,49,1.9,10.1,9.0,1.1
+Luol Deng,23,CHI,denglu01,49,1.9,10.1,9,1.1,14.7

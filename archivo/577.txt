@@ -1,1 +1,1 @@
-Cezary Trybanski,23,MEM,trybace01,15,0.0,9.2,1.6,4.8
+Cezary Trybanski,23,MEM,trybace01,15,0,9.2,1.6,4.8,-1.4

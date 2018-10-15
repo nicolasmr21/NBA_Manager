@@ -1,1 +1,1 @@
-Anthony Carter,31,DEN,cartean01,2,0.0,4.6,41.4,1.9
+Anthony Carter,31,DEN,cartean01,2,0,4.6,41.4,1.9,3.3

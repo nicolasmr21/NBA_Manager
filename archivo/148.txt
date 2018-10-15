@@ -1,1 +1,1 @@
-Michael Jordan,39,WAS,jordami01,82,2.2,9.7,21.1,1.0
+Michael Jordan,39,WAS,jordami01,82,2.2,9.7,21.1,1,19.3

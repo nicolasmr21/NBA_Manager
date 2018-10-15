@@ -1,1 +1,1 @@
-Shareef Abdur-Rahim,31,SAC,abdursh01,6,1.0,11.6,11.1,0.0
+Shareef Abdur-Rahim,31,SAC,abdursh01,6,1,11.6,11.1,0,5.5

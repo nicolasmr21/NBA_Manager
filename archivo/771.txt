@@ -1,1 +1,1 @@
-Earl Boykins,27,DEN,boykiea01,82,1.4,4.4,27.3,0.1
+Earl Boykins,27,DEN,boykiea01,82,1.4,4.4,27.3,0.1,16.2

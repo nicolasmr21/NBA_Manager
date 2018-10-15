@@ -1,1 +1,1 @@
-Robin Lopez,20,PHO,lopezro01,60,0.9,11.2,1.8,4.9
+Robin Lopez,20,PHO,lopezro01,60,0.9,11.2,1.8,4.9,11.6

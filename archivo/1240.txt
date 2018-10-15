@@ -1,1 +1,1 @@
-Bobby Simmons,24,LAC,simmobo01,75,2.0,9.6,13.1,0.4
+Bobby Simmons,24,LAC,simmobo01,75,2,9.6,13.1,0.4,16.1

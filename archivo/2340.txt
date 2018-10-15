@@ -1,1 +1,1 @@
-Sharrod Ford,24,PHO,fordsh02,3,0.0,12.8,0.0,5.4
+Sharrod Ford,24,PHO,fordsh02,3,0,12.8,0,5.4,0.6

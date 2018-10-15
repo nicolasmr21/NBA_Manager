@@ -1,1 +1,1 @@
-Stanislav Medvedenko,27,ATL,medvest01,14,0.0,10.4,4.4,1.9
+Stanislav Medvedenko,27,ATL,medvest01,14,0,10.4,4.4,1.9,13.7

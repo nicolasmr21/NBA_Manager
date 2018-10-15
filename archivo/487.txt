@@ -1,1 +1,1 @@
-John Amaechi,32,UTA,amaecjo01,50,1.6,9.8,6.8,1.1
+John Amaechi,32,UTA,amaecjo01,50,1.6,9.8,6.8,1.1,3.1

@@ -1,1 +1,1 @@
-Speedy Claxton,28,ATL,claxtsp01,42,3.6,4.6,28.1,0.3
+Speedy Claxton,28,ATL,claxtsp01,42,3.6,4.6,28.1,0.3,7.3

@@ -1,1 +1,1 @@
-Viktor Khryapa,23,POR,khryavi01,69,1.8,12.4,9.8,1.5
+Viktor Khryapa,23,POR,khryavi01,69,1.8,12.4,9.8,1.5,11.5

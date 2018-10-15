@@ -1,1 +1,1 @@
-Walter Herrmann,29,DET,herrmwa01,59,0.6,10.1,5.6,0.5
+Walter Herrmann,29,DET,herrmwa01,59,0.6,10.1,5.6,0.5,11.4

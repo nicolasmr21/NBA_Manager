@@ -1,1 +1,1 @@
-Laron Profit,27,WAS,profila01,42,1.9,10.0,14.0,0.9
+Laron Profit,27,WAS,profila01,42,1.9,10,14,0.9,11.5

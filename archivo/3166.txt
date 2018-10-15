@@ -1,1 +1,1 @@
-Kurt Thomas,35,SEA,thomaku01,42,1.6,19.0,7.6,2.9
+Kurt Thomas,35,SEA,thomaku01,42,1.6,19,7.6,2.9,15.8

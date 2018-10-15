@@ -1,1 +1,1 @@
-Phil Hubbard,24,DET,hubbaph01,80,1.7,14.9,10.4,0.5
+Phil Hubbard,24,DET,hubbaph01,80,1.7,14.9,10.4,0.5,15.4

@@ -1,1 +1,1 @@
-Ime Udoka,32,SAC,udokaim01,69,1.8,11.6,8.8,0.5
+Ime Udoka,32,SAC,udokaim01,69,1.8,11.6,8.8,0.5,9.6

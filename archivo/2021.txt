@@ -1,1 +1,1 @@
-Larry Hughes,27,CLE,hughela01,36,2.2,7.4,17.5,1.3
+Larry Hughes,27,CLE,hughela01,36,2.2,7.4,17.5,1.3,14

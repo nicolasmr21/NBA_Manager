@@ -1,1 +1,1 @@
-Jerryd Bayless,22,TOR,bayleje01,60,1.4,6.6,27.4,0.2
+Jerryd Bayless,22,TOR,bayleje01,60,1.4,6.6,27.4,0.2,14.9

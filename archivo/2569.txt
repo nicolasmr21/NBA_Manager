@@ -1,1 +1,1 @@
-Johan Petro,21,SEA,petrojo01,81,1.4,13.3,4.8,2.4
+Johan Petro,21,SEA,petrojo01,81,1.4,13.3,4.8,2.4,11.6

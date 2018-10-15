@@ -1,1 +1,1 @@
-Nick Collison,26,SEA,collini01,82,1.1,16.8,5.4,2.1
+Nick Collison,26,SEA,collini01,82,1.1,16.8,5.4,2.1,14.2

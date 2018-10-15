@@ -1,1 +1,1 @@
-Tony Battie,26,BOS,battito01,67,1.0,14.6,5.2,3.8
+Tony Battie,26,BOS,battito01,67,1,14.6,5.2,3.8,15.2

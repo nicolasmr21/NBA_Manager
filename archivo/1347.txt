@@ -1,1 +1,1 @@
-Antonio Davis,36,CHI,davisan01,72,0.8,13.0,7.1,1.7
+Antonio Davis,36,CHI,davisan01,72,0.8,13,7.1,1.7,11.1

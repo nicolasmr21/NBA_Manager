@@ -27,7 +27,20 @@ import model.FIBA;
 
 public class MainController implements Initializable {
 	
+		private FIBA f;
 		
+		@FXML
+		private ManagePlayerController manage;
+		
+		@FXML
+		private DataInsertionController insertion;
+		
+		@FXML
+		private SearchPlayerController search;
+
+		@FXML
+		private SearchStatisticController statistic;
+
 	
 		@FXML
 	    private Button btnInsertData;
@@ -59,9 +72,14 @@ public class MainController implements Initializable {
 	    
 	    @FXML
 	    void addPlayer(ActionEvent event) throws IOException {
-	    	Parent root;
-	    	root = FXMLLoader.load(getClass().getResource("/application/ManagePlayerView.fxml"));
-	    	borderPane.setCenter(root);
+	    	FXMLLoader loader = new FXMLLoader();
+	        loader.setLocation(getClass().getResource("/application/ManagePlayerView.fxml"));
+	        Parent p = loader.load();
+	        //access the controller and call a method
+	        manage = loader.getController();
+	        manage.init(this);
+	    	borderPane.setCenter(p);
+	    
 	    }
 
 	    @FXML
@@ -71,38 +89,54 @@ public class MainController implements Initializable {
 
 	    @FXML
 	    void insertData(ActionEvent event) throws IOException {
-	    	Parent root;
-	    	root = FXMLLoader.load(getClass().getResource("/application/DataInsertionView.fxml"));
-	    	borderPane.setCenter(root);
+	    	FXMLLoader loader = new FXMLLoader();
+	        loader.setLocation(getClass().getResource("/application/DataInsertionView.fxml"));
+	        Parent p = loader.load();
+	        //access the controller and call a method
+	        insertion = loader.getController();
+	        insertion.init(this);
+	    	borderPane.setCenter(p);
 	    }
 
 	    @FXML
 	    void searchPlayer(ActionEvent event) throws IOException {
-	    	Parent root;
-	    	root = FXMLLoader.load(getClass().getResource("/application/SearchPlayerView.fxml"));
-	    	borderPane.setCenter(root);
+	    	FXMLLoader loader = new FXMLLoader();
+	        loader.setLocation(getClass().getResource("/application/SearchPlayerView.fxml"));
+	        Parent p = loader.load();
+	        //access the controller and call a method
+	        search = loader.getController();
+	        search.init(this);
+	    	borderPane.setCenter(p);
+	    	
 	    }
 
 	    @FXML
 	    void searchStatistic(ActionEvent event) throws IOException {
-	    	Parent root;
-	    	root = FXMLLoader.load(getClass().getResource("/application/SearchStatisticView.fxml"));
-	    	borderPane.setCenter(root);
+	    	FXMLLoader loader = new FXMLLoader();
+	        loader.setLocation(getClass().getResource("/application/SearchStatisticView.fxml"));
+	        Parent p = loader.load();
+	        //access the controller and call a method
+	        statistic = loader.getController();
+	        statistic.init(this);
+	    	borderPane.setCenter(p);
+	    	
 	    }
 
 	    @FXML
 	    void pushImage(MouseEvent event) throws IOException {
-	    	FXMLLoader loader = new FXMLLoader();
-	        loader.setLocation(getClass().getResource("/application/MainView.fxml"));
-	        Parent p = loader.load();
-	        Scene scene = new Scene(p);
-	        //access the controller and call a method
-	        
-	        //This line gets the Stage information
-	        Stage window = (Stage)((Node)event.getSource()).getScene().getWindow();
-	        
-	        window.setScene(scene);
-	        window.show();
+//	    	FXMLLoader loader = new FXMLLoader();
+//	        loader.setLocation(getClass().getResource("/application/MainView.fxml"));
+//	        Parent p = loader.load();
+//	        Scene scene = new Scene(p);
+//	        //access the controller and call a method
+//	        
+//	        //This line gets the Stage information
+//	        Stage window = (Stage)((Node)event.getSource()).getScene().getWindow();
+//	        
+//	        window.setScene(scene);
+//	        window.show();
+	    	
+	    	borderPane.setCenter(null);
 	    }
 	    
 		@Override
@@ -118,7 +152,7 @@ public class MainController implements Initializable {
 			btnSearchPlayer.setFocusTraversable(false);
 			btnSearchStatistic.setFocusTraversable(false);
 			
-			FIBA f = new FIBA();
+			f = new FIBA();
 			
 		}
 		
@@ -134,5 +168,14 @@ public class MainController implements Initializable {
 			r.play();
 			
 		}
+
+		public FIBA getF() {
+			return f;
+		}
+		
+		public void removeCenter() {
+			borderPane.setCenter(null);
+		}
+		
 
 }

@@ -1,1 +1,1 @@
-Julius Hodge,23,DEN,hodgeju01,4,4.0,4.6,36.2,0.0
+Julius Hodge,23,DEN,hodgeju01,4,4,4.6,36.2,0,16

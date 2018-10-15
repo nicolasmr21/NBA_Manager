@@ -1,1 +1,1 @@
-Corliss Williamson,31,SAC,willico02,24,1.3,9.6,11.6,0.4
+Corliss Williamson,31,SAC,willico02,24,1.3,9.6,11.6,0.4,15.4

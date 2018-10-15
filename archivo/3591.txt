@@ -1,1 +1,1 @@
-Steve Blake,28,POR,blakest01,69,1.7,4.9,25.1,0.1
+Steve Blake,28,POR,blakest01,69,1.7,4.9,25.1,0.1,14.4

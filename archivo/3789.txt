@@ -1,1 +1,1 @@
-Juan Dixon,30,WAS,dixonju01,50,2.3,4.8,22.7,0.6
+Juan Dixon,30,WAS,dixonju01,50,2.3,4.8,22.7,0.6,9.3

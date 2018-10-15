@@ -1,1 +1,1 @@
-Kenny Anderson,32,SEA,anderke01,38,3.2,7.4,30.3,0.1
+Kenny Anderson,32,SEA,anderke01,38,3.2,7.4,30.3,0.1,15.9

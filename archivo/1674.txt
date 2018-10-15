@@ -1,1 +1,1 @@
-Rod Strickland,38,HOU,stricro02,16,0.8,8.0,29.7,0.8
+Rod Strickland,38,HOU,stricro02,16,0.8,8,29.7,0.8,4.6

@@ -1,1 +1,1 @@
-Ben Gordon,25,CHI,gordobe01,82,1.2,5.4,15.9,0.5
+Ben Gordon,25,CHI,gordobe01,82,1.2,5.4,15.9,0.5,17

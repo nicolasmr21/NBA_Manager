@@ -1,1 +1,1 @@
-Matt Harpring,31,UTA,harprma01,76,1.7,10.7,9.0,0.8
+Matt Harpring,31,UTA,harprma01,76,1.7,10.7,9,0.8,14.1

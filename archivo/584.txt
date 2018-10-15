@@ -1,1 +1,1 @@
-Soumaila Samake,24,LAL,samakso01,13,0.0,16.8,8.0,4.7
+Soumaila Samake,24,LAL,samakso01,13,0,16.8,8,4.7,12.9

@@ -1,1 +1,1 @@
-Jeff Ruland,23,WSB,rulanje01,82,1.0,18.8,9.1,1.5
+Jeff Ruland,23,WSB,rulanje01,82,1,18.8,9.1,1.5,18.8

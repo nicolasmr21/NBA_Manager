@@ -1,1 +1,1 @@
-Sasha Vujacic,24,LAL,vujacsa01,80,3.0,5.9,12.2,0.4
+Sasha Vujacic,24,LAL,vujacsa01,80,3,5.9,12.2,0.4,12.6

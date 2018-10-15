@@ -1,1 +1,1 @@
-Tremaine Fowlkes,28,IND,fowlktr01,8,2.0,8.5,0.0,0.0
+Tremaine Fowlkes,28,IND,fowlktr01,8,2,8.5,0,0,7.5

@@ -1,1 +1,1 @@
-Drew Gooden,27,SAS,goodedr01,19,0.7,15.5,1.7,0.9
+Drew Gooden,27,SAS,goodedr01,19,0.7,15.5,1.7,0.9,18.8

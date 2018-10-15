@@ -1,1 +1,1 @@
-Monti Davis,22,PHI,davismo01,1,0.0,27.3,0.0,0.0
+Monti Davis,22,PHI,davismo01,1,0,27.3,0,0,44.2

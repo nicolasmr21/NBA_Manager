@@ -1,1 +1,1 @@
-Nate Robinson,21,NYK,robinna01,72,2.0,6.6,17.0,0.1
+Nate Robinson,21,NYK,robinna01,72,2,6.6,17,0.1,12.6

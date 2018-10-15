@@ -1,1 +1,1 @@
-Devean George,26,LAL,georgde01,82,2.2,9.6,8.9,1.4
+Devean George,26,LAL,georgde01,82,2.2,9.6,8.9,1.4,11.5

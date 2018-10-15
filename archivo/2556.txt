@@ -1,1 +1,1 @@
-Tony Battie,30,ORL,battito01,66,1.0,13.5,3.6,1.5
+Tony Battie,30,ORL,battito01,66,1,13.5,3.6,1.5,9.8

@@ -1,1 +1,1 @@
-Chris Owens,23,MEM,owensch01,1,0.0,9.4,0.0,0.0
+Chris Owens,23,MEM,owensch01,1,0,9.4,0,0,20.1

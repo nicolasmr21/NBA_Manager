@@ -1,1 +1,1 @@
-Luke Ridnour,27,MIL,ridnolu01,72,2.3,6.3,28.2,0.7
+Luke Ridnour,27,MIL,ridnolu01,72,2.3,6.3,28.2,0.7,12.9

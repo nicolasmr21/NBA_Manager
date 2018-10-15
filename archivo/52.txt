@@ -1,1 +1,1 @@
-Dean Oliver,23,GSW,olivede01,20,1.1,3.1,23.8,0.0
+Dean Oliver,23,GSW,olivede01,20,1.1,3.1,23.8,0,6

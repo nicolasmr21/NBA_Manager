@@ -1,1 +1,1 @@
-Nikoloz Tskitishvili,19,DEN,tskitni01,81,1.2,8.0,11.6,1.8
+Nikoloz Tskitishvili,19,DEN,tskitni01,81,1.2,8,11.6,1.8,4.9

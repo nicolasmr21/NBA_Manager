@@ -1,1 +1,1 @@
-Billy Thomas,30,WAS,thomabi01,17,4.0,6.2,10.6,0.6
+Billy Thomas,30,WAS,thomabi01,17,4,6.2,10.6,0.6,9.8

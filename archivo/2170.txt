@@ -1,1 +1,1 @@
-Carl Nicks,22,UTA,nicksca01,40,2.6,5.7,16.7,0.1
+Carl Nicks,22,UTA,nicksca01,40,2.6,5.7,16.7,0.1,11.7

@@ -1,1 +1,1 @@
-Vin Baker,33,HOU,bakervi01,3,0.0,9.0,10.7,0.0
+Vin Baker,33,HOU,bakervi01,3,0,9,10.7,0,-18.3

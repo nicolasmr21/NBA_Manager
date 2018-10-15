@@ -1,1 +1,1 @@
-Esteban Batista,23,ATL,batises01,13,2.0,22.3,8.1,0.0
+Esteban Batista,23,ATL,batises01,13,2,22.3,8.1,0,12.5

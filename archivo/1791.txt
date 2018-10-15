@@ -1,1 +1,1 @@
-Gilbert Arenas,24,WAS,arenagi01,80,2.5,4.8,27.0,0.6
+Gilbert Arenas,24,WAS,arenagi01,80,2.5,4.8,27,0.6,23.8

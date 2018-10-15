@@ -1,1 +1,1 @@
-Jeryl Sasser,22,ORL,sasseje01,7,4.3,10.9,8.0,0.0
+Jeryl Sasser,22,ORL,sasseje01,7,4.3,10.9,8,0,7

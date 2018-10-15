@@ -1,1 +1,1 @@
-Vitaly Potapenko,28,SEA,potapvi01,65,0.8,12.0,6.2,1.5
+Vitaly Potapenko,28,SEA,potapvi01,65,0.8,12,6.2,1.5,11.2

@@ -1,1 +1,1 @@
-Vladimir Stepania,27,POR,stepavl01,42,1.4,16.4,8.1,2.5
+Vladimir Stepania,27,POR,stepavl01,42,1.4,16.4,8.1,2.5,12.2

@@ -1,1 +1,1 @@
-Marcus Thornton,22,NOH,thornma01,73,1.6,6.6,10.3,0.4
+Marcus Thornton,22,NOH,thornma01,73,1.6,6.6,10.3,0.4,17.4

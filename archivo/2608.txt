@@ -1,1 +1,1 @@
-Trevor Ariza,21,ORL,arizatr01,57,2.5,12.0,8.9,1.2
+Trevor Ariza,21,ORL,arizatr01,57,2.5,12,8.9,1.2,16.2

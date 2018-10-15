@@ -1,1 +1,1 @@
-Jim Paxson,24,POR,paxsoji02,82,2.2,4.5,14.8,0.2
+Jim Paxson,24,POR,paxsoji02,82,2.2,4.5,14.8,0.2,18

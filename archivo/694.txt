@@ -1,1 +1,1 @@
-Rafer Alston,27,MIA,alstora01,82,2.4,5.1,24.9,0.6
+Rafer Alston,27,MIA,alstora01,82,2.4,5.1,24.9,0.6,13.7

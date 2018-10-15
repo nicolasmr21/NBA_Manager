@@ -1,1 +1,1 @@
-Luke Schenscher,23,CHI,schenlu01,20,0.3,11.2,7.3,1.6
+Luke Schenscher,23,CHI,schenlu01,20,0.3,11.2,7.3,1.6,9.3

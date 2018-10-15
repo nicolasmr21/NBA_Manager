@@ -1,1 +1,1 @@
-Francisco Elson,28,DEN,elsonfr01,67,1.9,12.3,5.5,3.3
+Francisco Elson,28,DEN,elsonfr01,67,1.9,12.3,5.5,3.3,10.7

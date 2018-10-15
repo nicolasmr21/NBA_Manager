@@ -1,1 +1,1 @@
-Tony Parker,21,SAS,parketo01,75,1.3,5.1,28.7,0.2
+Tony Parker,21,SAS,parketo01,75,1.3,5.1,28.7,0.2,15.7

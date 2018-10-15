@@ -1,1 +1,1 @@
-Steve Nash,36,PHO,nashst01,75,1.0,6.0,53.1,0.1
+Steve Nash,36,PHO,nashst01,75,1,6,53.1,0.1,20.8

@@ -1,1 +1,1 @@
-Travis Best,32,NJN,besttr01,76,2.4,4.4,17.4,0.5
+Travis Best,32,NJN,besttr01,76,2.4,4.4,17.4,0.5,11.9

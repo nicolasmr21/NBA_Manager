@@ -1,1 +1,1 @@
-Tyronn Lue,31,ORL,luety01,14,0.8,4.8,17.8,0.0
+Tyronn Lue,31,ORL,luety01,14,0.8,4.8,17.8,0,9.4

@@ -1,1 +1,1 @@
-Chris Duhon,25,CHI,duhonch01,66,1.7,4.4,26.5,0.1
+Chris Duhon,25,CHI,duhonch01,66,1.7,4.4,26.5,0.1,11.1

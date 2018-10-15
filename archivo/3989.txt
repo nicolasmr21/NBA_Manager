@@ -1,1 +1,1 @@
-Chauncey Billups,32,DET,billuch01,2,2.4,8.5,33.0,1.1
+Chauncey Billups,32,DET,billuch01,2,2.4,8.5,33,1.1,17.5

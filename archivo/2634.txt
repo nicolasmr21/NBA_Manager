@@ -1,1 +1,1 @@
-Ronny Turiaf,24,LAL,turiaro01,72,0.8,13.9,9.1,5.5
+Ronny Turiaf,24,LAL,turiaro01,72,0.8,13.9,9.1,5.5,15.5

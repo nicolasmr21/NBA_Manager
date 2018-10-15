@@ -1,1 +1,1 @@
-Tyronn Lue,30,DAL,luety01,17,0.0,4.4,14.3,0.4
+Tyronn Lue,30,DAL,luety01,17,0,4.4,14.3,0.4,9.2

@@ -1,1 +1,1 @@
-Ricky Davis,25,BOS,davisri01,82,1.7,5.4,15.5,0.8
+Ricky Davis,25,BOS,davisri01,82,1.7,5.4,15.5,0.8,15

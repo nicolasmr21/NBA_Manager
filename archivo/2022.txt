@@ -1,1 +1,1 @@
-Matt Carroll,25,CHA,carroma01,78,1.9,7.1,4.6,0.7
+Matt Carroll,25,CHA,carroma01,78,1.9,7.1,4.6,0.7,13.9

@@ -1,1 +1,1 @@
-Othella Harrington,32,CHI,harriot01,72,0.4,10.7,8.0,1.2
+Othella Harrington,32,CHI,harriot01,72,0.4,10.7,8,1.2,11.1

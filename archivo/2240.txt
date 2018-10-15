@@ -1,1 +1,1 @@
-Rick Brunson,33,HOU,brunsri01,23,2.0,5.5,25.2,0.4
+Rick Brunson,33,HOU,brunsri01,23,2,5.5,25.2,0.4,6.1

@@ -1,1 +1,1 @@
-Marcus Haislip,24,IND,haislma01,9,1.0,8.4,5.2,1.4
+Marcus Haislip,24,IND,haislma01,9,1,8.4,5.2,1.4,4

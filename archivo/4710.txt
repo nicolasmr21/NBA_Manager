@@ -1,1 +1,1 @@
-Roy Hibbert,24,IND,hibbero01,81,0.7,15.1,12.8,4.6
+Roy Hibbert,24,IND,hibbero01,81,0.7,15.1,12.8,4.6,15.9

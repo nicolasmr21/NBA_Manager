@@ -1,1 +1,1 @@
-Morris Peterson,26,TOR,petermo01,82,2.3,7.0,9.5,0.5
+Morris Peterson,26,TOR,petermo01,82,2.3,7,9.5,0.5,12.1

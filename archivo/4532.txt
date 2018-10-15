@@ -1,1 +1,1 @@
-Brian Skinner,33,LAC,skinnbr01,16,1.3,12.7,0.0,2.4
+Brian Skinner,33,LAC,skinnbr01,16,1.3,12.7,0,2.4,5.5

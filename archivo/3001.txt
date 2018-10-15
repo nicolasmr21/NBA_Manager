@@ -1,1 +1,1 @@
-Grant Hill,35,PHO,hillgr01,70,1.5,9.0,13.1,1.6
+Grant Hill,35,PHO,hillgr01,70,1.5,9,13.1,1.6,15.7

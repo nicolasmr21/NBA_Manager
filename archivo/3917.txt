@@ -1,1 +1,1 @@
-Bobby Brown,24,MIN,brownbo02,21,1.2,3.7,20.5,0.6
+Bobby Brown,24,MIN,brownbo02,21,1.2,3.7,20.5,0.6,11.9

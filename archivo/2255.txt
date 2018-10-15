@@ -1,1 +1,1 @@
-Dale Davis,36,DET,davisda01,28,0.0,17.7,4.8,3.7
+Dale Davis,36,DET,davisda01,28,0,17.7,4.8,3.7,9.9

@@ -1,1 +1,1 @@
-Derek Fisher,35,LAL,fishede01,82,2.1,4.3,12.9,0.3
+Derek Fisher,35,LAL,fishede01,82,2.1,4.3,12.9,0.3,9.3

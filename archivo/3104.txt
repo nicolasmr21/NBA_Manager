@@ -1,1 +1,1 @@
-Jannero Pargo,28,NOH,pargoja01,80,1.8,5.1,20.4,0.3
+Jannero Pargo,28,NOH,pargoja01,80,1.8,5.1,20.4,0.3,11.9

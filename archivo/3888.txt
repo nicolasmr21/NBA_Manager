@@ -1,1 +1,1 @@
-Chris Wilcox,26,NYK,wilcoch01,25,1.2,13.6,6.7,1.1
+Chris Wilcox,26,NYK,wilcoch01,25,1.2,13.6,6.7,1.1,13.2

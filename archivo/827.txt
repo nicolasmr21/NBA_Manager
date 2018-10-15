@@ -1,1 +1,1 @@
-Stanislav Medvedenko,24,LAL,medvest01,68,1.4,13.5,6.6,0.9
+Stanislav Medvedenko,24,LAL,medvest01,68,1.4,13.5,6.6,0.9,13.6

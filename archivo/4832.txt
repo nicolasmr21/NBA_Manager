@@ -1,1 +1,1 @@
-Joel Anthony,28,MIA,anthojo01,75,0.4,10.8,2.2,5.0
+Joel Anthony,28,MIA,anthojo01,75,0.4,10.8,2.2,5,7.3

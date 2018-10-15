@@ -1,1 +1,1 @@
-Antoine Wright,25,TOR,wrighan01,67,1.1,8.1,7.4,0.6
+Antoine Wright,25,TOR,wrighan01,67,1.1,8.1,7.4,0.6,8.6

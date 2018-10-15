@@ -1,1 +1,1 @@
-Mo Williams,21,UTA,willima01,57,2.0,5.8,18.5,0.2
+Mo Williams,21,UTA,willima01,57,2,5.8,18.5,0.2,9.4

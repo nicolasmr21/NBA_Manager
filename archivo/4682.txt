@@ -1,1 +1,1 @@
-Fred Brown,33,SEA,brownfr01,82,1.9,4.3,20.1,0.1
+Fred Brown,33,SEA,brownfr01,82,1.9,4.3,20.1,0.1,15.2

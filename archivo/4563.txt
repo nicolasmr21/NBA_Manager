@@ -1,1 +1,1 @@
-Dominic McGuire,24,SAC,mcguido01,10,0.8,15.4,6.1,1.1
+Dominic McGuire,24,SAC,mcguido01,10,0.8,15.4,6.1,1.1,2.4

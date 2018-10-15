@@ -1,1 +1,1 @@
-Ersan Ilyasova,23,MIL,ilyaser01,60,1.8,14.1,6.6,1.3
+Ersan Ilyasova,23,MIL,ilyaser01,60,1.8,14.1,6.6,1.3,14.3

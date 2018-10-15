@@ -1,1 +1,1 @@
-Larry Robinson,34,NYK,robinla01,2,0.0,11.6,0.0,0.0
+Larry Robinson,34,NYK,robinla01,2,0,11.6,0,0,3.8

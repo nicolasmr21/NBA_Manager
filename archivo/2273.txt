@@ -1,1 +1,1 @@
-Arvydas Macijauskas,26,NOK,macijar01,19,2.8,4.4,6.1,0.0
+Arvydas Macijauskas,26,NOK,macijar01,19,2.8,4.4,6.1,0,8.3

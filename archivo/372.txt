@@ -1,1 +1,1 @@
-Gary Trent,28,MIN,trentga01,80,1.4,13.5,10.0,1.4
+Gary Trent,28,MIN,trentga01,80,1.4,13.5,10,1.4,15.9

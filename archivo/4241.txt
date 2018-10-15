@@ -1,1 +1,1 @@
-DeMar DeRozan,20,TOR,derozde01,77,1.3,7.9,4.9,0.8
+DeMar DeRozan,20,TOR,derozde01,77,1.3,7.9,4.9,0.8,12.5

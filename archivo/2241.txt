@@ -1,1 +1,1 @@
-Mario Kasun,25,ORL,kasunma01,28,0.5,17.4,2.4,1.1
+Mario Kasun,25,ORL,kasunma01,28,0.5,17.4,2.4,1.1,8.9

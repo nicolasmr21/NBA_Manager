@@ -1,1 +1,1 @@
-Antonio Davis,34,TOR,davisan01,53,0.6,13.1,11.9,2.3
+Antonio Davis,34,TOR,davisan01,53,0.6,13.1,11.9,2.3,14.5

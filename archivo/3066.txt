@@ -1,1 +1,1 @@
-Erick Dampier,32,DAL,dampier01,72,0.7,17.8,5.4,4.4
+Erick Dampier,32,DAL,dampier01,72,0.7,17.8,5.4,4.4,15.3

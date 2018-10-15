@@ -1,1 +1,1 @@
-Bob Dandridge,33,WSB,dandrbo01,23,1.4,8.0,15.5,0.9
+Bob Dandridge,33,WSB,dandrbo01,23,1.4,8,15.5,0.9,11.6

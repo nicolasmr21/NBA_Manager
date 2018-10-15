@@ -1,1 +1,1 @@
-Al Harrington,26,IND,harrial01,36,1.1,10.8,7.8,0.6
+Al Harrington,26,IND,harrial01,36,1.1,10.8,7.8,0.6,13.4

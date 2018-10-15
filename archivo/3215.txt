@@ -1,1 +1,1 @@
-C.J. Miles,20,UTA,milescj01,60,2.4,6.9,11.5,0.9
+C.J. Miles,20,UTA,milescj01,60,2.4,6.9,11.5,0.9,14.2

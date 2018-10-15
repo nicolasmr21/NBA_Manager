@@ -1,1 +1,1 @@
-Gerald Wallace,25,CHA,wallage01,62,2.9,9.0,15.9,1.9
+Gerald Wallace,25,CHA,wallage01,62,2.9,9,15.9,1.9,17.5

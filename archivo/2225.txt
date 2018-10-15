@@ -1,1 +1,1 @@
-John Lucas,24,HOU,lucasjo01,82,2.6,4.6,34.8,0.2
+John Lucas,24,HOU,lucasjo01,82,2.6,4.6,34.8,0.2,16.4

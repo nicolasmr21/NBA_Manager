@@ -1,1 +1,1 @@
-Chris Wilcox,20,LAC,wilcoch01,46,0.8,12.3,7.8,1.8
+Chris Wilcox,20,LAC,wilcoch01,46,0.8,12.3,7.8,1.8,12.5

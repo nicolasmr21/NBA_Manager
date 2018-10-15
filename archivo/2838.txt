@@ -1,1 +1,1 @@
-Kevinn Pinkney,23,BOS,pinknke01,6,1.6,9.0,8.3,2.3
+Kevinn Pinkney,23,BOS,pinknke01,6,1.6,9,8.3,2.3,11.6

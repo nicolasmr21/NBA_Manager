@@ -1,1 +1,1 @@
-Eric Snow,29,PHI,snower01,82,2.2,5.7,27.6,0.3
+Eric Snow,29,PHI,snower01,82,2.2,5.7,27.6,0.3,15.6

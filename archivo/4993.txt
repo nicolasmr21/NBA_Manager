@@ -1,1 +1,1 @@
-Dahntay Jones,30,IND,jonesda02,45,1.7,6.1,9.5,0.9
+Dahntay Jones,30,IND,jonesda02,45,1.7,6.1,9.5,0.9,13.7

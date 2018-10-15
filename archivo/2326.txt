@@ -1,1 +1,1 @@
-John Shumate,28,SAS,shumajo01,22,1.9,9.1,5.8,0.9
+John Shumate,28,SAS,shumajo01,22,1.9,9.1,5.8,0.9,9.7

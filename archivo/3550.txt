@@ -1,1 +1,1 @@
-Randy Foye,25,MIN,foyera01,70,1.5,5.0,20.5,0.8
+Randy Foye,25,MIN,foyera01,70,1.5,5,20.5,0.8,13.7

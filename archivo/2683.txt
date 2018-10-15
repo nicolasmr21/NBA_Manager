@@ -1,1 +1,1 @@
-Nazr Mohammed,29,DET,mohamna01,51,1.9,17.6,2.0,4.0
+Nazr Mohammed,29,DET,mohamna01,51,1.9,17.6,2,4,16.5

@@ -1,1 +1,1 @@
-Earl Watson,24,MEM,watsoea01,81,2.9,6.0,37.5,0.8
+Earl Watson,24,MEM,watsoea01,81,2.9,6,37.5,0.8,12.8

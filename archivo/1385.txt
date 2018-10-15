@@ -1,1 +1,1 @@
-Nick Van Exel,33,POR,vanexni01,53,1.5,5.7,23.3,0.0
+Nick Van Exel,33,POR,vanexni01,53,1.5,5.7,23.3,0,12.5

@@ -1,1 +1,1 @@
-Jason Terry,33,DAL,terryja01,82,1.9,3.5,22.2,0.4
+Jason Terry,33,DAL,terryja01,82,1.9,3.5,22.2,0.4,15.9

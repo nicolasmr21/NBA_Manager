@@ -1,1 +1,1 @@
-Bill Hanzlik,24,SEA,hanzlbi01,81,2.0,7.3,11.6,0.8
+Bill Hanzlik,24,SEA,hanzlbi01,81,2,7.3,11.6,0.8,9.6

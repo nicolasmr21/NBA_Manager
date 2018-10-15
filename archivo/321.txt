@@ -1,1 +1,1 @@
-J.R. Bremer,22,BOS,bremejr01,64,1.3,5.5,19.2,0.2
+J.R. Bremer,22,BOS,bremejr01,64,1.3,5.5,19.2,0.2,12.7

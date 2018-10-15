@@ -1,1 +1,1 @@
-J.J. Redick,22,ORL,redicjj01,42,1.0,5.2,9.7,0.0
+J.J. Redick,22,ORL,redicjj01,42,1,5.2,9.7,0,13

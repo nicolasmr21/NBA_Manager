@@ -1,1 +1,1 @@
-Kirk Haston,22,CHH,hastoki01,15,0.0,14.8,11.0,0.9
+Kirk Haston,22,CHH,hastoki01,15,0,14.8,11,0.9,4

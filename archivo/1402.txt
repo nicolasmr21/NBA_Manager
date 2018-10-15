@@ -1,1 +1,1 @@
-Speedy Claxton,26,GSW,claxtsp01,46,3.0,5.5,30.9,0.3
+Speedy Claxton,26,GSW,claxtsp01,46,3,5.5,30.9,0.3,16.4

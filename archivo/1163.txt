@@ -1,1 +1,1 @@
-James Jones,23,IND,jonesja02,6,2.1,4.5,0.0,0.0
+James Jones,23,IND,jonesja02,6,2.1,4.5,0,0,4.9

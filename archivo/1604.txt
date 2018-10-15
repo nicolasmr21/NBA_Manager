@@ -1,1 +1,1 @@
-Foots Walker,29,NJN,walkefo01,41,2.0,4.9,26.4,0.0
+Foots Walker,29,NJN,walkefo01,41,2,4.9,26.4,0,10.1

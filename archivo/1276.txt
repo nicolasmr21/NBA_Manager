@@ -1,1 +1,1 @@
-Drew Gooden,23,CLE,goodedr01,82,1.6,17.6,9.1,2.2
+Drew Gooden,23,CLE,goodedr01,82,1.6,17.6,9.1,2.2,19.7

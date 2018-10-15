@@ -1,1 +1,1 @@
-Russell Westbrook,21,OKC,westbru01,82,2.0,8.2,38.6,0.9
+Russell Westbrook,21,OKC,westbru01,82,2,8.2,38.6,0.9,17.8

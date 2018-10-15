@@ -1,1 +1,1 @@
-Boris Diaw,28,CHA,diawbo01,82,1.4,9.0,20.6,1.3
+Boris Diaw,28,CHA,diawbo01,82,1.4,9,20.6,1.3,13.9

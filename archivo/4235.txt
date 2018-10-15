@@ -1,1 +1,1 @@
-J.J. Hickson,21,CLE,hicksjj01,81,1.1,14.1,3.9,1.8
+J.J. Hickson,21,CLE,hicksjj01,81,1.1,14.1,3.9,1.8,15.2

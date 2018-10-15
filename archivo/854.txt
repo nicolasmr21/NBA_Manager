@@ -1,1 +1,1 @@
-Nick Van Exel,32,GSW,vanexni01,39,0.9,4.7,28.5,0.1
+Nick Van Exel,32,GSW,vanexni01,39,0.9,4.7,28.5,0.1,13.1

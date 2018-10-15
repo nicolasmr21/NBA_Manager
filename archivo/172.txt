@@ -1,1 +1,1 @@
-Sam Cassell,33,MIL,cassesa01,78,1.7,7.4,29.6,0.4
+Sam Cassell,33,MIL,cassesa01,78,1.7,7.4,29.6,0.4,22.3

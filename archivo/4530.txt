@@ -1,1 +1,1 @@
-Shaun Livingston,24,OKC,livinsh01,10,2.0,8.8,14.7,1.1
+Shaun Livingston,24,OKC,livinsh01,10,2,8.8,14.7,1.1,4.7

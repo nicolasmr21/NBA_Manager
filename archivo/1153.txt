@@ -1,1 +1,1 @@
-Tracy Murray,32,POR,murratr01,7,1.6,8.5,4.5,0.0
+Tracy Murray,32,POR,murratr01,7,1.6,8.5,4.5,0,2.4

@@ -1,1 +1,1 @@
-Roger Mason,28,SAS,masonro01,82,0.9,6.0,11.1,0.4
+Roger Mason,28,SAS,masonro01,82,0.9,6,11.1,0.4,11.9

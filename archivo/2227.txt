@@ -1,1 +1,1 @@
-Rickey Brown,22,GSW,brownri01,45,0.7,15.9,4.8,1.4
+Rickey Brown,22,GSW,brownri01,45,0.7,15.9,4.8,1.4,10.9

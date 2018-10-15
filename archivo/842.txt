@@ -1,1 +1,1 @@
-Eric Williams,31,CLE,willier01,50,1.8,7.7,11.1,0.4
+Eric Williams,31,CLE,willier01,50,1.8,7.7,11.1,0.4,11.2

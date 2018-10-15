@@ -1,1 +1,1 @@
-Ruben Wolkowyski,29,BOS,wolkoru01,7,0.0,2.4,7.0,0.0
+Ruben Wolkowyski,29,BOS,wolkoru01,7,0,2.4,7,0,1.2

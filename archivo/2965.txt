@@ -1,1 +1,1 @@
-Corey Maggette,28,LAC,maggeco01,70,1.5,9.1,14.3,0.2
+Corey Maggette,28,LAC,maggeco01,70,1.5,9.1,14.3,0.2,19.3

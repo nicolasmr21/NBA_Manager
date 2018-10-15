@@ -1,1 +1,1 @@
-Monty Williams,31,PHI,willimo01,21,2.3,9.6,15.0,1.4
+Monty Williams,31,PHI,willimo01,21,2.3,9.6,15,1.4,12.5

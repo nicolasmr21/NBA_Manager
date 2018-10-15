@@ -1,1 +1,1 @@
-Leandro Barbosa,25,PHO,barbole01,82,1.5,5.4,13.5,0.5
+Leandro Barbosa,25,PHO,barbole01,82,1.5,5.4,13.5,0.5,15.8

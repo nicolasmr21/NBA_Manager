@@ -1,1 +1,1 @@
-James Johnson,22,CHI,johnsja01,65,1.4,9.4,9.8,4.3
+James Johnson,22,CHI,johnsja01,65,1.4,9.4,9.8,4.3,10.4

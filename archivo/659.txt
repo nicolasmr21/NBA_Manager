@@ -1,1 +1,1 @@
-John Drew,26,ATL,drewjo01,67,2.3,10.6,6.5,0.4
+John Drew,26,ATL,drewjo01,67,2.3,10.6,6.5,0.4,19.2

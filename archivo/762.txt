@@ -1,1 +1,1 @@
-Jeff Foster,27,IND,fosteje01,82,2.0,18.4,5.5,1.1
+Jeff Foster,27,IND,fosteje01,82,2,18.4,5.5,1.1,16.2

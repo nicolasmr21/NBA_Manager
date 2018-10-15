@@ -1,1 +1,1 @@
-Reece Gaines,24,HOU,gainere01,10,1.5,5.9,4.5,0.0
+Reece Gaines,24,HOU,gainere01,10,1.5,5.9,4.5,0,4.7

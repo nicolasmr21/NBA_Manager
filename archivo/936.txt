@@ -1,1 +1,1 @@
-Tim Thomas,26,NYK,thomati01,24,1.7,8.9,8.4,0.5
+Tim Thomas,26,NYK,thomati01,24,1.7,8.9,8.4,0.5,16.7

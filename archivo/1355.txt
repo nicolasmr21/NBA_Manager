@@ -1,1 +1,1 @@
-Stephen Jackson,26,IND,jacksst02,51,2.0,8.3,13.5,0.6
+Stephen Jackson,26,IND,jacksst02,51,2,8.3,13.5,0.6,15.9

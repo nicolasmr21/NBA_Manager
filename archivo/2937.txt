@@ -1,1 +1,1 @@
-Chad Kinch,22,DAL,kinchch01,12,0.9,4.8,13.9,0.5
+Chad Kinch,22,DAL,kinchch01,12,0.9,4.8,13.9,0.5,4.8

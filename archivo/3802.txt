@@ -1,1 +1,1 @@
-Vladimir Radmanovic,28,LAL,radmavl01,46,1.8,8.6,6.9,0.7
+Vladimir Radmanovic,28,LAL,radmavl01,46,1.8,8.6,6.9,0.7,11.6

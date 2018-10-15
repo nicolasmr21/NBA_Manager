@@ -1,1 +1,1 @@
-Ronald Murray,23,SEA,murraro01,2,0.0,8.8,15.9,0.0
+Ronald Murray,23,SEA,murraro01,2,0,8.8,15.9,0,-2

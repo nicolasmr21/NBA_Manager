@@ -1,1 +1,1 @@
-Jim Spanarkel,24,DAL,spanaji01,82,2.4,6.8,16.6,0.3
+Jim Spanarkel,24,DAL,spanaji01,82,2.4,6.8,16.6,0.3,17.2

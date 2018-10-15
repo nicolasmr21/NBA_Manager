@@ -1,1 +1,1 @@
-Francisco Garcia,24,SAC,garcifr01,67,1.6,8.3,11.2,2.6
+Francisco Garcia,24,SAC,garcifr01,67,1.6,8.3,11.2,2.6,10.3

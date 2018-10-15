@@ -1,1 +1,1 @@
-Joe Bryant,26,SDC,bryanjo01,82,1.5,10.9,11.1,0.8
+Joe Bryant,26,SDC,bryanjo01,82,1.5,10.9,11.1,0.8,12.8

@@ -1,1 +1,1 @@
-Beno Udrih,27,SAC,udrihbe01,79,1.8,5.1,24.1,0.3
+Beno Udrih,27,SAC,udrihbe01,79,1.8,5.1,24.1,0.3,15.7

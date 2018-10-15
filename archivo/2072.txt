@@ -1,1 +1,1 @@
-J.R. Smith,20,NOK,smithjr01,55,2.0,6.6,10.3,0.3
+J.R. Smith,20,NOK,smithjr01,55,2,6.6,10.3,0.3,12.7

@@ -1,1 +1,1 @@
-Stromile Swift,29,NJN,swiftst01,6,0.0,12.1,2.6,2.6
+Stromile Swift,29,NJN,swiftst01,6,0,12.1,2.6,2.6,6.6

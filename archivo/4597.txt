@@ -1,1 +1,1 @@
-Joe Alexander,23,CHI,alexajo01,8,1.8,9.6,9.3,2.6
+Joe Alexander,23,CHI,alexajo01,8,1.8,9.6,9.3,2.6,2.8

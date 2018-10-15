@@ -1,1 +1,1 @@
-Royal Ivey,25,ATL,iveyro01,53,2.4,5.7,14.1,0.6
+Royal Ivey,25,ATL,iveyro01,53,2.4,5.7,14.1,0.6,9.6

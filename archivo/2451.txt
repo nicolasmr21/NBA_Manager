@@ -1,1 +1,1 @@
-Andrew Bogut,22,MIL,bogutan01,66,1.1,15.2,13.9,1.2
+Andrew Bogut,22,MIL,bogutan01,66,1.1,15.2,13.9,1.2,15.5

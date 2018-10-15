@@ -1,1 +1,1 @@
-Keyon Dooling,29,NJN,doolike01,53,1.8,3.2,24.0,0.0
+Keyon Dooling,29,NJN,doolike01,53,1.8,3.2,24,0,11.6

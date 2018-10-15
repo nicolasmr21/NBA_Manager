@@ -1,1 +1,1 @@
-Brevin Knight,33,UTA,knighbr01,74,3.7,5.6,28.1,0.3
+Brevin Knight,33,UTA,knighbr01,74,3.7,5.6,28.1,0.3,9.5

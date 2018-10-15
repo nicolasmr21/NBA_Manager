@@ -1,1 +1,1 @@
-Tony Bobbitt,25,LAL,bobbito01,2,0.0,14.1,0.0,0.0
+Tony Bobbitt,25,LAL,bobbito01,2,0,14.1,0,0,11.7

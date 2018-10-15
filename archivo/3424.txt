@@ -1,1 +1,1 @@
-Von Wafer,22,POR,wafervo01,8,0.0,8.3,5.0,2.4
+Von Wafer,22,POR,wafervo01,8,0,8.3,5,2.4,4.7

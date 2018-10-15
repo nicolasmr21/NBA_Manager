@@ -1,1 +1,1 @@
-Wayne Simien,23,MIA,simiewa01,8,1.1,7.0,6.7,0.0
+Wayne Simien,23,MIA,simiewa01,8,1.1,7,6.7,0,6.3

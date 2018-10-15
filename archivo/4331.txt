@@ -1,1 +1,1 @@
-JaVale McGee,22,WAS,mcgeeja01,60,0.9,14.5,2.4,8.0
+JaVale McGee,22,WAS,mcgeeja01,60,0.9,14.5,2.4,8,17

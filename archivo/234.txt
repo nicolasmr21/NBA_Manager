@@ -1,1 +1,1 @@
-Andrei Kirilenko,21,UTA,kirilan01,80,2.9,11.5,10.6,6.1
+Andrei Kirilenko,21,UTA,kirilan01,80,2.9,11.5,10.6,6.1,21.1

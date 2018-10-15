@@ -1,1 +1,1 @@
-John Thomas,29,MIN,thomajo02,44,1.6,10.6,4.7,1.8
+John Thomas,29,MIN,thomajo02,44,1.6,10.6,4.7,1.8,9.1

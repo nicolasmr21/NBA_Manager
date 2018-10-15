@@ -1,1 +1,1 @@
-Mark Jackson,37,UTA,jacksma01,82,1.8,7.3,40.5,0.2
+Mark Jackson,37,UTA,jacksma01,82,1.8,7.3,40.5,0.2,12.2

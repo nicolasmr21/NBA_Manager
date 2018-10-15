@@ -1,1 +1,1 @@
-Nathan Jawai,22,TOR,jawaina01,6,0.0,6.2,0.0,0.0
+Nathan Jawai,22,TOR,jawaina01,6,0,6.2,0,0,-7.6

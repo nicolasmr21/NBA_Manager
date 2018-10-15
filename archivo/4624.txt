@@ -1,1 +1,1 @@
-LaMarcus Aldridge,25,POR,aldrila01,81,1.4,13.5,10.1,2.4
+LaMarcus Aldridge,25,POR,aldrila01,81,1.4,13.5,10.1,2.4,21.5

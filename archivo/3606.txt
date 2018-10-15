@@ -1,1 +1,1 @@
-Matt Barnes,28,PHO,barnema02,77,1.2,11.8,14.2,0.9
+Matt Barnes,28,PHO,barnema02,77,1.2,11.8,14.2,0.9,12.6

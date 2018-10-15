@@ -1,1 +1,1 @@
-Wesley Person,33,DEN,persowe01,25,1.4,7.6,10.3,0.7
+Wesley Person,33,DEN,persowe01,25,1.4,7.6,10.3,0.7,15.6

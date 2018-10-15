@@ -1,1 +1,1 @@
-Jim Brewer,29,LAL,breweji01,78,1.8,13.8,5.8,2.8
+Jim Brewer,29,LAL,breweji01,78,1.8,13.8,5.8,2.8,10.6

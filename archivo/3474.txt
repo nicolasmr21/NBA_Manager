@@ -1,1 +1,1 @@
-Nick Fazekas,22,DAL,fazekni01,4,0.0,19.3,0.0,0.0
+Nick Fazekas,22,DAL,fazekni01,4,0,19.3,0,0,13.8

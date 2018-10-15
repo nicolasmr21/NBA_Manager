@@ -1,1 +1,1 @@
-Earl Watson,26,DEN,watsoea01,46,1.9,5.2,25.3,0.5
+Earl Watson,26,DEN,watsoea01,46,1.9,5.2,25.3,0.5,12.8

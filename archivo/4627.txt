@@ -1,1 +1,1 @@
-Dorell Wright,25,GSW,wrighdo01,82,2.0,7.8,11.6,1.5
+Dorell Wright,25,GSW,wrighdo01,82,2,7.8,11.6,1.5,15

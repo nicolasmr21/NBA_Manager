@@ -1,1 +1,1 @@
-Craig Shelton,23,ATL,sheltcr01,55,1.5,13.5,7.0,0.5
+Craig Shelton,23,ATL,sheltcr01,55,1.5,13.5,7,0.5,8.8

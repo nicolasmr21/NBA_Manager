@@ -1,1 +1,1 @@
-Jerome James,32,NYK,jamesje01,2,0.0,34.2,0.0,0.0
+Jerome James,32,NYK,jamesje01,2,0,34.2,0,0,45.3

@@ -1,1 +1,1 @@
-Eddie Jones,32,MIA,jonesed02,81,1.7,6.0,16.1,0.9
+Eddie Jones,32,MIA,jonesed02,81,1.7,6,16.1,0.9,16.7

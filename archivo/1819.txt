@@ -1,1 +1,1 @@
-Carmelo Anthony,21,DEN,anthoca01,80,1.5,7.8,14.3,1.1
+Carmelo Anthony,21,DEN,anthoca01,80,1.5,7.8,14.3,1.1,22

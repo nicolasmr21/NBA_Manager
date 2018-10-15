@@ -1,1 +1,1 @@
-Ronnie Price,24,UTA,pricero01,61,2.8,4.8,19.4,0.4
+Ronnie Price,24,UTA,pricero01,61,2.8,4.8,19.4,0.4,12.3

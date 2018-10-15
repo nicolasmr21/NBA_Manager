@@ -1,1 +1,1 @@
-Hubert Davis,33,DET,davishu01,3,0.0,0.0,6.3,0.0
+Hubert Davis,33,DET,davishu01,3,0,0,6.3,0,-7.7

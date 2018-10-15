@@ -1,1 +1,1 @@
-Mike Dunleavy,25,GSW,dunlemi02,81,1.2,8.6,15.0,0.9
+Mike Dunleavy,25,GSW,dunlemi02,81,1.2,8.6,15,0.9,12.5

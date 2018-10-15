@@ -1,1 +1,1 @@
-David Robinson,37,SAS,robinda01,64,1.7,17.6,5.9,4.6
+David Robinson,37,SAS,robinda01,64,1.7,17.6,5.9,4.6,17.8

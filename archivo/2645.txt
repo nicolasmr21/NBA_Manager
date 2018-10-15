@@ -1,1 +1,1 @@
-Marc Jackson,32,NOK,jacksma02,56,1.1,10.8,9.6,0.5
+Marc Jackson,32,NOK,jacksma02,56,1.1,10.8,9.6,0.5,11.9

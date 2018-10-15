@@ -1,1 +1,1 @@
-Voshon Lenard,31,DEN,lenarvo01,3,1.0,6.4,19.0,0.0
+Voshon Lenard,31,DEN,lenarvo01,3,1,6.4,19,0,15.1

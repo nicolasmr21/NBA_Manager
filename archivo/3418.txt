@@ -1,1 +1,1 @@
-Darryl Watkins,23,SAC,watkida01,9,1.4,10.0,0.0,2.2
+Darryl Watkins,23,SAC,watkida01,9,1.4,10,0,2.2,0.5

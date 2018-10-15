@@ -1,1 +1,1 @@
-John Thomas,30,ATL,thomajo02,11,1.6,9.1,2.2,0.0
+John Thomas,30,ATL,thomajo02,11,1.6,9.1,2.2,0,3.1

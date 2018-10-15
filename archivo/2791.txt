@@ -1,1 +1,1 @@
-Anthony Roberson,23,GSW,roberan02,20,2.6,5.1,7.0,0.0
+Anthony Roberson,23,GSW,roberan02,20,2.6,5.1,7,0,11.4

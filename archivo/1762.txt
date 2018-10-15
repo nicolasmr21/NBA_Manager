@@ -1,1 +1,1 @@
-Jerome Moiso,26,CLE,moisoje01,4,2.0,15.3,5.8,5.5
+Jerome Moiso,26,CLE,moisoje01,4,2,15.3,5.8,5.5,15.3

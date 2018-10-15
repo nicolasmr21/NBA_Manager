@@ -1,1 +1,1 @@
-Luke Ridnour,23,SEA,ridnolu01,82,2.0,4.9,30.6,0.7
+Luke Ridnour,23,SEA,ridnolu01,82,2,4.9,30.6,0.7,14.6

@@ -1,1 +1,1 @@
-Billy Thomas,32,NJN,thomabi01,4,0.0,0.0,0.0,0.0
+Billy Thomas,32,NJN,thomabi01,4,0,0,0,0,-10.3

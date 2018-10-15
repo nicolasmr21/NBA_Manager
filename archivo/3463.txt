@@ -1,1 +1,1 @@
-Ira Newble,33,SEA,newblir01,2,0.0,0.0,8.8,0.0
+Ira Newble,33,SEA,newblir01,2,0,0,8.8,0,0.5

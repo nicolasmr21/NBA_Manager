@@ -1,1 +1,1 @@
-Andre Owens,27,IND,owensan01,31,1.6,6.5,17.6,0.6
+Andre Owens,27,IND,owensan01,31,1.6,6.5,17.6,0.6,10

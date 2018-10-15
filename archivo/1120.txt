@@ -1,1 +1,1 @@
-Paul Shirley,26,CHI,shirlpa01,7,0.6,10.2,7.9,0.9
+Paul Shirley,26,CHI,shirlpa01,7,0.6,10.2,7.9,0.9,4.6

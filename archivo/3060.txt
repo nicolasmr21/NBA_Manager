@@ -1,1 +1,1 @@
-Morris Peterson,30,NOH,petermo01,76,1.4,6.7,5.5,0.3
+Morris Peterson,30,NOH,petermo01,76,1.4,6.7,5.5,0.3,11.2

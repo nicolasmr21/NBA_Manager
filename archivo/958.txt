@@ -1,1 +1,1 @@
-Rasual Butler,24,MIA,butlera01,45,0.8,5.3,6.6,1.5
+Rasual Butler,24,MIA,butlera01,45,0.8,5.3,6.6,1.5,14

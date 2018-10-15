@@ -1,1 +1,1 @@
-Matt Bonner,27,SAS,bonnema01,68,0.9,13.3,6.2,1.5
+Matt Bonner,27,SAS,bonnema01,68,0.9,13.3,6.2,1.5,12.4

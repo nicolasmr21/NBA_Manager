@@ -1,1 +1,1 @@
-Carlos Boozer,25,UTA,boozeca01,74,1.4,20.6,16.6,0.7
+Carlos Boozer,25,UTA,boozeca01,74,1.4,20.6,16.6,0.7,24.1

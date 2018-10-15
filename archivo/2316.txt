@@ -1,1 +1,1 @@
-Marcus Fizer,27,NOK,fizerma01,3,0.0,10.7,5.3,0.0
+Marcus Fizer,27,NOK,fizerma01,3,0,10.7,5.3,0,14.1

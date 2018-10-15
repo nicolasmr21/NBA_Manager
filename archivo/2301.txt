@@ -1,1 +1,1 @@
-Vin Baker,34,LAC,bakervi01,8,2.5,13.0,7.0,3.5
+Vin Baker,34,LAC,bakervi01,8,2.5,13,7,3.5,11.2

@@ -1,1 +1,1 @@
-Mark Blount,30,MIN,blounma01,42,1.2,10.5,5.0,2.6
+Mark Blount,30,MIN,blounma01,42,1.2,10.5,5,2.6,12.1

@@ -1,1 +1,1 @@
-Adam Morrison,25,LAL,morriad01,31,0.6,7.4,11.3,0.6
+Adam Morrison,25,LAL,morriad01,31,0.6,7.4,11.3,0.6,7.4

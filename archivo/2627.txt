@@ -1,1 +1,1 @@
-Earl Boykins,30,MIL,boykiea01,35,1.4,3.9,21.5,0.0
+Earl Boykins,30,MIL,boykiea01,35,1.4,3.9,21.5,0,15.1

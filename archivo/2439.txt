@@ -1,1 +1,1 @@
-Jameer Nelson,24,ORL,nelsoja01,77,1.7,6.2,25.0,0.2
+Jameer Nelson,24,ORL,nelsoja01,77,1.7,6.2,25,0.2,13.9

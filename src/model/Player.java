@@ -10,8 +10,8 @@ public class Player {
 	private int mp;
 	private double ppm, rpm, spm, bpm;
 
-	public Player(String name, int age, String team, String id, int mp, double ppm, double rpm, double spm,
-			double bpm) {
+	public Player(String name, int age, String team, String id, int mp, double spm, double rpm, 
+			double bpm, double ppm) {
 		super();
 		this.name = name;
 		this.age = age;

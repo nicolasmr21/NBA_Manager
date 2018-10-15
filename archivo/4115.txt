@@ -1,1 +1,1 @@
-John Long,25,DET,longjo01,69,1.4,6.4,11.0,0.6
+John Long,25,DET,longjo01,69,1.4,6.4,11,0.6,17.4

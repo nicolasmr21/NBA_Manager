@@ -1,1 +1,1 @@
-Mike Woodson,23,KCK,woodsmi01,76,2.9,6.0,14.0,0.9
+Mike Woodson,23,KCK,woodsmi01,76,2.9,6,14,0.9,17.8

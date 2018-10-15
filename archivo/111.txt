@@ -1,1 +1,1 @@
-Greg Foster,33,MIL,fostegr01,6,0.0,19.3,6.1,0.0
+Greg Foster,33,MIL,fostegr01,6,0,19.3,6.1,0,4.8

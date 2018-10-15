@@ -1,1 +1,1 @@
-Ira Newble,30,CLE,newblir01,74,1.5,7.1,7.6,0.7
+Ira Newble,30,CLE,newblir01,74,1.5,7.1,7.6,0.7,8.6

@@ -1,8 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
 <?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Circle?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
 
-
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="560.0" prefWidth="980.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/10.0.1">
-	<!-- TODO Add Nodes -->
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="460.0" prefWidth="980.0" style="-fx-background-color: #e8eaf6;" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.SearchPlayerController">
+   <children>
+      <AnchorPane layoutX="33.0" layoutY="103.0" prefHeight="244.0" prefWidth="278.0">
+         <children>
+            <ImageView fitHeight="226.0" fitWidth="214.0" layoutX="32.0" layoutY="15.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../image/michael-jordan-logo-png-4.png" />
+               </image>
+            </ImageView>
+            <Circle fx:id="c4" fill="#ff1f1f00" layoutX="139.0" layoutY="122.0" radius="133.0" stroke="#201c2c" strokeType="INSIDE" strokeWidth="10.0" style="-fx-stroke-dash-array: 40;" />
+         </children>
+      </AnchorPane>
+      <AnchorPane layoutX="331.0" layoutY="138.0" prefHeight="194.0" prefWidth="625.0" style="-fx-background-color: #201c2c;" stylesheets="@application.css">
+         <children>
+            <Text fill="WHITE" fontSmoothingType="LCD" layoutX="48.0" layoutY="71.0" strokeType="OUTSIDE" strokeWidth="0.0" text="PLAYER ID" textAlignment="CENTER" wrappingWidth="61.13671875" />
+            <TextField fx:id="txtID" editable="false" layoutX="157.0" layoutY="48.0" prefHeight="25.0" prefWidth="392.0" promptText="ID" />
+            <Text fill="#43e3ff" layoutX="14.0" layoutY="34.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Jugador Encontrado" wrappingWidth="419.13671875">
+               <font>
+                  <Font size="25.0" />
+               </font>
+            </Text>
+            <TextField fx:id="txtInfo" editable="false" layoutX="48.0" layoutY="110.0" prefHeight="37.0" prefWidth="544.0" promptText="info" />
+         </children>
+      </AnchorPane>
+   </children>
 </AnchorPane>

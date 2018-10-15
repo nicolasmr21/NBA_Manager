@@ -1,1 +1,1 @@
-Alvin Scott,25,PHO,scottal01,82,1.9,10.4,10.2,2.8
+Alvin Scott,25,PHO,scottal01,82,1.9,10.4,10.2,2.8,13.4

@@ -1,1 +1,1 @@
-Michael Redd,26,MIL,reddmi01,80,1.6,6.5,13.8,0.1
+Michael Redd,26,MIL,reddmi01,80,1.6,6.5,13.8,0.1,21.2

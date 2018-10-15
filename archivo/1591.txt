@@ -1,1 +1,1 @@
-Raul Lopez,24,UTA,lopezra01,31,2.3,4.7,39.3,0.5
+Raul Lopez,24,UTA,lopezra01,31,2.3,4.7,39.3,0.5,12.9

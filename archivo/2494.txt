@@ -1,1 +1,1 @@
-Luke Walton,26,LAL,waltolu01,60,1.6,8.9,20.2,0.8
+Luke Walton,26,LAL,waltolu01,60,1.6,8.9,20.2,0.8,14.7

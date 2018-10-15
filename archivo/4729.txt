@@ -1,1 +1,1 @@
-Eric Gordon,22,LAC,gordoer01,56,1.7,4.5,20.7,0.7
+Eric Gordon,22,LAC,gordoer01,56,1.7,4.5,20.7,0.7,18.5

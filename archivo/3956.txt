@@ -1,1 +1,1 @@
-Brian Cook,28,ORL,cookbr01,21,1.1,10.4,4.7,0.0
+Brian Cook,28,ORL,cookbr01,21,1.1,10.4,4.7,0,7.6

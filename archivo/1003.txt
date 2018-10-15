@@ -1,1 +1,1 @@
-Earl Tatum,24,IND,tatumea01,57,2.5,5.4,17.6,0.8
+Earl Tatum,24,IND,tatumea01,57,2.5,5.4,17.6,0.8,14.2

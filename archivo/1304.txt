@@ -1,1 +1,1 @@
-Rick Robey,25,BOS,robeyri01,82,1.2,14.2,11.2,0.7
+Rick Robey,25,BOS,robeyri01,82,1.2,14.2,11.2,0.7,14.9

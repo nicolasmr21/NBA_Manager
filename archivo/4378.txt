@@ -1,1 +1,1 @@
-Devean George,32,GSW,georgde01,45,2.6,8.3,5.8,0.9
+Devean George,32,GSW,georgde01,45,2.6,8.3,5.8,0.9,11.6

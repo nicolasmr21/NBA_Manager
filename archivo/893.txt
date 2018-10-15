@@ -1,1 +1,1 @@
-George McGinnis,30,IND,mcginge01,69,2.6,15.6,16.4,0.9
+George McGinnis,30,IND,mcginge01,69,2.6,15.6,16.4,0.9,14.9

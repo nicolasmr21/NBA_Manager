@@ -1,1 +1,1 @@
-Lawrence Roberts,24,MEM,roberla01,54,1.9,16.1,4.7,1.0
+Lawrence Roberts,24,MEM,roberla01,54,1.9,16.1,4.7,1,13.4

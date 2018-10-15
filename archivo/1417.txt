@@ -1,1 +1,1 @@
-Robert Horry,34,SAS,horryro01,75,2.6,11.2,9.2,3.1
+Robert Horry,34,SAS,horryro01,75,2.6,11.2,9.2,3.1,14.9

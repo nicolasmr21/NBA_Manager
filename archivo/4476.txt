@@ -1,1 +1,1 @@
-Reggie Evans,29,TOR,evansre01,28,2.3,19.9,3.7,1.0
+Reggie Evans,29,TOR,evansre01,28,2.3,19.9,3.7,1,11.4

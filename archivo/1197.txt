@@ -1,1 +1,1 @@
-Mamadou N'Diaye,28,DAL,ndiayma02,3,0.0,7.8,0.0,10.6
+Mamadou N'Diaye,28,DAL,ndiayma02,3,0,7.8,0,10.6,-8.1

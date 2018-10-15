@@ -1,1 +1,1 @@
-Corey Brewer,23,MIN,breweco01,82,2.4,6.3,12.5,0.9
+Corey Brewer,23,MIN,breweco01,82,2.4,6.3,12.5,0.9,12.1

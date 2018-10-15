@@ -1,1 +1,1 @@
-James Thomas,25,PHI,thomaja02,15,0.0,14.6,1.2,1.8
+James Thomas,25,PHI,thomaja02,15,0,14.6,1.2,1.8,4.1

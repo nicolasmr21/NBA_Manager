@@ -1,1 +1,1 @@
-Jamal Crawford,23,CHI,crawfja01,80,2.1,5.5,27.5,0.8
+Jamal Crawford,23,CHI,crawfja01,80,2.1,5.5,27.5,0.8,15.9

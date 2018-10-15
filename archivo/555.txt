@@ -1,1 +1,1 @@
-Art Long,30,PHI,longar01,19,0.8,17.9,2.5,4.8
+Art Long,30,PHI,longar01,19,0.8,17.9,2.5,4.8,7.7

@@ -1,1 +1,1 @@
-Bill Willoughby,24,HOU,willobi01,69,1.0,9.9,7.0,2.3
+Bill Willoughby,24,HOU,willobi01,69,1,9.9,7,2.3,13.1

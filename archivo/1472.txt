@@ -1,1 +1,1 @@
-DeShawn Stevenson,23,ORL,stevede01,55,0.7,5.2,10.4,0.6
+DeShawn Stevenson,23,ORL,stevede01,55,0.7,5.2,10.4,0.6,9.3

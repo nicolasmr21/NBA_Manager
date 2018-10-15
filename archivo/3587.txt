@@ -1,1 +1,1 @@
-J.R. Smith,23,DEN,smithjr01,81,1.8,7.7,17.3,0.5
+J.R. Smith,23,DEN,smithjr01,81,1.8,7.7,17.3,0.5,16.8

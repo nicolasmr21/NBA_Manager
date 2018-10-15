@@ -1,1 +1,1 @@
-Robert Horry,32,LAL,horryro01,80,2.1,12.3,14.3,1.9
+Robert Horry,32,LAL,horryro01,80,2.1,12.3,14.3,1.9,12.4

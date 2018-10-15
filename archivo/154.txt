@@ -1,1 +1,1 @@
-Karl Malone,39,UTA,malonka01,81,2.5,13.0,24.4,0.8
+Karl Malone,39,UTA,malonka01,81,2.5,13,24.4,0.8,21.7

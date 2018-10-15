@@ -1,1 +1,1 @@
-Maciej Lampe,19,NOH,lampema01,21,0.8,12.9,6.9,1.5
+Maciej Lampe,19,NOH,lampema01,21,0.8,12.9,6.9,1.5,8.3

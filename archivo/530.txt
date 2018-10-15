@@ -1,1 +1,1 @@
-Michael Stewart,27,CLE,stewami01,47,0.4,12.3,3.6,4.2
+Michael Stewart,27,CLE,stewami01,47,0.4,12.3,3.6,4.2,5.9

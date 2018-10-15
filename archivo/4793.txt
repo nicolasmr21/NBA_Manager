@@ -1,1 +1,1 @@
-Ben Poquette,26,UTA,poquebe01,82,1.4,13.0,6.9,2.1
+Ben Poquette,26,UTA,poquebe01,82,1.4,13,6.9,2.1,13.1

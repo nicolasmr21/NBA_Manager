@@ -1,1 +1,1 @@
-Maciej Lampe,20,NOK,lampema01,2,0.0,14.9,17.5,0.0
+Maciej Lampe,20,NOK,lampema01,2,0,14.9,17.5,0,-6.1

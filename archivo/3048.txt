@@ -1,1 +1,1 @@
-Bill Mayfield,23,GSW,mayfibi01,7,0.0,9.2,2.5,1.0
+Bill Mayfield,23,GSW,mayfibi01,7,0,9.2,2.5,1,6.8

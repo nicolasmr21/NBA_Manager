@@ -1,1 +1,1 @@
-Marvin Williams,22,ATL,willima02,61,1.5,10.7,6.3,1.4
+Marvin Williams,22,ATL,willima02,61,1.5,10.7,6.3,1.4,16

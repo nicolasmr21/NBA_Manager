@@ -1,1 +1,1 @@
-Eric Maynor,22,OKC,maynoer01,55,1.5,5.8,30.9,0.7
+Eric Maynor,22,OKC,maynoer01,55,1.5,5.8,30.9,0.7,11.6

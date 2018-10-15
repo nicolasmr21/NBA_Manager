@@ -1,1 +1,1 @@
-Anthony Tolliver,24,POR,tollian01,2,0.0,15.5,0.0,0.0
+Anthony Tolliver,24,POR,tollian01,2,0,15.5,0,0,-11.5

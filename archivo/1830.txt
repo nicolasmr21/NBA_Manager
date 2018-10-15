@@ -1,1 +1,1 @@
-Ben Wallace,31,DET,wallabe01,82,2.8,19.0,8.2,4.6
+Ben Wallace,31,DET,wallabe01,82,2.8,19,8.2,4.6,17.5

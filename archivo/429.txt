@@ -1,1 +1,1 @@
-Chris Mihm,23,CLE,mihmch01,52,1.1,16.0,6.0,3.3
+Chris Mihm,23,CLE,mihmch01,52,1.1,16,6,3.3,13.2

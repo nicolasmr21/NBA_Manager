@@ -1,1 +1,1 @@
-Jason Richardson,30,PHO,richaja01,25,1.7,8.0,7.9,0.3
+Jason Richardson,30,PHO,richaja01,25,1.7,8,7.9,0.3,19.1

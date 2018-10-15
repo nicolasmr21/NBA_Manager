@@ -1,1 +1,1 @@
-Jim Chones,28,CLE,choneji01,82,0.8,14.7,6.5,1.0
+Jim Chones,28,CLE,choneji01,82,0.8,14.7,6.5,1,14.9

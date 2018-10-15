@@ -1,1 +1,1 @@
-Donyell Marshall,32,CLE,marshdo01,81,1.5,14.0,4.8,1.5
+Donyell Marshall,32,CLE,marshdo01,81,1.5,14,4.8,1.5,13.4

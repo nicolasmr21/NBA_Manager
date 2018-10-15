@@ -1,1 +1,1 @@
-Adonal Foyle,33,MEM,foylead01,1,0.0,0.0,0.0,0.0
+Adonal Foyle,33,MEM,foylead01,1,0,0,0,0,-6.3

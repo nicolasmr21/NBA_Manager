@@ -1,1 +1,1 @@
-Terry Duerod,24,BOS,duerote01,32,2.1,2.5,8.2,0.0
+Terry Duerod,24,BOS,duerote01,32,2.1,2.5,8.2,0,14.3

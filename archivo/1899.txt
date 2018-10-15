@@ -1,1 +1,1 @@
-Stephon Marbury,28,NYK,marbust01,60,1.5,4.9,31.7,0.1
+Stephon Marbury,28,NYK,marbust01,60,1.5,4.9,31.7,0.1,16.4

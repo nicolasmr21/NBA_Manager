@@ -1,1 +1,1 @@
-Ibo Kutluay,30,SEA,kutluib01,5,0.0,5.1,0.0,0.0
+Ibo Kutluay,30,SEA,kutluib01,5,0,5.1,0,0,-12.9

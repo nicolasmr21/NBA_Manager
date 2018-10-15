@@ -1,1 +1,1 @@
-Louis Amundson,24,UTA,amundlo01,1,0.0,0.0,0.0,0.0
+Louis Amundson,24,UTA,amundlo01,1,0,0,0,0,0

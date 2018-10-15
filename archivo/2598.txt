@@ -1,1 +1,1 @@
-Bobby Jackson,33,NOK,jacksbo01,56,2.0,7.7,17.9,0.4
+Bobby Jackson,33,NOK,jacksbo01,56,2,7.7,17.9,0.4,15.1

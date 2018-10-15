@@ -1,1 +1,1 @@
-Bruce Bowen,32,SAS,bowenbr01,82,1.7,5.4,6.7,0.9
+Bruce Bowen,32,SAS,bowenbr01,82,1.7,5.4,6.7,0.9,8.2

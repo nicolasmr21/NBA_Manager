@@ -1,1 +1,1 @@
-Andrea Bargnani,24,TOR,bargnan01,80,0.5,10.4,5.4,3.0
+Andrea Bargnani,24,TOR,bargnan01,80,0.5,10.4,5.4,3,15.5

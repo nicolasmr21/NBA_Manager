@@ -1,1 +1,1 @@
-George Johnson,32,SAS,johnsge02,82,1.1,16.9,5.8,7.7
+George Johnson,32,SAS,johnsge02,82,1.1,16.9,5.8,7.7,13.5

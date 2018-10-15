@@ -1,1 +1,1 @@
-John Duren,22,UTA,durenjo01,40,1.9,4.4,15.3,0.3
+John Duren,22,UTA,durenjo01,40,1.9,4.4,15.3,0.3,2.6

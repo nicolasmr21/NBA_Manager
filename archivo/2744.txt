@@ -1,1 +1,1 @@
-Lynn Greer,27,MIL,greerly01,41,2.0,3.7,19.0,0.2
+Lynn Greer,27,MIL,greerly01,41,2,3.7,19,0.2,14

@@ -1,1 +1,1 @@
-Allan Bristow,29,UTA,bristal01,82,1.5,12.3,27.0,0.1
+Allan Bristow,29,UTA,bristal01,82,1.5,12.3,27,0.1,14.9

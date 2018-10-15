@@ -1,1 +1,1 @@
-Jamison Brewer,24,NYK,breweja01,18,2.3,7.0,9.4,0.4
+Jamison Brewer,24,NYK,breweja01,18,2.3,7,9.4,0.4,4

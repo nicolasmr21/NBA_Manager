@@ -1,1 +1,1 @@
-Bernard Robinson,24,CHA,robinbe01,31,1.7,8.4,14.4,0.9
+Bernard Robinson,24,CHA,robinbe01,31,1.7,8.4,14.4,0.9,9.8

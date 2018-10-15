@@ -1,1 +1,1 @@
-Jermaine Jackson,26,TOR,jacksje01,24,1.7,5.0,21.1,0.7
+Jermaine Jackson,26,TOR,jacksje01,24,1.7,5,21.1,0.7,8.2

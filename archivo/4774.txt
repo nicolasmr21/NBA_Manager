@@ -1,1 +1,1 @@
-Ronnie Brewer,25,CHI,brewero02,81,3.2,8.6,12.1,0.9
+Ronnie Brewer,25,CHI,brewero02,81,3.2,8.6,12.1,0.9,13.8

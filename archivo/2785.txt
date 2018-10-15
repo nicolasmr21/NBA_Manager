@@ -1,1 +1,1 @@
-Jalen Rose,34,PHO,roseja01,29,1.0,5.4,9.3,0.6
+Jalen Rose,34,PHO,roseja01,29,1,5.4,9.3,0.6,13.4

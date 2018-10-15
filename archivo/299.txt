@@ -1,1 +1,1 @@
-Ray Allen,27,MIL,allenra02,47,1.8,7.6,17.5,0.5
+Ray Allen,27,MIL,allenra02,47,1.8,7.6,17.5,0.5,19.9

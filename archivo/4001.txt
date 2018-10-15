@@ -1,1 +1,1 @@
-Hassan Adams,24,TOR,adamsha01,12,1.0,7.9,2.8,1.5
+Hassan Adams,24,TOR,adamsha01,12,1,7.9,2.8,1.5,0.4

@@ -1,1 +1,1 @@
-Fred Jones,24,IND,jonesfr01,81,2.4,4.9,18.7,0.9
+Fred Jones,24,IND,jonesfr01,81,2.4,4.9,18.7,0.9,11.8

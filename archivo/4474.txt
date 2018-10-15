@@ -1,1 +1,1 @@
-Dan Gadzuric,31,MIL,gadzuda01,32,1.5,16.6,6.0,3.3
+Dan Gadzuric,31,MIL,gadzuda01,32,1.5,16.6,6,3.3,10.5

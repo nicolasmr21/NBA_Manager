@@ -1,1 +1,1 @@
-Scott May,26,CHI,maysc01,63,2.0,10.8,11.5,0.5
+Scott May,26,CHI,maysc01,63,2,10.8,11.5,0.5,17.2

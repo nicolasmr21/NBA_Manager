@@ -1,1 +1,1 @@
-Brian Cardinal,30,MEM,cardibr01,37,1.1,12.2,7.4,0.3
+Brian Cardinal,30,MEM,cardibr01,37,1.1,12.2,7.4,0.3,7.3

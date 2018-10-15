@@ -1,1 +1,1 @@
-Dan Dickau,25,POR,dickada01,20,2.9,3.9,21.4,0.0
+Dan Dickau,25,POR,dickada01,20,2.9,3.9,21.4,0,7.7

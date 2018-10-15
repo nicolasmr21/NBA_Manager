@@ -1,1 +1,1 @@
-Lionel Chalmers,24,LAC,chalmli01,36,1.6,4.3,18.6,0.0
+Lionel Chalmers,24,LAC,chalmli01,36,1.6,4.3,18.6,0,6.5

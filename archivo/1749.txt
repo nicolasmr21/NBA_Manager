@@ -1,1 +1,1 @@
-Michael Bradley,25,SAC,bradlmi01,8,0.0,12.8,6.5,0.0
+Michael Bradley,25,SAC,bradlmi01,8,0,12.8,6.5,0,12.1

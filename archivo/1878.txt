@@ -1,1 +1,1 @@
-Raymond Felton,21,CHA,feltora01,80,2.2,6.4,30.9,0.3
+Raymond Felton,21,CHA,feltora01,80,2.2,6.4,30.9,0.3,14.2

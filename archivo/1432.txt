@@ -1,1 +1,1 @@
-Rodney Buford,27,NJN,buforro01,64,1.6,8.7,8.7,0.3
+Rodney Buford,27,NJN,buforro01,64,1.6,8.7,8.7,0.3,9.5

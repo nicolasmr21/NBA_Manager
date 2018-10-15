@@ -1,1 +1,1 @@
-Damon Stoudamire,30,POR,stoudda01,82,1.8,5.9,27.0,0.2
+Damon Stoudamire,30,POR,stoudda01,82,1.8,5.9,27,0.2,14.8

@@ -1,1 +1,1 @@
-Mike O'Koren,22,NJN,okoremi01,79,1.6,10.9,14.0,0.6
+Mike O'Koren,22,NJN,okoremi01,79,1.6,10.9,14,0.6,12.6

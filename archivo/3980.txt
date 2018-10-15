@@ -1,1 +1,1 @@
-Randolph Morris,23,ATL,morrira01,23,1.2,13.2,3.3,0.9
+Randolph Morris,23,ATL,morrira01,23,1.2,13.2,3.3,0.9,1.8

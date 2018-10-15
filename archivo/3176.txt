@@ -1,1 +1,1 @@
-Renaldo Balkman,23,NYK,balkmre01,65,2.4,12.9,6.5,2.4
+Renaldo Balkman,23,NYK,balkmre01,65,2.4,12.9,6.5,2.4,11.5

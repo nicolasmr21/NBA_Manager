@@ -1,1 +1,1 @@
-Billy McKinney,26,DEN,mckinbi01,81,1.5,3.9,21.1,0.4
+Billy McKinney,26,DEN,mckinbi01,81,1.5,3.9,21.1,0.4,14.4

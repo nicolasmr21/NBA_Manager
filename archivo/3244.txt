@@ -1,1 +1,1 @@
-Chris Richard,23,MIN,richach01,52,0.9,14.1,4.6,1.7
+Chris Richard,23,MIN,richach01,52,0.9,14.1,4.6,1.7,7.9

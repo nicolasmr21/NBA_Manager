@@ -1,1 +1,1 @@
-Antonio McDyess,29,NYK,mcdyean01,18,1.5,16.3,8.3,2.0
+Antonio McDyess,29,NYK,mcdyean01,18,1.5,16.3,8.3,2,13.6

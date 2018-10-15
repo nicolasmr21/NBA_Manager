@@ -1,1 +1,1 @@
-Stan Pietkiewicz,24,DAL,pietkst01,36,1.7,5.4,25.5,0.3
+Stan Pietkiewicz,24,DAL,pietkst01,36,1.7,5.4,25.5,0.3,13.5

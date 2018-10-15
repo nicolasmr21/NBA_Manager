@@ -1,1 +1,1 @@
-Lamar Odom,31,LAL,odomla01,82,0.9,15.2,15.5,1.8
+Lamar Odom,31,LAL,odomla01,82,0.9,15.2,15.5,1.8,19.4

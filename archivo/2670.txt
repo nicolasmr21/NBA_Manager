@@ -1,1 +1,1 @@
-Bill Robinzine,25,KCK,robinbi01,82,1.9,15.8,5.6,0.3
+Bill Robinzine,25,KCK,robinbi01,82,1.9,15.8,5.6,0.3,13.6

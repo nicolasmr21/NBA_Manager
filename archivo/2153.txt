@@ -1,1 +1,1 @@
-Antonio Burks,25,MEM,burksan01,57,2.0,3.9,22.1,0.0
+Antonio Burks,25,MEM,burksan01,57,2,3.9,22.1,0,5.1

@@ -1,1 +1,1 @@
-Cedric Jackson,23,SAS,jacksce01,3,6.3,9.4,33.5,5.8
+Cedric Jackson,23,SAS,jacksce01,3,6.3,9.4,33.5,5.8,19.2

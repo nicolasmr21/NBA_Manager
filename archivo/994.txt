@@ -1,1 +1,1 @@
-Lamond Murray,30,TOR,murrala01,33,1.6,10.0,10.4,1.0
+Lamond Murray,30,TOR,murrala01,33,1.6,10,10.4,1,8.9

@@ -1,1 +1,1 @@
-Steve Goodrich,25,NJN,goodrst01,9,1.0,5.6,13.8,2.9
+Steve Goodrich,25,NJN,goodrst01,9,1,5.6,13.8,2.9,-0.9

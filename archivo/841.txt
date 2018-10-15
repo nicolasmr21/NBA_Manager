@@ -1,1 +1,1 @@
-Karl Malone,40,LAL,malonka01,42,1.9,15.1,19.1,1.1
+Karl Malone,40,LAL,malonka01,42,1.9,15.1,19.1,1.1,17.8

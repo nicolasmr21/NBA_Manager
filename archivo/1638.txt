@@ -1,1 +1,1 @@
-Ryan Humphrey,25,MEM,humphry01,35,1.7,16.5,3.3,0.2
+Ryan Humphrey,25,MEM,humphry01,35,1.7,16.5,3.3,0.2,10.2

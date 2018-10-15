@@ -1,1 +1,1 @@
-Baron Davis,25,GSW,davisba01,28,2.6,5.9,40.8,0.7
+Baron Davis,25,GSW,davisba01,28,2.6,5.9,40.8,0.7,20.4

@@ -1,1 +1,1 @@
-Rick Mahorn,23,WSB,mahorri01,80,1.0,14.4,8.0,2.9
+Rick Mahorn,23,WSB,mahorri01,80,1,14.4,8,2.9,13.3

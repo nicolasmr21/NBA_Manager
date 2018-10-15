@@ -1,1 +1,1 @@
-Demetris Nichols,23,CHI,nichode01,11,0.0,7.5,5.7,7.8
+Demetris Nichols,23,CHI,nichode01,11,0,7.5,5.7,7.8,7

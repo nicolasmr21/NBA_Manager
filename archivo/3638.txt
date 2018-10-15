@@ -1,1 +1,1 @@
-Antonio McDyess,34,DET,mcdyean01,62,1.2,19.3,7.3,2.1
+Antonio McDyess,34,DET,mcdyean01,62,1.2,19.3,7.3,2.1,16.6

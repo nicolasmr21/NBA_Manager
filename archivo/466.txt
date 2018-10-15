@@ -1,1 +1,1 @@
-Tremaine Fowlkes,26,LAC,fowlktr01,37,2.3,10.2,6.5,0.2
+Tremaine Fowlkes,26,LAC,fowlktr01,37,2.3,10.2,6.5,0.2,12.4

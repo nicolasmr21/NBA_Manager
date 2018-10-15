@@ -1,1 +1,1 @@
-Ryan Hollins,23,CHA,holliry01,60,1.0,11.6,4.0,4.3
+Ryan Hollins,23,CHA,holliry01,60,1,11.6,4,4.3,11.4

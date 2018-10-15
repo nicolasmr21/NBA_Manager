@@ -1,1 +1,1 @@
-Leon Smith,21,ATL,smithle01,14,2.6,17.7,4.7,0.7
+Leon Smith,21,ATL,smithle01,14,2.6,17.7,4.7,0.7,14

@@ -1,1 +1,1 @@
-Mike Miller,26,MEM,millemi01,70,1.0,8.2,18.7,0.5
+Mike Miller,26,MEM,millemi01,70,1,8.2,18.7,0.5,16.4

@@ -1,1 +1,1 @@
-Lee Johnson,23,HOU,johnsle01,10,0.0,13.9,1.5,3.5
+Lee Johnson,23,HOU,johnsle01,10,0,13.9,1.5,3.5,1.5

@@ -1,1 +1,1 @@
-Qyntel Woods,24,NYK,woodsqy01,49,1.7,11.4,8.0,1.1
+Qyntel Woods,24,NYK,woodsqy01,49,1.7,11.4,8,1.1,12.4

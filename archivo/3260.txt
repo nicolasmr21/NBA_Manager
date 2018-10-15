@@ -1,1 +1,1 @@
-Greg Buckner,31,MIN,buckngr01,31,2.1,7.2,10.8,0.3
+Greg Buckner,31,MIN,buckngr01,31,2.1,7.2,10.8,0.3,7.2

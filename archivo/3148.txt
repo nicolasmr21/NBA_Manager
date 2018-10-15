@@ -1,1 +1,1 @@
-Robert Smith,25,CLE,smithro01,1,0.0,8.3,18.8,0.0
+Robert Smith,25,CLE,smithro01,1,0,8.3,18.8,0,7.2

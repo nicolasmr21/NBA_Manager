@@ -1,1 +1,1 @@
-Steve Hawes,30,ATL,hawesst01,74,1.5,13.9,10.7,0.8
+Steve Hawes,30,ATL,hawesst01,74,1.5,13.9,10.7,0.8,14.7

@@ -1,1 +1,1 @@
-Ryan Hollins,26,CLE,holliry01,70,1.0,9.0,3.6,2.7
+Ryan Hollins,26,CLE,holliry01,70,1,9,3.6,2.7,10.7

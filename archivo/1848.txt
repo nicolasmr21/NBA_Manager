@@ -1,1 +1,1 @@
-Larry Wright,26,DET,wrighla01,45,2.0,5.1,22.6,0.4
+Larry Wright,26,DET,wrighla01,45,2,5.1,22.6,0.4,11.1

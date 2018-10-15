@@ -1,1 +1,1 @@
-Marcus Landry,24,NYK,landrma01,17,0.5,10.0,0.0,1.4
+Marcus Landry,24,NYK,landrma01,17,0.5,10,0,1.4,8.1

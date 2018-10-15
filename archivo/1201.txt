@@ -1,1 +1,1 @@
-Leon Smith,23,SEA,smithle01,1,0.0,29.5,0.0,0.0
+Leon Smith,23,SEA,smithle01,1,0,29.5,0,0,21.7

@@ -1,1 +1,1 @@
-Joey Graham,24,TOR,grahajo01,79,1.2,11.0,5.4,0.2
+Joey Graham,24,TOR,grahajo01,79,1.2,11,5.4,0.2,12.9

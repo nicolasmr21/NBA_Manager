@@ -1,1 +1,1 @@
-Sidney Moncrief,24,MIL,moncrsi01,80,2.2,10.3,18.1,0.4
+Sidney Moncrief,24,MIL,moncrsi01,80,2.2,10.3,18.1,0.4,20.1

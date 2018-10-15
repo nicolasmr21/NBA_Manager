@@ -1,1 +1,1 @@
-Mickael Pietrus,23,GSW,pietrmi01,52,1.4,7.7,6.2,0.6
+Mickael Pietrus,23,GSW,pietrmi01,52,1.4,7.7,6.2,0.6,10

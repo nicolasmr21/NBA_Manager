@@ -1,1 +1,1 @@
-Ron Davis,26,SDC,davisro01,64,2.1,8.5,8.1,0.8
+Ron Davis,26,SDC,davisro01,64,2.1,8.5,8.1,0.8,11.8

@@ -1,1 +1,1 @@
-Maurice Evans,28,LAL,evansma01,76,1.1,7.5,6.7,0.6
+Maurice Evans,28,LAL,evansma01,76,1.1,7.5,6.7,0.6,12.1

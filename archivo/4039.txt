@@ -1,1 +1,1 @@
-James White,26,HOU,whiteja02,4,4.8,0.0,19.2,6.6
+James White,26,HOU,whiteja02,4,4.8,0,19.2,6.6,14.6

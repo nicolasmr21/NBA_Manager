@@ -1,1 +1,1 @@
-Kendall Gill,34,MIN,gillke01,82,2.0,6.8,11.4,0.5
+Kendall Gill,34,MIN,gillke01,82,2,6.8,11.4,0.5,10.6

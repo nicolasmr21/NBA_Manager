@@ -1,1 +1,1 @@
-John Salmons,30,CHI,salmojo01,51,2.0,5.7,11.6,1.0
+John Salmons,30,CHI,salmojo01,51,2,5.7,11.6,1,12.7

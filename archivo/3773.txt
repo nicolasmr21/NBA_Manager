@@ -1,1 +1,1 @@
-Tony Allen,27,BOS,allento01,46,3.2,7.1,12.0,2.1
+Tony Allen,27,BOS,allento01,46,3.2,7.1,12,2.1,12.9

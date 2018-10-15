@@ -1,1 +1,1 @@
-Mario Chalmers,23,MIA,chalmma01,73,2.7,4.4,21.0,0.5
+Mario Chalmers,23,MIA,chalmma01,73,2.7,4.4,21,0.5,10.7

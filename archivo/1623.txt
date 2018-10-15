@@ -1,1 +1,1 @@
-Speedy Claxton,26,NOH,claxtsp01,16,3.3,5.0,42.3,0.4
+Speedy Claxton,26,NOH,claxtsp01,16,3.3,5,42.3,0.4,13.4

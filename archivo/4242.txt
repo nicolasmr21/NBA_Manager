@@ -1,1 +1,1 @@
-Tayshaun Prince,29,DET,princta01,49,1.1,9.0,16.9,1.1
+Tayshaun Prince,29,DET,princta01,49,1.1,9,16.9,1.1,16

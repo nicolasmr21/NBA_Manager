@@ -1,1 +1,1 @@
-Nene Hilario,23,DEN,hilarne01,1,0.0,0.0,0.0,0.0
+Nene Hilario,23,DEN,hilarne01,1,0,0,0,0,-54.4

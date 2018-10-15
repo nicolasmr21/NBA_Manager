@@ -1,1 +1,1 @@
-Tom Abernethy,26,GSW,abernto01,10,1.2,11.4,2.9,0.0
+Tom Abernethy,26,GSW,abernto01,10,1.2,11.4,2.9,0,3.2

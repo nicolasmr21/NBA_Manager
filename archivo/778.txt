@@ -1,1 +1,1 @@
-Allan Houston,32,NYK,houstal01,50,1.1,3.9,10.3,0.1
+Allan Houston,32,NYK,houstal01,50,1.1,3.9,10.3,0.1,14.8

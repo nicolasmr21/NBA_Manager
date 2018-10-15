@@ -1,1 +1,1 @@
-Tyronn Lue,28,ATL,luety01,51,1.1,4.0,21.7,0.2
+Tyronn Lue,28,ATL,luety01,51,1.1,4,21.7,0.2,15.5

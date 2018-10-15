@@ -1,1 +1,1 @@
-Sam Cassell,37,LAC,cassesa01,58,1.1,7.1,35.3,0.4
+Sam Cassell,37,LAC,cassesa01,58,1.1,7.1,35.3,0.4,17.1

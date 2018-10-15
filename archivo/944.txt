@@ -1,1 +1,1 @@
-Luke Walton,23,LAL,waltolu01,72,2.0,9.8,23.0,0.8
+Luke Walton,23,LAL,waltolu01,72,2,9.8,23,0.8,12.7

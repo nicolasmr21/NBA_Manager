@@ -1,1 +1,1 @@
-Chris Mihm,25,LAL,mihmch01,75,0.4,15.1,4.6,4.2
+Chris Mihm,25,LAL,mihmch01,75,0.4,15.1,4.6,4.2,15.7

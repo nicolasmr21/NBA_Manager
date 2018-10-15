@@ -1,1 +1,1 @@
-Rory Sparrow,23,ATL,sparrro01,82,1.7,4.9,24.4,0.3
+Rory Sparrow,23,ATL,sparrro01,82,1.7,4.9,24.4,0.3,13

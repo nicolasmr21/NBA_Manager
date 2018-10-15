@@ -1,1 +1,1 @@
-Billy McKinney,25,UTA,mckinbi01,35,1.8,4.1,21.0,0.2
+Billy McKinney,25,UTA,mckinbi01,35,1.8,4.1,21,0.2,11

@@ -1,1 +1,1 @@
-Jannero Pargo,23,LAL,pargoja01,34,2.0,6.1,17.1,0.4
+Jannero Pargo,23,LAL,pargoja01,34,2,6.1,17.1,0.4,7.3

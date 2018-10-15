@@ -1,1 +1,1 @@
-Rafael Araujo,25,TOR,araujra01,52,2.1,14.6,3.7,0.8
+Rafael Araujo,25,TOR,araujra01,52,2.1,14.6,3.7,0.8,4.5

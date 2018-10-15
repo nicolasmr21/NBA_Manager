@@ -1,1 +1,1 @@
-Richie Frahm,27,POR,frahmri01,43,1.6,7.1,9.7,0.6
+Richie Frahm,27,POR,frahmri01,43,1.6,7.1,9.7,0.6,12.4

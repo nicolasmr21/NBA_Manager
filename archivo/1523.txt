@@ -1,1 +1,1 @@
-Antoine Walker,28,BOS,walkean02,24,1.6,14.0,15.0,2.4
+Antoine Walker,28,BOS,walkean02,24,1.6,14,15,2.4,15.4

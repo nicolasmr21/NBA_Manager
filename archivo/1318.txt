@@ -1,1 +1,1 @@
-Trenton Hassell,25,MIN,hassetr01,82,0.8,6.0,9.4,1.0
+Trenton Hassell,25,MIN,hassetr01,82,0.8,6,9.4,1,9.3

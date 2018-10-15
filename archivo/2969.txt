@@ -1,1 +1,1 @@
-Tracy McGrady,28,HOU,mcgratr01,66,1.5,7.8,29.6,0.9
+Tracy McGrady,28,HOU,mcgratr01,66,1.5,7.8,29.6,0.9,18.4

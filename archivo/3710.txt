@@ -1,1 +1,1 @@
-Ben Wallace,34,CLE,wallabe01,56,2.0,16.4,4.7,4.5
+Ben Wallace,34,CLE,wallabe01,56,2,16.4,4.7,4.5,12.2

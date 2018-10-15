@@ -1,1 +1,1 @@
-Theo Ratliff,34,DET,ratlith01,16,1.0,13.4,4.6,6.4
+Theo Ratliff,34,DET,ratlith01,16,1,13.4,4.6,6.4,11.6

@@ -1,1 +1,1 @@
-Sasha Pavlovic,25,CLE,pavloal01,66,1.1,7.2,10.5,1.2
+Sasha Pavlovic,25,CLE,pavloal01,66,1.1,7.2,10.5,1.2,8.6

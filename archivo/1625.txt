@@ -1,1 +1,1 @@
-Charlie Ward,34,HOU,wardch01,14,2.3,6.3,18.4,0.0
+Charlie Ward,34,HOU,wardch01,14,2.3,6.3,18.4,0,8.7

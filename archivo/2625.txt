@@ -1,1 +1,1 @@
-Rodney Carney,22,PHI,carnero01,67,1.7,6.6,3.8,1.5
+Rodney Carney,22,PHI,carnero01,67,1.7,6.6,3.8,1.5,11.4

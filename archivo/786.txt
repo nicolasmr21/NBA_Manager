@@ -1,1 +1,1 @@
-Kelvin Cato,29,HOU,catoke01,69,1.6,16.0,6.9,4.2
+Kelvin Cato,29,HOU,catoke01,69,1.6,16,6.9,4.2,13.2

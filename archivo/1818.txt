@@ -1,1 +1,1 @@
-Mehmet Okur,26,UTA,okurme01,82,0.7,15.4,12.8,2.1
+Mehmet Okur,26,UTA,okurme01,82,0.7,15.4,12.8,2.1,19

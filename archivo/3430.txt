@@ -1,1 +1,1 @@
-Alando Tucker,23,PHO,tuckeal02,6,0.0,9.4,0.0,1.4
+Alando Tucker,23,PHO,tuckeal02,6,0,9.4,0,1.4,11.8

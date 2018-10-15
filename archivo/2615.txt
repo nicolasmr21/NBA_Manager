@@ -1,1 +1,1 @@
-Eric Fernsten,27,BOS,fernser01,45,1.0,12.7,4.7,1.4
+Eric Fernsten,27,BOS,fernser01,45,1,12.7,4.7,1.4,11

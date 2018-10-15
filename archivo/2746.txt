@@ -1,1 +1,1 @@
-DerMarr Johnson,26,DEN,johnsde03,39,1.9,7.7,6.0,2.1
+DerMarr Johnson,26,DEN,johnsde03,39,1.9,7.7,6,2.1,6.1

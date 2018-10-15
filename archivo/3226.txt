@@ -1,1 +1,1 @@
-Myles Patrick,26,LAL,patrimy01,3,0.0,12.0,15.2,0.0
+Myles Patrick,26,LAL,patrimy01,3,0,12,15.2,0,6.9

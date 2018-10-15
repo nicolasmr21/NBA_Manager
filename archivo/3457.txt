@@ -1,1 +1,1 @@
-Bobby Jones,24,SAS,jonesbo02,3,5.4,5.9,7.2,0.0
+Bobby Jones,24,SAS,jonesbo02,3,5.4,5.9,7.2,0,3.4

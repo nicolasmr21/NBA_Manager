@@ -1,1 +1,1 @@
-Tony Delk,29,BOS,delkto01,67,2.0,7.0,14.0,0.4
+Tony Delk,29,BOS,delkto01,67,2,7,14,0.4,13.7

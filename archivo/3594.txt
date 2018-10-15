@@ -1,1 +1,1 @@
-Ramon Sessions,22,MIL,sessira01,79,2.0,7.3,34.6,0.3
+Ramon Sessions,22,MIL,sessira01,79,2,7.3,34.6,0.3,17.6

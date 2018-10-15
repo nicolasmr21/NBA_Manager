@@ -1,1 +1,1 @@
-Chauncey Billups,33,DEN,billuch01,73,1.7,5.3,26.1,0.3
+Chauncey Billups,33,DEN,billuch01,73,1.7,5.3,26.1,0.3,20.2

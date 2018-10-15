@@ -1,1 +1,1 @@
-Allan Bristow,30,DAL,bristal01,82,1.6,9.5,29.3,0.2
+Allan Bristow,30,DAL,bristal01,82,1.6,9.5,29.3,0.2,12.6

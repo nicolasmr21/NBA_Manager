@@ -1,1 +1,1 @@
-Wally Szczerbiak,28,MIN,szczewa02,40,0.7,7.3,13.4,0.7
+Wally Szczerbiak,28,MIN,szczewa02,40,0.7,7.3,13.4,0.7,18.1

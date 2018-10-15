@@ -1,1 +1,1 @@
-Trenton Hassell,29,NJN,hassetr01,53,1.0,7.9,7.1,1.2
+Trenton Hassell,29,NJN,hassetr01,53,1,7.9,7.1,1.2,7.2

@@ -1,1 +1,1 @@
-Chuck Hayes,25,HOU,hayesch01,71,2.1,17.0,7.0,1.6
+Chuck Hayes,25,HOU,hayesch01,71,2.1,17,7,1.6,7.8

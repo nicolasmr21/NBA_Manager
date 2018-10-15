@@ -1,1 +1,1 @@
-Bobby Jackson,32,MEM,jacksbo01,71,1.9,7.6,20.7,0.0
+Bobby Jackson,32,MEM,jacksbo01,71,1.9,7.6,20.7,0,14.6

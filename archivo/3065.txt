@@ -1,1 +1,1 @@
-Fred Jones,28,NYK,jonesfr01,70,1.4,5.5,14.7,0.8
+Fred Jones,28,NYK,jonesfr01,70,1.4,5.5,14.7,0.8,10.9

@@ -1,1 +1,1 @@
-Carl Nicks,22,DEN,nicksca01,27,2.5,5.1,19.9,0.2
+Carl Nicks,22,DEN,nicksca01,27,2.5,5.1,19.9,0.2,8.3

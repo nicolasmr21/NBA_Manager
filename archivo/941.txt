@@ -1,1 +1,1 @@
-DeSagana Diop,22,CLE,diopde01,56,1.9,15.1,7.1,5.0
+DeSagana Diop,22,CLE,diopde01,56,1.9,15.1,7.1,5,10.4

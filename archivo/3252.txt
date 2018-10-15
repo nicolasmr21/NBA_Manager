@@ -1,1 +1,1 @@
-Yakhouba Diawara,25,DEN,diawaya01,54,0.7,6.2,9.3,0.4
+Yakhouba Diawara,25,DEN,diawaya01,54,0.7,6.2,9.3,0.4,8.1

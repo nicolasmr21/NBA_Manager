@@ -1,1 +1,1 @@
-Jeff Ayres,22,POR,pendeje02,39,0.9,15.0,0.4,3.2
+Jeff Ayres,22,POR,pendeje02,39,0.9,15,0.4,3.2,12.1

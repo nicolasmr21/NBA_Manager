@@ -1,1 +1,1 @@
-Jo Jo White,34,KCK,whitejo01,13,2.2,4.9,21.0,0.2
+Jo Jo White,34,KCK,whitejo01,13,2.2,4.9,21,0.2,10.4

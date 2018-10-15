@@ -1,1 +1,1 @@
-Shaun Livingston,21,LAC,livinsh01,54,1.9,6.8,28.3,1.4
+Shaun Livingston,21,LAC,livinsh01,54,1.9,6.8,28.3,1.4,13.7

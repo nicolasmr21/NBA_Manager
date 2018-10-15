@@ -1,1 +1,1 @@
-Gordan Giricek,29,UTA,giricgo01,61,1.2,6.6,8.5,0.3
+Gordan Giricek,29,UTA,giricgo01,61,1.2,6.6,8.5,0.3,11.3

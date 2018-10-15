@@ -1,1 +1,1 @@
-Jeff McInnis,28,POR,mcinnje01,75,0.9,4.5,21.3,0.1
+Jeff McInnis,28,POR,mcinnje01,75,0.9,4.5,21.3,0.1,10

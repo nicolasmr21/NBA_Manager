@@ -1,1 +1,1 @@
-Alonzo Mourning,36,MIA,mournal01,77,0.4,13.1,2.0,9.0
+Alonzo Mourning,36,MIA,mournal01,77,0.4,13.1,2,9,16.7

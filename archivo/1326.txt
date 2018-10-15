@@ -1,1 +1,1 @@
-Billy Ray Bates,24,POR,batesbi01,77,2.4,5.5,19.0,0.2
+Billy Ray Bates,24,POR,batesbi01,77,2.4,5.5,19,0.2,19.3

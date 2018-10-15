@@ -1,1 +1,1 @@
-David West,29,NOH,westda01,81,1.3,12.0,13.7,1.5
+David West,29,NOH,westda01,81,1.3,12,13.7,1.5,18.9

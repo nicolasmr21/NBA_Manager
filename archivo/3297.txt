@@ -1,1 +1,1 @@
-Gerald Green,22,MIN,greenge01,29,1.2,10.0,12.6,0.9
+Gerald Green,22,MIN,greenge01,29,1.2,10,12.6,0.9,7.9

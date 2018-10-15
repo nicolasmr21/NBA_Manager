@@ -1,1 +1,1 @@
-Monta Ellis,22,GSW,ellismo01,81,2.0,7.0,15.8,0.6
+Monta Ellis,22,GSW,ellismo01,81,2,7,15.8,0.6,19

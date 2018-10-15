@@ -1,1 +1,1 @@
-Kevin Restani,29,SAS,restake01,64,0.7,9.5,11.4,0.7
+Kevin Restani,29,SAS,restake01,64,0.7,9.5,11.4,0.7,13.8

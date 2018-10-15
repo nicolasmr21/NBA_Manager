@@ -1,1 +1,1 @@
-Ronald Dupree,23,CHI,duprero01,47,1.9,10.2,10.6,1.5
+Ronald Dupree,23,CHI,duprero01,47,1.9,10.2,10.6,1.5,9.7

@@ -1,1 +1,1 @@
-Richard Jefferson,28,MIL,jefferi01,82,1.2,7.5,11.7,0.4
+Richard Jefferson,28,MIL,jefferi01,82,1.2,7.5,11.7,0.4,15.4

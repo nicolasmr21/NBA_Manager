@@ -1,1 +1,1 @@
-Stacey Augmon,35,NOH,augmost01,69,2.1,7.0,10.0,0.8
+Stacey Augmon,35,NOH,augmost01,69,2.1,7,10,0.8,10

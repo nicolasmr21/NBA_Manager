@@ -1,1 +1,1 @@
-Travis Best,31,DAL,besttr01,61,2.1,4.9,19.5,0.4
+Travis Best,31,DAL,besttr01,61,2.1,4.9,19.5,0.4,10.1

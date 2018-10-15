@@ -1,1 +1,1 @@
-Joe Smith,32,CHI,smithjo02,50,1.1,13.0,7.4,2.1
+Joe Smith,32,CHI,smithjo02,50,1.1,13,7.4,2.1,16.8

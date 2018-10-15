@@ -1,1 +1,1 @@
-Tim Thomas,32,DAL,thomati01,18,1.8,8.2,8.0,0.5
+Tim Thomas,32,DAL,thomati01,18,1.8,8.2,8,0.5,15.1

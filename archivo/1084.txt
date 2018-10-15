@@ -1,1 +1,1 @@
-Alonzo Mourning,33,NJN,mournal01,12,0.5,7.4,6.6,2.2
+Alonzo Mourning,33,NJN,mournal01,12,0.5,7.4,6.6,2.2,13.3

@@ -1,1 +1,1 @@
-Oleksiy Pecherov,23,WAS,pecheol01,32,1.1,16.1,1.2,0.9
+Oleksiy Pecherov,23,WAS,pecheol01,32,1.1,16.1,1.2,0.9,14.5

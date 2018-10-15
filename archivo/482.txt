@@ -1,1 +1,1 @@
-Roger Phegley,24,CLE,pheglro01,82,1.4,6.0,11.8,0.4
+Roger Phegley,24,CLE,pheglro01,82,1.4,6,11.8,0.4,14.3

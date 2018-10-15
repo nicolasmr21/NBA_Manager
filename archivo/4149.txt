@@ -1,1 +1,1 @@
-Carlos Delfino,27,MIL,delfica01,75,1.8,9.8,14.0,0.7
+Carlos Delfino,27,MIL,delfica01,75,1.8,9.8,14,0.7,12.9

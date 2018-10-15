@@ -1,1 +1,1 @@
-Scot Pollard,30,IND,pollasc01,45,2.6,16.3,5.1,1.9
+Scot Pollard,30,IND,pollasc01,45,2.6,16.3,5.1,1.9,12.3

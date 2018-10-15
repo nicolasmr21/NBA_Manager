@@ -1,1 +1,1 @@
-Stephon Marbury,30,NYK,marbust01,24,1.4,4.2,23.1,0.2
+Stephon Marbury,30,NYK,marbust01,24,1.4,4.2,23.1,0.2,13.8

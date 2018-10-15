@@ -1,1 +1,1 @@
-Steve Smith,34,NOH,smithst01,71,0.9,5.0,10.6,0.5
+Steve Smith,34,NOH,smithst01,71,0.9,5,10.6,0.5,11.8

@@ -1,1 +1,1 @@
-Hedo Turkoglu,31,PHO,turkohe01,25,1.5,9.2,13.7,1.6
+Hedo Turkoglu,31,PHO,turkohe01,25,1.5,9.2,13.7,1.6,13.1

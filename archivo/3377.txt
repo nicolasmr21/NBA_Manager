@@ -1,1 +1,1 @@
-Mark Madsen,32,MIN,madsema01,20,1.0,14.6,3.5,1.1
+Mark Madsen,32,MIN,madsema01,20,1,14.6,3.5,1.1,0.2

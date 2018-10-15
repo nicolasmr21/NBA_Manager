@@ -1,1 +1,1 @@
-Shawn Marion,24,PHO,mariosh01,81,2.9,13.0,10.4,2.1
+Shawn Marion,24,PHO,mariosh01,81,2.9,13,10.4,2.1,21.3

@@ -1,1 +1,1 @@
-Ricky Sobers,29,CHI,soberri01,80,1.8,4.2,23.5,0.5
+Ricky Sobers,29,CHI,soberri01,80,1.8,4.2,23.5,0.5,12.2

@@ -1,1 +1,1 @@
-Troy Murphy,28,IND,murphtr01,73,1.2,19.1,10.4,1.0
+Troy Murphy,28,IND,murphtr01,73,1.2,19.1,10.4,1,17.8

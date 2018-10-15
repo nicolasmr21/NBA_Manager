@@ -1,1 +1,1 @@
-Brad Miller,34,HOU,millebr01,60,1.4,12.4,21.4,1.4
+Brad Miller,34,HOU,millebr01,60,1.4,12.4,21.4,1.4,16.3

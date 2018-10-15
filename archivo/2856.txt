@@ -1,1 +1,1 @@
-Josh Powell,24,IND,poweljo01,7,0.0,17.2,6.7,0.0
+Josh Powell,24,IND,poweljo01,7,0,17.2,6.7,0,-1.3

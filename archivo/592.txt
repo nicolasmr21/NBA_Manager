@@ -1,1 +1,1 @@
-Amal McCaskill,29,ATL,mccasam01,11,2.3,17.9,10.8,1.0
+Amal McCaskill,29,ATL,mccasam01,11,2.3,17.9,10.8,1,7.3

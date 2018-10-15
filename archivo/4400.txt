@@ -1,1 +1,1 @@
-Shaun Livingston,24,WAS,livinsh01,26,0.9,5.0,28.6,1.0
+Shaun Livingston,24,WAS,livinsh01,26,0.9,5,28.6,1,14.4

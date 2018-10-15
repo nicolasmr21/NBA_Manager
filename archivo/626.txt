@@ -1,1 +1,1 @@
-Mickey Johnson,28,MIL,johnsmi01,82,2.1,14.2,17.7,1.9
+Mickey Johnson,28,MIL,johnsmi01,82,2.1,14.2,17.7,1.9,16.3

@@ -1,1 +1,1 @@
-Jackson Vroman,24,NOK,vromaja01,41,1.6,12.6,4.2,2.2
+Jackson Vroman,24,NOK,vromaja01,41,1.6,12.6,4.2,2.2,5.9

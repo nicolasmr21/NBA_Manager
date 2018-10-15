@@ -1,1 +1,1 @@
-Omer Asik,24,CHI,asikom01,82,1.1,18.1,4.7,4.3
+Omer Asik,24,CHI,asikom01,82,1.1,18.1,4.7,4.3,11.8

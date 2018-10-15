@@ -1,1 +1,1 @@
-Joe Johnson,23,PHO,johnsjo02,82,1.2,7.0,13.2,0.5
+Joe Johnson,23,PHO,johnsjo02,82,1.2,7,13.2,0.5,15.1

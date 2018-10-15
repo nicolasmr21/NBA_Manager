@@ -1,1 +1,1 @@
-Tree Rollins,22,ATL,rollitr01,80,1.5,16.7,6.3,7.2
+Tree Rollins,22,ATL,rollitr01,80,1.5,16.7,6.3,7.2,15.6

@@ -1,1 +1,1 @@
-Ray Allen,34,BOS,allenra02,80,1.2,5.5,12.3,0.7
+Ray Allen,34,BOS,allenra02,80,1.2,5.5,12.3,0.7,15.2

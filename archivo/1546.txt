@@ -1,1 +1,1 @@
-Carlos Arroyo,25,DET,arroyca01,40,1.9,4.8,29.7,0.1
+Carlos Arroyo,25,DET,arroyca01,40,1.9,4.8,29.7,0.1,10.7

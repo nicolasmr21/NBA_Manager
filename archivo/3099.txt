@@ -1,1 +1,1 @@
-Jason Kapono,26,TOR,kaponja01,81,1.2,4.6,6.7,0.1
+Jason Kapono,26,TOR,kaponja01,81,1.2,4.6,6.7,0.1,10.8

@@ -1,1 +1,1 @@
-Andre Barrett,22,ORL,barrean01,11,1.5,7.0,25.7,0.4
+Andre Barrett,22,ORL,barrean01,11,1.5,7,25.7,0.4,14

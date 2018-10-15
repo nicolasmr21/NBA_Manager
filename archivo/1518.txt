@@ -1,1 +1,1 @@
-Anderson Varejao,22,CLE,varejan01,54,2.5,17.6,4.9,3.3
+Anderson Varejao,22,CLE,varejan01,54,2.5,17.6,4.9,3.3,17

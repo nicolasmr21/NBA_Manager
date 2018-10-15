@@ -1,1 +1,1 @@
-Allen Iverson,31,DEN,iversal01,50,2.1,4.0,28.3,0.4
+Allen Iverson,31,DEN,iversal01,50,2.1,4,28.3,0.4,18.4

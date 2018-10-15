@@ -1,1 +1,1 @@
-Larry Drew,22,DET,drewla01,76,2.6,4.4,22.7,0.3
+Larry Drew,22,DET,drewla01,76,2.6,4.4,22.7,0.3,9.3

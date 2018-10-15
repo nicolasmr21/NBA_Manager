@@ -1,1 +1,1 @@
-Julian Wright,23,TOR,wrighju01,52,2.6,9.1,11.0,2.0
+Julian Wright,23,TOR,wrighju01,52,2.6,9.1,11,2,12.1

@@ -1,1 +1,1 @@
-Mike James,28,DET,jamesmi01,26,2.8,6.6,32.0,0.1
+Mike James,28,DET,jamesmi01,26,2.8,6.6,32,0.1,14.3

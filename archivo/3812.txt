@@ -1,1 +1,1 @@
-Jared Dudley,23,PHO,dudleja01,48,2.7,11.7,7.0,0.6
+Jared Dudley,23,PHO,dudleja01,48,2.7,11.7,7,0.6,15.2

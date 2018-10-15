@@ -1,1 +1,1 @@
-Mike Bibby,29,ATL,bibbymi01,33,1.7,5.5,32.9,0.1
+Mike Bibby,29,ATL,bibbymi01,33,1.7,5.5,32.9,0.1,14.9

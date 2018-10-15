@@ -1,1 +1,1 @@
-Dave Robisch,31,CLE,robisda01,11,0.9,12.6,14.8,0.9
+Dave Robisch,31,CLE,robisda01,11,0.9,12.6,14.8,0.9,12.5

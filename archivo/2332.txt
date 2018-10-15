@@ -1,1 +1,1 @@
-Randy Livingston,30,CHI,livinra01,5,2.3,10.4,6.0,0.0
+Randy Livingston,30,CHI,livinra01,5,2.3,10.4,6,0,-3

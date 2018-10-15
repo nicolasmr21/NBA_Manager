@@ -1,1 +1,1 @@
-Sebastian Telfair,24,CLE,telfase01,4,1.4,3.1,27.1,0.0
+Sebastian Telfair,24,CLE,telfase01,4,1.4,3.1,27.1,0,14

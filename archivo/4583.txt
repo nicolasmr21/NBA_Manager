@@ -1,1 +1,1 @@
-Marcus Haislip,29,SAS,haislma01,10,0.0,13.3,0.0,3.3
+Marcus Haislip,29,SAS,haislma01,10,0,13.3,0,3.3,15.4

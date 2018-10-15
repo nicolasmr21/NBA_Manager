@@ -1,1 +1,1 @@
-Mike Conley,22,MEM,conlemi01,80,2.2,4.3,24.8,0.4
+Mike Conley,22,MEM,conlemi01,80,2.2,4.3,24.8,0.4,13.9

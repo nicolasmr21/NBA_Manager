@@ -15,6 +15,9 @@ import javafx.stage.Stage;
 
 public class DataInsertionController implements Initializable {
 	 
+		private MainController main;
+
+	
 		@FXML
 	    private TextField txtUrl;
 
@@ -27,6 +30,10 @@ public class DataInsertionController implements Initializable {
             if (file != null) {
             }
 	    }
+	    
+	    public void init(MainController m) {
+			main = m;
+		}
 
 		@Override
 		public void initialize(URL location, ResourceBundle resources) {

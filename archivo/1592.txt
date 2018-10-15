@@ -1,1 +1,1 @@
-Zoran Planinic,22,NJN,planizo01,43,2.6,8.1,15.8,0.0
+Zoran Planinic,22,NJN,planizo01,43,2.6,8.1,15.8,0,12.5

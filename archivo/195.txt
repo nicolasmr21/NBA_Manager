@@ -1,1 +1,1 @@
-Brent Barry,31,SEA,barrybr01,75,2.5,7.1,25.0,0.5
+Brent Barry,31,SEA,barrybr01,75,2.5,7.1,25,0.5,15.8

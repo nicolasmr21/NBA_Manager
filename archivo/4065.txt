@@ -1,1 +1,1 @@
-David Lee,26,NYK,leeda02,81,1.4,17.9,17.5,1.0
+David Lee,26,NYK,leeda02,81,1.4,17.9,17.5,1,22.2

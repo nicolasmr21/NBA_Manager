@@ -1,1 +1,1 @@
-Darius Miles,22,CLE,milesda01,37,1.5,10.4,15.7,2.2
+Darius Miles,22,CLE,milesda01,37,1.5,10.4,15.7,2.2,12.7

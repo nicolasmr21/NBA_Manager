@@ -1,1 +1,1 @@
-Luke Jackson,24,CLE,jackslu02,36,1.9,7.5,12.4,0.5
+Luke Jackson,24,CLE,jackslu02,36,1.9,7.5,12.4,0.5,7.9

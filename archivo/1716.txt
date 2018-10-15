@@ -1,1 +1,1 @@
-Jonathan Bender,24,IND,bendejo01,7,0.6,9.0,8.6,1.6
+Jonathan Bender,24,IND,bendejo01,7,0.6,9,8.6,1.6,5.8

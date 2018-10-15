@@ -1,1 +1,1 @@
-Jrue Holiday,20,PHI,holidjr01,82,2.2,6.6,29.0,0.8
+Jrue Holiday,20,PHI,holidjr01,82,2.2,6.6,29,0.8,15.4

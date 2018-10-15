@@ -1,1 +1,1 @@
-Darrick Martin,32,MIN,martida01,16,0.6,2.3,20.5,0.4
+Darrick Martin,32,MIN,martida01,16,0.6,2.3,20.5,0.4,6.1

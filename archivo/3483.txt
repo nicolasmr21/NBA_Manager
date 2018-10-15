@@ -1,1 +1,1 @@
-Marcus Williams,21,SAS,willima04,1,0.0,0.0,0.0,37.9
+Marcus Williams,21,SAS,willima04,1,0,0,0,37.9,0

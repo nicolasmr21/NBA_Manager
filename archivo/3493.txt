@@ -1,1 +1,1 @@
-Dave Greenwood,24,CHI,greenda01,82,1.2,15.3,13.2,1.8
+Dave Greenwood,24,CHI,greenda01,82,1.2,15.3,13.2,1.8,15.5

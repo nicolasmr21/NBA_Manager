@@ -1,1 +1,1 @@
-Daniel Ewing,22,LAC,ewingda01,66,2.0,5.1,13.2,0.5
+Daniel Ewing,22,LAC,ewingda01,66,2,5.1,13.2,0.5,7.6

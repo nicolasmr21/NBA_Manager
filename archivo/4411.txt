@@ -1,1 +1,1 @@
-DeShawn Stevenson,28,WAS,stevede01,40,0.9,6.1,10.0,0.6
+DeShawn Stevenson,28,WAS,stevede01,40,0.9,6.1,10,0.6,3.3

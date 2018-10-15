@@ -1,1 +1,1 @@
-Antoine Wright,21,NJN,wrighan01,39,0.6,4.8,5.2,0.7
+Antoine Wright,21,NJN,wrighan01,39,0.6,4.8,5.2,0.7,0.7

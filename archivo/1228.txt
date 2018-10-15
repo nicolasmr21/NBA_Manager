@@ -1,1 +1,1 @@
-Chucky Atkins,30,LAL,atkinch01,82,1.3,3.8,20.6,0.1
+Chucky Atkins,30,LAL,atkinch01,82,1.3,3.8,20.6,0.1,13.4

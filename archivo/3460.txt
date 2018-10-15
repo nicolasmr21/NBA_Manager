@@ -1,1 +1,1 @@
-Greg Ballard,27,WSB,ballagr01,79,2.2,11.7,13.1,0.4
+Greg Ballard,27,WSB,ballagr01,79,2.2,11.7,13.1,0.4,17.9

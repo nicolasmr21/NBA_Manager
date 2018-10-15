@@ -1,1 +1,1 @@
-LeBron James,21,CLE,jamesle01,79,2.0,9.8,32.8,1.5
+LeBron James,21,CLE,jamesle01,79,2,9.8,32.8,1.5,28.1

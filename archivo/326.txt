@@ -1,1 +1,1 @@
-Mike Bantom,29,IND,bantomi01,76,1.6,9.8,14.4,2.0
+Mike Bantom,29,IND,bantomi01,76,1.6,9.8,14.4,2,14.5

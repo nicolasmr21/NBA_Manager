@@ -1,1 +1,1 @@
-Greg Buckner,30,DAL,buckngr01,76,1.8,6.9,7.6,0.4
+Greg Buckner,30,DAL,buckngr01,76,1.8,6.9,7.6,0.4,7.8

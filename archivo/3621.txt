@@ -1,1 +1,1 @@
-Ronald Murray,29,ATL,murraro01,80,2.4,5.0,14.0,0.7
+Ronald Murray,29,ATL,murraro01,80,2.4,5,14,0.7,14.7

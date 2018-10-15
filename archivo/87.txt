@@ -1,1 +1,1 @@
-Norm Richardson,22,CHI,richano01,8,0.0,6.5,2.9,0.0
+Norm Richardson,22,CHI,richano01,8,0,6.5,2.9,0,11.6

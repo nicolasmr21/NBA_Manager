@@ -1,1 +1,1 @@
-Jeff Trepagnier,23,DEN,trepaje01,8,4.3,9.6,12.2,0.0
+Jeff Trepagnier,23,DEN,trepaje01,8,4.3,9.6,12.2,0,17.5

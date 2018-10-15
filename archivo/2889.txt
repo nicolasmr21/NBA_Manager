@@ -1,1 +1,1 @@
-Chris McCray,22,MIL,mccrach01,5,0.0,0.0,0.0,0.0
+Chris McCray,22,MIL,mccrach01,5,0,0,0,0,-20.7

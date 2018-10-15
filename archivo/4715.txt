@@ -1,1 +1,1 @@
-Steve Johnson,24,KCK,johnsst03,78,1.1,14.8,7.7,3.0
+Steve Johnson,24,KCK,johnsst03,78,1.1,14.8,7.7,3,17.6

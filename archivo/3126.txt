@@ -1,1 +1,1 @@
-Norman Black,23,DET,blackno01,3,1.7,4.2,10.0,0.0
+Norman Black,23,DET,blackno01,3,1.7,4.2,10,0,1.9

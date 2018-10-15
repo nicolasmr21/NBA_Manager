@@ -1,1 +1,1 @@
-Robert Swift,22,SEA,swiftro01,8,2.5,10.0,1.4,4.4
+Robert Swift,22,SEA,swiftro01,8,2.5,10,1.4,4.4,2.9

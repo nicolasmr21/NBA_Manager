@@ -1,1 +1,1 @@
-Danny Granger,26,IND,grangda01,62,2.0,8.2,13.6,1.6
+Danny Granger,26,IND,grangda01,62,2,8.2,13.6,1.6,19.8

@@ -1,1 +1,1 @@
-Jannero Pargo,30,CHI,pargoja01,63,1.8,5.2,17.5,0.2
+Jannero Pargo,30,CHI,pargoja01,63,1.8,5.2,17.5,0.2,8.9

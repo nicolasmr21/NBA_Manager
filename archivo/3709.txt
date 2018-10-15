@@ -1,1 +1,1 @@
-Greg Oden,21,POR,odengr01,61,1.1,20.0,3.9,4.2
+Greg Oden,21,POR,odengr01,61,1.1,20,3.9,4.2,18.1

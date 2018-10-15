@@ -1,1 +1,1 @@
-Greg Ostertag,30,UTA,ostergr01,78,0.8,16.7,9.8,5.5
+Greg Ostertag,30,UTA,ostergr01,78,0.8,16.7,9.8,5.5,14.3

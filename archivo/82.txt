@@ -1,1 +1,1 @@
-Kenny Carr,25,CLE,carrke01,81,1.4,17.6,10.2,0.9
+Kenny Carr,25,CLE,carrke01,81,1.4,17.6,10.2,0.9,17

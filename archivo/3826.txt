@@ -1,1 +1,1 @@
-Darrell Griffith,23,UTA,griffda01,80,1.7,6.3,10.8,0.7
+Darrell Griffith,23,UTA,griffda01,80,1.7,6.3,10.8,0.7,15.8

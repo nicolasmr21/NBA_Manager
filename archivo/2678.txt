@@ -1,1 +1,1 @@
-Tony Allen,25,BOS,allento01,33,3.2,9.2,12.5,1.2
+Tony Allen,25,BOS,allento01,33,3.2,9.2,12.5,1.2,17

@@ -1,1 +1,1 @@
-Malik Allen,26,MIA,allenma01,14,0.9,12.2,7.0,3.3
+Malik Allen,26,MIA,allenma01,14,0.9,12.2,7,3.3,13.6

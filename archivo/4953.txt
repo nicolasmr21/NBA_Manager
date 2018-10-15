@@ -1,1 +1,1 @@
-Dominic McGuire,25,CHA,mcguido01,52,0.7,15.9,9.0,3.5
+Dominic McGuire,25,CHA,mcguido01,52,0.7,15.9,9,3.5,10.4

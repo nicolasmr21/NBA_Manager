@@ -1,1 +1,1 @@
-Vladimir Radmanovic,29,CHA,radmavl01,8,1.2,13.1,8.6,0.6
+Vladimir Radmanovic,29,CHA,radmavl01,8,1.2,13.1,8.6,0.6,8

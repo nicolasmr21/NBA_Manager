@@ -1,1 +1,1 @@
-Alonzo Gee,22,WAS,geeal01,11,2.0,10.4,6.4,0.4
+Alonzo Gee,22,WAS,geeal01,11,2,10.4,6.4,0.4,16.2

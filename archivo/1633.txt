@@ -1,1 +1,1 @@
-Jamal Sampson,21,CHA,sampsja01,23,0.6,21.2,3.7,3.9
+Jamal Sampson,21,CHA,sampsja01,23,0.6,21.2,3.7,3.9,11.6

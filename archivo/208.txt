@@ -1,1 +1,1 @@
-Aaron McKie,30,PHI,mckieaa01,80,2.9,8.7,18.6,0.3
+Aaron McKie,30,PHI,mckieaa01,80,2.9,8.7,18.6,0.3,13.7

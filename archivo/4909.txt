@@ -1,1 +1,1 @@
-Quentin Richardson,30,ORL,richaqu01,57,1.4,10.9,6.1,0.4
+Quentin Richardson,30,ORL,richaqu01,57,1.4,10.9,6.1,0.4,8.1

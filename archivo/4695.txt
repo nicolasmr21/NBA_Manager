@@ -1,1 +1,1 @@
-Darren Collison,23,IND,collida01,79,1.9,5.3,28.9,0.4
+Darren Collison,23,IND,collida01,79,1.9,5.3,28.9,0.4,15.6

@@ -1,1 +1,1 @@
-Elton Brand,25,LAC,brandel01,81,1.1,15.4,13.3,4.3
+Elton Brand,25,LAC,brandel01,81,1.1,15.4,13.3,4.3,22.4

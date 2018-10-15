@@ -1,1 +1,1 @@
-Andrew DeClercq,29,ORL,declean01,77,1.5,14.6,6.2,2.0
+Andrew DeClercq,29,ORL,declean01,77,1.5,14.6,6.2,2,11.3

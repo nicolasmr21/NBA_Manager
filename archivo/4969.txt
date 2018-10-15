@@ -1,1 +1,1 @@
-James Johnson,23,TOR,johnsja01,25,1.8,10.0,16.1,3.0
+James Johnson,23,TOR,johnsja01,25,1.8,10,16.1,3,13.2

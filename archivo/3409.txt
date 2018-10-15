@@ -1,1 +1,1 @@
-Von Wafer,22,DEN,wafervo01,21,1.1,6.0,7.7,0.8
+Von Wafer,22,DEN,wafervo01,21,1.1,6,7.7,0.8,-1.6

@@ -1,1 +1,1 @@
-Paul Millsap,22,UTA,millspa01,82,2.2,16.5,7.0,3.5
+Paul Millsap,22,UTA,millspa01,82,2.2,16.5,7,3.5,16.1
