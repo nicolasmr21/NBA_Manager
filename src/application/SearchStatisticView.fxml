@@ -18,7 +18,7 @@
                <children>
                   <TableView fx:id="tablePlayers" prefHeight="440.0" prefWidth="1000.0" stylesheets="@../application/application.css">
                     <columns>
-                      <TableColumn fx:id="colName" prefWidth="75.0" text="Jugador, Edad, Team, id, games, ppm, rpm, spm, bpm" />
+                      <TableColumn fx:id="colName" prefWidth="75.0" text="Jugador, Edad, Team, id, games, stl, trb, ast, blk, per" />
                     </columns>
                      <columnResizePolicy>
                         <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />

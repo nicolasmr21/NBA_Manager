@@ -58,53 +58,116 @@ public class SearchStatisticController implements Initializable {
 	    	List indices = new List<String>();
 	    	
 	    	if(comboStatistic.getValue()!=null&&comboInterval.getValue()!=null){
+	    		double a= 0;
+	    		double b= 0;
+	    		double c = 0;
 	    		
 	    		if(comboStatistic.getValue().equalsIgnoreCase("Partidos")) {
 	    			
 	    			if(comboInterval.getValue().equalsIgnoreCase("Iguales")) {
+	    				a=System.currentTimeMillis();
+	    				main.getF().searchMatchesBBS(spinnerVal.getValue());
+	    				b=System.currentTimeMillis()-a;
 	    				indices = main.getF().searchMatchesAVL(spinnerVal.getValue());
+	    				c=System.currentTimeMillis();
 	    			}else if(comboInterval.getValue().equalsIgnoreCase("Mayores")) {
+	    				a=System.currentTimeMillis();
+	    				main.getF().searchMoreMatchesBBS(spinnerVal.getValue());
+	    				b=System.currentTimeMillis()-a;
 	    				indices = main.getF().searchMoreMatchesAVL(spinnerVal.getValue());
-	    			}else {
+	    				c=System.currentTimeMillis();
+	    			}
+	    			else {
+	    				a=System.currentTimeMillis();
+	    				main.getF().searchLessMatchesBBS(spinnerVal.getValue());
+	    				b=System.currentTimeMillis()-a;
 	    				indices = main.getF().searchLessMatchesAVL(spinnerVal.getValue());
+	    				c=System.currentTimeMillis();
 	    			} 
+	    			
+	    			Alert i = new Alert(AlertType.INFORMATION);
+			        i.setContentText("Tiempo de busqueda con arbol AVL = " +c +" Con Binario de busqueda = "+b);
+			        i.setTitle("FIBA");
+					i.show();
 	    			
 	    		}else if(comboStatistic.getValue().equalsIgnoreCase("Puntos")) {
 	    			
 	    			if(comboInterval.getValue().equalsIgnoreCase("Iguales")) {
+	    				a=System.currentTimeMillis();
+	    				main.getF().searchPointsBST(spinnerVal.getValue());
+	    				b=System.currentTimeMillis()-a;
 	    				indices = main.getF().searchPointsRBT(spinnerVal.getValue());
-	    			}else if(comboInterval.getValue().equalsIgnoreCase("Mayores")) {
+	    				c=System.currentTimeMillis();	    			}
+	    			else if(comboInterval.getValue().equalsIgnoreCase("Mayores")) {
+	    				a=System.currentTimeMillis();
+	    				main.getF().searchMorePointsBST(spinnerVal.getValue());
+	    				b=System.currentTimeMillis()-a;
 	    				indices = main.getF().searchMorePointsRBT(spinnerVal.getValue());
+	    				c=System.currentTimeMillis();	
 	    			}else {
+	    				a=System.currentTimeMillis();
+	    				main.getF().searchLessPointsBST(spinnerVal.getValue());
+	    				b=System.currentTimeMillis()-a;
 	    				indices = main.getF().searchLessPointsRBT(spinnerVal.getValue());
+	    				c=System.currentTimeMillis();	
 	    			}	
+	    			
+	    			Alert i = new Alert(AlertType.INFORMATION);
+			        i.setContentText("Tiempo de busqueda con arbol RBT = " +c +" Con Binario de busqueda = "+b);
+			        i.setTitle("FIBA");
+					i.show();
 	    		}
 	    		else if(comboStatistic.getValue().equalsIgnoreCase("Rebotes")) {
 	    			
 	    			if(comboInterval.getValue().equalsIgnoreCase("Iguales")) {
+	    				b=System.currentTimeMillis()-a;
 	    				indices = main.getF().searchReboundsAVL(spinnerVal.getValue());
-	    			}else if(comboInterval.getValue().equalsIgnoreCase("Mayores")) {
+	    				c=System.currentTimeMillis();
+	    				}
+	    			else if(comboInterval.getValue().equalsIgnoreCase("Mayores")) {
+	    				b=System.currentTimeMillis()-a;
 	    				indices = main.getF().searchMoreReboundsAVL(spinnerVal.getValue());
-	    			}else {
-	    				indices = main.getF().searchLessReboundsAVL(spinnerVal.getValue());
-	    			}	
+	    				c=System.currentTimeMillis();
+	    				}else {
+	    					b=System.currentTimeMillis()-a;
+		    				indices = main.getF().searchLessReboundsAVL(spinnerVal.getValue());
+		    				c=System.currentTimeMillis();
+	    			}
+	    			
+	    			Alert i = new Alert(AlertType.INFORMATION);
+			        i.setContentText("Tiempo de busqueda con arbol AVL " +c);
+			        i.setTitle("FIBA");
+					i.show();
 	    		}
 	    		else {
 	    			if(comboInterval.getValue().equalsIgnoreCase("Iguales")) {
+	    				b=System.currentTimeMillis()-a;
 	    				indices = main.getF().searchStealsRBT(spinnerVal.getValue());
+	    				c=System.currentTimeMillis();
 	    			}else if(comboInterval.getValue().equalsIgnoreCase("Mayores")) {
+	    				b=System.currentTimeMillis()-a;
 	    				indices = main.getF().searchMoreStealsRBT(spinnerVal.getValue());
+	    				c=System.currentTimeMillis();
 	    			}else {
+	    				b=System.currentTimeMillis()-a;
 	    				indices = main.getF().searchLessStealsRBT(spinnerVal.getValue());
+	    				c=System.currentTimeMillis();
 	    			}
+	    			
+	    			Alert i = new Alert(AlertType.INFORMATION);
+			        i.setContentText("Tiempo de busqueda con arbol RBT" +c);
+			        i.setTitle("FIBA");
+					i.show();
 	    		}
 	    		
 	    		
 	    		for (int i = 0; i < indices.size(); i++) {
-					BufferedReader b = new BufferedReader(new FileReader(new File("archivo/"+indices.get(i)+".txt")));
-					data.add(b.readLine());
-					b.close();
+					BufferedReader b1 = new BufferedReader(new FileReader(new File("archivo/"+indices.get(i)+".txt")));
+					data.add(b1.readLine());
+					b1.close();
 				}
+	    		
+	    		
 	    		
 	    	}else {
 	    		Alert a = new Alert(AlertType.INFORMATION);
