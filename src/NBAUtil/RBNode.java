@@ -1,6 +1,6 @@
 package NBAUtil;
 
-public class RBNode<K, V>{
+public class RBNode<K extends Comparable <? super K>, V>{
 
 	public static final int BLACK = 0;
 	public static final int RED = 1;

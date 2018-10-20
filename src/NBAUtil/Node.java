@@ -1,6 +1,6 @@
 package NBAUtil;
 
-public class Node<K, V> {
+public class Node<K extends Comparable <? super K>, V> {
 
 	private K key;
 	private List<V> vals;
