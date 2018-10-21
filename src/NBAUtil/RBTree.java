@@ -217,6 +217,10 @@ public class RBTree<K extends Comparable <? super K>, V> {
 		else
 		{
 			node = searchCloser(k);
+			if(node == null)
+			{
+				return null;
+			}
 			if(node.getRight()!=null&&(node.getRight().getKey().compareTo(k)>0))
 			{
 				l.addList(node.getRight().getSubTree());
@@ -253,6 +257,10 @@ public class RBTree<K extends Comparable <? super K>, V> {
 		else
 		{
 			node = searchCloser(k);
+			if(node == null)
+			{
+				return null;
+			}
 			if(node.getLeft()!=null&&(node.getLeft().getKey().compareTo(k)<0))
 			{
 				l.addList(node.getLeft().getSubTree());
@@ -277,6 +285,10 @@ public class RBTree<K extends Comparable <? super K>, V> {
 	private RBNode<K, V> searchCloserRB(K key, RBNode<K, V> node)
 	{
 		RBNode<K, V> n;
+		if(node ==  null)
+		{
+			return null;
+		}
 		if(node.getKey().compareTo(key)<0)
 		{
 			n = node.getRight();

@@ -108,7 +108,8 @@ public class FIBA {
 	
 	
 	public String searchID(String id) {
-		return ""+idAVL.search(id);
+		
+		return ""+idAVL.search(id).getVal().get(0);
 	}
 	
 	

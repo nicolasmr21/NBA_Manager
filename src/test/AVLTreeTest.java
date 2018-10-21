@@ -4,15 +4,15 @@ import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-import NBAUtil.BSTree;
+import NBAUtil.AVLTree;
 import NBAUtil.Node;
 
-class BSTreeTest {
+class AVLTreeTest {
 
-	BSTree<Integer, String> tree;
+	AVLTree<Integer, String> tree;
 	
 	void scene1() {
-		tree = new BSTree<>();
+		tree = new AVLTree<>();
 		tree.insert(new Node<Integer, String>(54, "A"));
 		tree.insert(new Node<Integer, String>(43, "H"));
 		tree.insert(new Node<Integer, String>(95, "S"));
@@ -24,7 +24,7 @@ class BSTreeTest {
 	}
 	
 	void scene2() {
-		tree = new BSTree<>();
+		tree = new AVLTree<>();
 		for (int i = 0; i < 500; i++) {
 			char c = (char)i;
 			tree.insert(new Node<Integer, String>(i, ""+c));
@@ -32,24 +32,9 @@ class BSTreeTest {
 	}
 
 	void scene3() {
-		tree = new BSTree<>();
+		tree = new AVLTree<>();
 	}
-	@Test
-	void insertTest()
-	{
-		scene1();
-		tree.insert(new Node<Integer, String>(37, "O"));
-		assertEquals("O", tree.search(27).getRight().getVal().get(0));
-		
-		scene2();
-		tree.insert(new Node<Integer, String>(500, "O"));
-		assertEquals("O", tree.search(499).getRight().getVal().get(0));
-		
-		scene3();
-		tree.insert(new Node<Integer, String>(45, "K"));
-		assertEquals("K", tree.getRoot().getVal().get(0));
-	}
-	
+
 	@Test
 	void searchTest()
 	{
@@ -65,14 +50,29 @@ class BSTreeTest {
 	}
 	
 	@Test
+	void insertTest()
+	{
+		scene1();
+		tree.insert(new Node<Integer, String>(37, "O"));
+		assertEquals("O", tree.search(43).getLeft().getVal().get(0));
+		
+		scene2();
+		tree.insert(new Node<Integer, String>(500, "O"));
+		assertEquals("O", tree.search(499).getRight().getVal().get(0));
+		
+		scene3();
+		tree.insert(new Node<Integer, String>(45, "K"));
+		assertEquals("K", tree.getRoot().getVal().get(0));
+	}
+	
+	@Test
 	void getBiggerThanTest()
 	{
 		scene1();
 		assertEquals(5, tree.getBiggerThan(27).size());
 		
 		scene2();
-		char c = (char)76;
-		assertEquals(""+c, tree.getBiggerThan(75).get(0));
+		assertEquals(424, tree.getBiggerThan(75).size());
 		
 		scene3();
 		assertNull(tree.getBiggerThan(4));
@@ -85,8 +85,7 @@ class BSTreeTest {
 		assertEquals(6, tree.getLessThan(72).size());
 		
 		scene2();
-		char c = (char)74;
-		assertEquals(""+c, tree.getLessThan(75).get(0));
+		assertEquals(75, tree.getLessThan(75).size());
 		
 		scene3();
 		assertNull(tree.getLessThan(4));

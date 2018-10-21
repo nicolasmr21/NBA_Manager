@@ -1,9 +1,13 @@
 package controller;
 
 import java.awt.Paint;
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileReader;
 import java.io.IOException;
 import java.net.URL;
 import java.rmi.server.LoaderHandler;
+import java.util.Optional;
 import java.util.ResourceBundle;
 import java.util.logging.Logger;
 
@@ -16,7 +20,10 @@ import javafx.fxml.Initializable;
 import javafx.scene.Node;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
+import javafx.scene.control.Alert;
 import javafx.scene.control.Button;
+import javafx.scene.control.TextInputDialog;
+import javafx.scene.control.Alert.AlertType;
 import javafx.scene.input.MouseEvent;
 import javafx.scene.layout.AnchorPane;
 import javafx.scene.layout.BorderPane;
@@ -108,7 +115,33 @@ public class MainController implements Initializable {
 	        search.init(this);
 	    	borderPane.setCenter(p);
 	    	
-	    }
+	    	TextInputDialog dialog = new TextInputDialog("walter");
+			dialog.setTitle("Text Input Dialog");
+			dialog.setHeaderText("Look, a Text Input Dialog");
+			dialog.setContentText("Please enter your name:");
+
+			// Traditional way to get the response value.
+			Optional<String> result = dialog.showAndWait();
+			if (result.isPresent()){	
+			String s = getF().searchID(result.get());
+			BufferedReader b1 = new BufferedReader(new FileReader(new File("archivo/"+s+".txt")));
+			search.getTxtID().setText(result.get());
+			search.getTxtInfo().setText(b1.readLine());
+			b1.close();
+			
+			}else {	    	
+			    	removeCenter();
+			    	
+			    	Alert a = new Alert(AlertType.INFORMATION);
+			        a.setContentText("No existe un jugador con tal id");
+			        a.setTitle("FIBA");
+					a.show();
+			}	
+					
+			    }
+			    
+	    	
+	    
 
 	    @FXML
 	    void searchStatistic(ActionEvent event) throws IOException {
@@ -164,7 +197,7 @@ public class MainController implements Initializable {
 			r.setByAngle(angle);
 			r.setDelay(Duration.seconds(0));
 			r.setRate(5);
-			r.setCycleCount(18);
+			r.setCycleCount(100);
 			r.play();
 			
 		}

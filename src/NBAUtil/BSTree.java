@@ -59,6 +59,10 @@ public class BSTree<K extends Comparable <? super K>, V> implements IBinaryTree<
 	public Node<K, V> search(K k)
 	{
 		Node<K, V> aux = root;
+		if(aux==null)
+		{
+			return null;
+		}
 		while(aux.getKey().compareTo(k)!=0)
 		{
 			if(k.compareTo(aux.getKey())<0)
@@ -92,6 +96,10 @@ public class BSTree<K extends Comparable <? super K>, V> implements IBinaryTree<
 		else
 		{
 			node = searchCloser(k);
+			if(node == null)
+			{
+				return null;
+			}
 			if(node.getRight()!=null&&(node.getRight().getKey().compareTo(k)>0))
 			{
 				l.addList(node.getRight().getSubTree());
@@ -128,6 +136,10 @@ public class BSTree<K extends Comparable <? super K>, V> implements IBinaryTree<
 		else
 		{
 			node = searchCloser(k);
+			if(node == null)
+			{
+				return null;
+			}
 			if(node.getLeft()!=null&&(node.getLeft().getKey().compareTo(k)<0))
 			{
 				l.addList(node.getLeft().getSubTree());
@@ -149,9 +161,13 @@ public class BSTree<K extends Comparable <? super K>, V> implements IBinaryTree<
 		return l;
 	}
 	
-	private Node<K, V> searchCloserAVL(K key, Node<K, V> node)
+	private Node<K, V> searchCloserBST(K key, Node<K, V> node)
 	{
 		Node<K, V> n;
+		if(node==null)
+		{
+			return null;
+		}
 		if(node.getKey().compareTo(key)<0)
 		{
 			n = node.getRight();
@@ -166,13 +182,13 @@ public class BSTree<K extends Comparable <? super K>, V> implements IBinaryTree<
 		}
 		else
 		{
-			return searchCloserAVL(key, n);
+			return searchCloserBST(key, n);
 		}
 		
 	}
 	
 	public Node<K, V> searchCloser(K key)
 	{
-		return searchCloserAVL(key, root);
+		return searchCloserBST(key, root);
 	}
 }

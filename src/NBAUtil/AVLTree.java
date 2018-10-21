@@ -201,6 +201,10 @@ public class AVLTree<K extends Comparable <? super K>, V> implements IBinaryTree
 		else
 		{
 			node = searchCloser(k);
+			if(node == null)
+			{
+				return null;
+			}
 			if(node.getRight()!=null&&(node.getRight().getKey().compareTo(k)>0))
 			{
 				l.addList(node.getRight().getSubTree());
@@ -237,6 +241,10 @@ public class AVLTree<K extends Comparable <? super K>, V> implements IBinaryTree
 		else
 		{
 			node = searchCloser(k);
+			if(node == null)
+			{
+				return null;
+			}
 			if(node.getLeft()!=null&&(node.getLeft().getKey().compareTo(k)<0))
 			{
 				l.addList(node.getLeft().getSubTree());
@@ -261,6 +269,10 @@ public class AVLTree<K extends Comparable <? super K>, V> implements IBinaryTree
 	private Node<K, V> searchCloserAVL(K key, Node<K, V> node)
 	{
 		Node<K, V> n;
+		if(node==null)
+		{
+			return null;
+		}
 		if(node.getKey().compareTo(key)<0)
 		{
 			n = node.getRight();
