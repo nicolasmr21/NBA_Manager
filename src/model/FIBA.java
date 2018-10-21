@@ -16,7 +16,7 @@ import NBAUtil.RBTree;
 
 public class FIBA {
 
-	//ESTATISTICS
+	//STATISTICS
 	
 	private AVLTree<Integer, String> matchesAVL;
 	private BSTree<Integer, String> matchesBST;
@@ -108,7 +108,7 @@ public class FIBA {
 	
 	
 	public String searchID(String id) {
-		return ""+idAVL.search(id).getFe();
+		return ""+idAVL.search(id);
 	}
 	
 	
