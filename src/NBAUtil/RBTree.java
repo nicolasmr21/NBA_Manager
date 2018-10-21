@@ -1,6 +1,6 @@
 package NBAUtil;
 
-public class RBTree<K, V> {
+public class RBTree<K extends Comparable <? super K>, V> {
 
 	private RBNode<K, V> root;
 	
@@ -22,13 +22,11 @@ public class RBTree<K, V> {
 	{
 		if(node!=null)
 		{
-			int d = key.hashCode();
-			int s = node.getKey().hashCode();
-			if(s==d)
+			if(node.getKey().compareTo(key)==0)
 			{
 				return node;
 			}
-			else if(s<d)
+			else if(node.getKey().compareTo(key)<0)
 			{
 				return searchRB(key, node.getRight());
 			}
@@ -57,7 +55,7 @@ public class RBTree<K, V> {
 			while(true)
 			{
 				dad = aux;
-				if(node.getKey().hashCode()<aux.getKey().hashCode())
+				if(node.getKey().compareTo(aux.getKey())<0)
 				{
 					aux = aux.getLeft();
 					if(aux==null)
@@ -72,7 +70,7 @@ public class RBTree<K, V> {
 						return;
 					}
 				}
-				else if(node.getKey().hashCode()>aux.getKey().hashCode())
+				else if(node.getKey().compareTo(aux.getKey())>0)
 				{
 					aux = aux.getRight();
 					if(aux==null)
@@ -219,7 +217,7 @@ public class RBTree<K, V> {
 		else
 		{
 			node = searchCloser(k);
-			if(node.getRight()!=null&&(node.getRight().getKey().hashCode()>k.hashCode()))
+			if(node.getRight()!=null&&(node.getRight().getKey().compareTo(k)>0))
 			{
 				l.addList(node.getRight().getSubTree());
 			}
@@ -227,7 +225,7 @@ public class RBTree<K, V> {
 		
 		while(node!=null)
 		{
-			if(node.getKey().hashCode()>k.hashCode())
+			if(node.getKey().compareTo(k)>0)
 			{
 				l.addList(node.getVal());
 				if(node.getRight()!=null)
@@ -255,7 +253,7 @@ public class RBTree<K, V> {
 		else
 		{
 			node = searchCloser(k);
-			if(node.getLeft()!=null&&(node.getLeft().getKey().hashCode()<k.hashCode()))
+			if(node.getLeft()!=null&&(node.getLeft().getKey().compareTo(k)<0))
 			{
 				l.addList(node.getLeft().getSubTree());
 			}
@@ -263,7 +261,7 @@ public class RBTree<K, V> {
 		
 		while(node!=null)
 		{
-			if(node.getKey().hashCode()<k.hashCode())
+			if(node.getKey().compareTo(k)<0)
 			{
 				l.addList(node.getVal());
 				if(node.getLeft()!=null)
@@ -279,7 +277,7 @@ public class RBTree<K, V> {
 	private RBNode<K, V> searchCloserRB(K key, RBNode<K, V> node)
 	{
 		RBNode<K, V> n;
-		if(node.getKey().hashCode()<key.hashCode())
+		if(node.getKey().compareTo(key)<0)
 		{
 			n = node.getRight();
 		}

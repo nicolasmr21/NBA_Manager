@@ -1,6 +1,6 @@
 package NBAUtil;
 
-public class BSTree<K, V> implements IBinaryTree<K, V>{
+public class BSTree<K extends Comparable <? super K>, V> implements IBinaryTree<K, V>{
 
 	Node<K, V> root;
 	
@@ -27,7 +27,7 @@ public class BSTree<K, V> implements IBinaryTree<K, V>{
 			while(true)
 			{
 				dad = aux;
-				if(node.getKey().hashCode()<aux.getKey().hashCode())
+				if(node.getKey().compareTo(aux.getKey())<0)
 				{
 					aux = aux.getLeft();
 					if(aux==null)
@@ -37,7 +37,7 @@ public class BSTree<K, V> implements IBinaryTree<K, V>{
 						return;
 					}
 				}
-				else if(node.getKey().hashCode()>aux.getKey().hashCode())
+				else if(node.getKey().compareTo(aux.getKey())>0)
 				{
 					aux = aux.getRight();
 					if(aux==null)
@@ -59,9 +59,9 @@ public class BSTree<K, V> implements IBinaryTree<K, V>{
 	public Node<K, V> search(K k)
 	{
 		Node<K, V> aux = root;
-		while(aux.getKey().hashCode()!=k.hashCode())
+		while(aux.getKey().compareTo(k)!=0)
 		{
-			if(k.hashCode()<aux.getKey().hashCode())
+			if(k.compareTo(aux.getKey())<0)
 			{
 				aux = aux.getLeft();
 			}
@@ -92,7 +92,7 @@ public class BSTree<K, V> implements IBinaryTree<K, V>{
 		else
 		{
 			node = searchCloser(k);
-			if(node.getRight()!=null&&(node.getRight().getKey().hashCode()>k.hashCode()))
+			if(node.getRight()!=null&&(node.getRight().getKey().compareTo(k)>0))
 			{
 				l.addList(node.getRight().getSubTree());
 			}
@@ -100,7 +100,7 @@ public class BSTree<K, V> implements IBinaryTree<K, V>{
 		
 		while(node!=null)
 		{
-			if(node.getKey().hashCode()>k.hashCode())
+			if(node.getKey().compareTo(k)>0)
 			{
 				l.addList(node.getVal());
 				if(node.getRight()!=null)
@@ -128,7 +128,7 @@ public class BSTree<K, V> implements IBinaryTree<K, V>{
 		else
 		{
 			node = searchCloser(k);
-			if(node.getLeft()!=null&&(node.getLeft().getKey().hashCode()<k.hashCode()))
+			if(node.getLeft()!=null&&(node.getLeft().getKey().compareTo(k)<0))
 			{
 				l.addList(node.getLeft().getSubTree());
 			}
@@ -136,7 +136,7 @@ public class BSTree<K, V> implements IBinaryTree<K, V>{
 		
 		while(node!=null)
 		{
-			if(node.getKey().hashCode()<k.hashCode())
+			if(node.getKey().compareTo(k)<0)
 			{
 				l.addList(node.getVal());
 				if(node.getLeft()!=null)
@@ -152,7 +152,7 @@ public class BSTree<K, V> implements IBinaryTree<K, V>{
 	private Node<K, V> searchCloserAVL(K key, Node<K, V> node)
 	{
 		Node<K, V> n;
-		if(node.getKey().hashCode()<key.hashCode())
+		if(node.getKey().compareTo(key)<0)
 		{
 			n = node.getRight();
 		}

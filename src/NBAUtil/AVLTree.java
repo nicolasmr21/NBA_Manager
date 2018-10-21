@@ -1,6 +1,6 @@
 package NBAUtil;
 
-public class AVLTree<K, V> implements IBinaryTree<K, V>{
+public class AVLTree<K extends Comparable <? super K>, V> implements IBinaryTree<K, V>{
 
 	
 	private Node<K, V> root;
@@ -24,13 +24,11 @@ public class AVLTree<K, V> implements IBinaryTree<K, V>{
 	{
 		if(node!=null)
 		{
-			int d = key.hashCode();
-			int s = node.getKey().hashCode();
-			if(s==d)
+			if(node.getKey().compareTo(key)==0)
 			{
 				return node;
 			}
-			else if(s<d)
+			else if(node.getKey().compareTo(key)<0)
 			{
 				return searchAVL(key, node.getRight());
 			}
@@ -108,7 +106,7 @@ public class AVLTree<K, V> implements IBinaryTree<K, V>{
 	private Node<K, V> insertAVL(Node<K, V> novo, Node<K, V> sub)
 	{
 		Node<K, V> dad = sub;
-		if(novo.getKey().hashCode()<sub.getKey().hashCode())
+		if(novo.getKey().compareTo(sub.getKey())<0)
 		{
 			if(sub.getLeft()==null)
 			{
@@ -121,7 +119,7 @@ public class AVLTree<K, V> implements IBinaryTree<K, V>{
 				sub.getLeft().setDad(dad);
 				if(getFe(sub.getLeft())-getFe(sub.getRight())==2)
 				{
-					if(novo.getKey().hashCode()<sub.getLeft().getKey().hashCode())
+					if(novo.getKey().compareTo(sub.getLeft().getKey())<0)
 					{
 						dad = leftRotation(sub);
 					}
@@ -133,7 +131,7 @@ public class AVLTree<K, V> implements IBinaryTree<K, V>{
 			}
 			
 		}
-		else if(novo.getKey().hashCode()>sub.getKey().hashCode())
+		else if(novo.getKey().compareTo(sub.getKey())>0)
 		{
 			if(sub.getRight()==null)
 			{
@@ -147,7 +145,7 @@ public class AVLTree<K, V> implements IBinaryTree<K, V>{
 			}
 			if(getFe(sub.getRight())-getFe(sub.getLeft())==2)
 			{
-				if(novo.getKey().hashCode()>sub.getRight().getKey().hashCode())
+				if(novo.getKey().compareTo(sub.getRight().getKey())>0)
 				{
 					dad = rightRotation(sub);
 				}
@@ -203,7 +201,7 @@ public class AVLTree<K, V> implements IBinaryTree<K, V>{
 		else
 		{
 			node = searchCloser(k);
-			if(node.getRight()!=null&&(node.getRight().getKey().hashCode()>k.hashCode()))
+			if(node.getRight()!=null&&(node.getRight().getKey().compareTo(k)>0))
 			{
 				l.addList(node.getRight().getSubTree());
 			}
@@ -211,7 +209,7 @@ public class AVLTree<K, V> implements IBinaryTree<K, V>{
 		
 		while(node!=null)
 		{
-			if(node.getKey().hashCode()>k.hashCode())
+			if(node.getKey().compareTo(k)>0)
 			{
 				l.addList(node.getVal());
 				if(node.getRight()!=null)
@@ -239,7 +237,7 @@ public class AVLTree<K, V> implements IBinaryTree<K, V>{
 		else
 		{
 			node = searchCloser(k);
-			if(node.getLeft()!=null&&(node.getLeft().getKey().hashCode()<k.hashCode()))
+			if(node.getLeft()!=null&&(node.getLeft().getKey().compareTo(k)<0))
 			{
 				l.addList(node.getLeft().getSubTree());
 			}
@@ -247,7 +245,7 @@ public class AVLTree<K, V> implements IBinaryTree<K, V>{
 		
 		while(node!=null)
 		{
-			if(node.getKey().hashCode()<k.hashCode())
+			if(node.getKey().compareTo(k)<0)
 			{
 				l.addList(node.getVal());
 				if(node.getLeft()!=null)
@@ -263,7 +261,7 @@ public class AVLTree<K, V> implements IBinaryTree<K, V>{
 	private Node<K, V> searchCloserAVL(K key, Node<K, V> node)
 	{
 		Node<K, V> n;
-		if(node.getKey().hashCode()<key.hashCode())
+		if(node.getKey().compareTo(key)<0)
 		{
 			n = node.getRight();
 		}
