@@ -19,6 +19,8 @@ public class ManagePlayerController implements Initializable{
 	
 	MainController main;
 	
+	@FXML
+	private AddPlayerController add;
 	
     @FXML
     private Circle c1;
@@ -57,10 +59,14 @@ public class ManagePlayerController implements Initializable{
 
     @FXML
     void addPlayer(ActionEvent event) throws IOException {
-		Parent root;
-    	root = FXMLLoader.load(getClass().getResource("/application/AddPlayerView.fxml"));
-    	borderPane.setCenter(root);
-    	setRotate(c4, true, 360, 10);
+		
+    	FXMLLoader loader = new FXMLLoader();
+        loader.setLocation(getClass().getResource("/application/AddPlayerView.fxml"));
+        Parent p = loader.load();
+        //access the controller and call a method
+        add = loader.getController();
+        add.init(main);
+    	borderPane.setCenter(p);
     }
 	
 	@Override

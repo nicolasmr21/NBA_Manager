@@ -186,7 +186,15 @@ public class MainController implements Initializable {
 			btnSearchStatistic.setFocusTraversable(false);
 			
 			f = new FIBA();
+			f.uploadPlayers("archivo/dataset.txt");
+
 			
+		}
+		
+		
+		public void reiniciar(String archivo) {
+			f = new FIBA();
+			f.uploadPlayers(archivo);
 		}
 		
 		public void setRotate(Circle c, boolean reverse, int angle, int d) {

@@ -18,6 +18,8 @@ public class FIBA {
 
 	//STATISTICS
 	
+	private int size;
+	
 	private AVLTree<Integer, String> matchesAVL;
 	private BSTree<Integer, String> matchesBST;
 	
@@ -32,7 +34,7 @@ public class FIBA {
 	
 	private AVLTree<String, String> idAVL;
 
-
+	private boolean isLoading;
 	
 	public FIBA()
 	{
@@ -43,7 +45,7 @@ public class FIBA {
 		reboundsAVL = new AVLTree<>();
 		stealsRBT = new RBTree<>();
 		idAVL = new AVLTree<>();
-		uploadPlayers("archivo/dataset.txt");
+		isLoading = false;
 	}
 	
 	/**
@@ -52,7 +54,8 @@ public class FIBA {
 	 */
 	
 	
-	private void uploadPlayers(String path) {
+	public void uploadPlayers(String path) {
+		
 		File file = new File (path);		
 		try {
 			FileReader reader = new FileReader(file); 
@@ -64,12 +67,8 @@ public class FIBA {
 			int x = 1;
 			while((line = br.readLine()) != null){
 				s = line.split(",");
-//				Player p = new Player(s[0], Integer.parseInt(s[1]), 
-//						s[2], s[3], 
-//						Integer.parseInt(s[4]), Double.parseDouble(s[5]), Double.parseDouble(s[6]),
-//						Double.parseDouble(s[7]), Double.parseDouble(s[8]));
-				
-				
+	
+				size++;
 				idAVL.insert(new Node<String, String>(s[3], ""+x));
 
 				matchesBST.insert(new Node<Integer, String>(Integer.parseInt(s[4]), ""+x));
@@ -84,7 +83,7 @@ public class FIBA {
 	            File f = new File(path2);
 
 	            // If file doesn't exists, then create it
-	            if (!file.exists()) {
+	            if (!f.exists()) {
 	                file.createNewFile();
 	            }
 	            FileWriter fw = new FileWriter(f.getAbsoluteFile());
@@ -96,14 +95,50 @@ public class FIBA {
 	            // Close connection
 	            bw.close();
 	            x++;
+	            
+
 			}
-			
+    		isLoading = false;
+
 			br.close();
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
 		}catch(IOException e){
 			e.printStackTrace();
 		}
+	}
+	
+	public void addPlayer(String name, String age, String team, String id,
+			int mp, double ppm, double trb, double stl, double blk) throws IOException {
+		
+		int x = size;
+		idAVL.insert(new Node<String, String>(id, ""+x));
+
+		matchesBST.insert(new Node<Integer, String>(mp, ""+x));
+		matchesAVL.insert(new Node<Integer, String>(mp, ""+x));
+		pointsBST.insert(new Node<Double, String>(ppm, ""+x)); 
+		pointsRBT.insertRB(new RBNode<Double, String>(ppm, ""+x)); 
+		reboundsAVL.insert(new Node<Double, String>(blk, ""+x));
+		stealsRBT.insertRB(new RBNode<Double, String>(stl, ""+x)); 
+	
+		
+		String path2="archivo/"+x+".txt";
+        File f = new File(path2);
+
+        // If file doesn't exists, then create it
+        if (!f.exists()) {
+            f.createNewFile();
+        }
+        FileWriter fw = new FileWriter(f.getAbsoluteFile());
+        BufferedWriter bw = new BufferedWriter(fw);
+
+        System.out.println(name);
+        // Write in file
+        bw.write(name+","+age+","+team+","+id+","+mp+","+stl+","+trb+","+0+","+blk+","+ppm);
+
+        
+        bw.close(); 
+        size++;
 	}
 	
 	
@@ -207,5 +242,15 @@ public class FIBA {
 	{
 		return stealsRBT.getLessThan(steals);
 	}
+
+	public boolean isLoading() {
+		return isLoading;
+	}
+
+	public void setLoading(boolean isLoading) {
+		this.isLoading = isLoading;
+	}
+	
+	
 	
 }

@@ -6,16 +6,13 @@
 <?import javafx.scene.layout.StackPane?>
 <?import javafx.scene.shape.Circle?>
 
-
 <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="560.0" prefWidth="980.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.ManagePlayerController">
    <children>
       <BorderPane fx:id="borderPane" prefHeight="568.0" prefWidth="986.0">
          <top>
             <AnchorPane prefHeight="99.0" prefWidth="986.0" BorderPane.alignment="CENTER">
                <children>
-                  <Button fx:id="btnPlayer" layoutX="78.0" layoutY="22.0" mnemonicParsing="false" onAction="#addPlayer" prefHeight="56.0" prefWidth="165.0" stylesheets="@application.css" text="Agregar jugador" />
-                  <Button fx:id="btnModify" layoutX="394.0" layoutY="22.0" mnemonicParsing="false" onAction="#ModifyPlayer" prefHeight="56.0" prefWidth="165.0" stylesheets="@application.css" text="Modificar jugador" />
-                  <Button fx:id="btnRemove" layoutX="721.0" layoutY="22.0" mnemonicParsing="false" onAction="#RemovePlayer" prefHeight="56.0" prefWidth="165.0" stylesheets="@application.css" text="Eliminar jugador" />
+                  <Button fx:id="btnPlayer" layoutX="411.0" layoutY="22.0" mnemonicParsing="false" onAction="#addPlayer" prefHeight="56.0" prefWidth="165.0" stylesheets="@application.css" text="Agregar jugador" />
                </children>
             </AnchorPane>
          </top>
