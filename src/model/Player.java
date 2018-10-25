@@ -10,6 +10,9 @@ public class Player {
 	private int mp;
 	private double ppm, rpm, spm, bpm;
 
+	
+	//BUILDER
+	
 	public Player(String name, int age, String team, String id, int mp, double spm, double rpm, 
 			double bpm, double ppm) {
 		super();
@@ -25,7 +28,7 @@ public class Player {
 	}
 
 	
-	
+	//METHODS
 	
 	public String getName() {
 		return name;
