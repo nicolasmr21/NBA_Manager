@@ -1,6 +1,8 @@
 package model;
 
 public class Player {
+
+	//ATTRIBUTES
 	
 	private String name;
 	private int age;
